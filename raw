@@ -4,7 +4,7 @@
       "key": "LEKBOX",
       "name": "LEKBOX",
       "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml"
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml"
     },
     {
       "key": "MBO",
@@ -19,10 +19,10 @@
       "api": "https://m3u8.xiangkanapi.com/provide/vod/at/xml"
     },
     {
-      "key": "UNSS",
-      "name": "UNSS",
+      "key": "北斗",
+      "name": "北斗",
       "type": 0,
-      "api": "http://www.unss.net/api.php/provide/vod/at/xml"
+      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "电影牛",
