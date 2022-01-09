@@ -4,13 +4,13 @@
       "key": "LEKBOX",
       "name": "LEKBOX",
       "type": 0,
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml"
+      "api": "http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml/"
     },
     {
-      "key": "MBO",
-      "name": "MBO",
+      "key": "播放",
+      "name": "播放",
       "type": 0,
-      "api": "http://mbomovie.com/api.php/provide/vod/at/xml"
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "想看",
