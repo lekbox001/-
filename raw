@@ -7,10 +7,10 @@
       "api": "https://www.bofangya.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "神马",
-      "name": "神马",
+      "key": "天空",
+      "name": "天空",
       "type": 0,
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml"
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/"
     },
     {
       "key": "想看",
