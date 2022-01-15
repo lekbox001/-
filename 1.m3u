@@ -37,7 +37,11 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf7e056482684fd863115f66a670787b.jpeg",千里不留行
 https://auete.top/datas/mov/wlp/qianlibuliuxing.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e255db31ca3f807dab45aa6787660a92.jpeg",36号护卫车
-https://alicdn.maccms.cool/20211030/IFrLtbJC/hls/index.m3u8
+https://cdn.zoubuting.com/20210629/z23edSLS/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f5a127760853fc9b94a2bf6ab052b839.jpeg",沿路而下
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/27682/a873e489-d730-4e42-b9e1-2ea6f8c9150a/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2a51c849cd4d42bdbb6b1ed9a547f181.jpeg",13分钟
+https://pps.sd-play.com/20211216/6yvBRaIL/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc3d14069ba3b45d1de315138d56249b.jpeg",拆弹专家1
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/2006/ec3d1558-d6f0-4860-92dc-36fd3b527e54/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e0a8ae3844164b167be18a714a82f7c0.jpeg",拆弹专家2
@@ -136,6 +140,12 @@ https://new.iskcd.com/20211015/E86nYmcM/index.m3u8
 https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6f51c743cabadcb9d27201cabe5d3313.jpeg",帕尔默
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/19522/4c8d703c-2fad-475c-a2e1-0dbc6d502b08/SD/playlist.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9e3d9828ed870d11b1379d45a4f94854.jpeg",发掘
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22325/69043bd5-7d47-406f-8e62-241dba616fa4/SD/playlist.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7ec8d0c4a29bd2285b468932fbbf47d0.jpeg",麦克白的悲剧
+https://ukzy.ukubf2.com/20220114/slapHxIY/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9f033742ceb9c623a1f51f70ab638863.jpeg",血观音
 https://auete.top/datas/mov/xueguanyin.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/acea42e732260414ef581ff7fb5dea8d.jpeg",呼朋引伴
@@ -158,6 +168,10 @@ https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f8d571bc99e4cd078af5c713e3c895c8.jpeg",棕榈泉
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/20101/663c56a1-f0c6-4f6c-b99a-47a75a220851/SD/playlist.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/908e0ccd396eb2fec92848265c4dd1ee.jpeg",女生要革命
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/30074/aa485231-6be1-48f2-b3ec-a1fe791f777a/SD/playlist.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/04fa139ed02a1a34406e176ed929346f.jpeg",总是有爱在隔离
 https://auete.top/datas/mov/zongshiyouaizaigeliyy.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7d44757e940310f6346d8ee4d3379e04.jpeg",万物生灵
