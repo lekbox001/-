@@ -7,10 +7,10 @@
       "api": "https://www.bofangya.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "天空",
-      "name": "天空",
+      "key": "闪电",
+      "name": "闪电",
       "type": 0,
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/"
+      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "想看",
@@ -50,10 +50,11 @@
       "api": "http://api.bdyunzy.com/api.php/provide/vod/at/xml/"
     },
     {
-      "key": "速影",
-      "name": "速影",
+      "key": "饭团",
+      "name": "饭团",
       "type": 0,
-      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php"
+      "api": "http://television.wkfile.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.7kjx.com/?url="
     },
     {
       "key": "独播",
@@ -89,12 +90,12 @@
   ],
   "parses": [
     {
-      "name": "VIP解析",
-      "url": "https://jx.renrenmi.cc/?url="
-    },
-    {
       "name": "VIP",
       "url": "https://jx.7kjx.com/?url="
+    },
+    {
+      "name": "人人",
+      "url": "https://jx.renrenmi.cc/?url="
     },
     {
       "name": "追剧达人",
