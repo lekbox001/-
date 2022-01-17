@@ -34,6 +34,8 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/adc831ab88ce996009a36cc2f9e182be.jpeg",反飙车行动
+https://cdn2.bzjupinhang.com:65/20210724/r6nDHyar/1470kb/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf7e056482684fd863115f66a670787b.jpeg",千里不留行
 https://auete.top/datas/mov/wlp/qianlibuliuxing.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e255db31ca3f807dab45aa6787660a92.jpeg",36号护卫车
@@ -296,6 +298,10 @@ https://auete.top/datas/mov/jishengyixing.m3u8
 https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://auete.top/datas/mov/conglinqihang.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2e71fbbf8fbda6217a66a8b5e32b607c.jpeg",日月人鱼
+https://cdn2.bzjupinhang.com:65/20220116/r0UDCJ81/2292kb/hls/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9f185a75ae8eb7ff10171daa3987e050.jpeg",精灵旅社4
+https://qq.sd-play.com/20220115/wiQBcTh1/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b1822dea63de00760595cc18b894681d.jpeg",新洗冤录
 https://vod11.bdzybf.com/20220107/S6wq4F5N/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28da51f416fd0bfdd4254d9a0acb1dc0.jpeg",哈利·波特20周年
@@ -332,6 +338,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/540bc17c2d9f5fc52c1f4df0a88fe96c.jpeg",波丽莱多里的鬼魂
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/19630/334aa587-d40c-45ba-9659-b7f715c4e3d6/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39d34d00a40d9bf412594973b5abfd06.jpeg",致命感应
 https://auete.top/datas/mov/zhimingganying.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/df4c900a3388bb6a233248be8b735ee7.jpeg",电锯惊魂9
