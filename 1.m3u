@@ -34,6 +34,8 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/46736b0c89234f4c612f9f86bee6a29c.jpeg",警察局
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/23481/eed48aa8-8e3b-4daa-8f46-184a0fc7572b/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/adc831ab88ce996009a36cc2f9e182be.jpeg",反飙车行动
 https://cdn2.bzjupinhang.com:65/20210724/r6nDHyar/1470kb/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf7e056482684fd863115f66a670787b.jpeg",千里不留行
@@ -142,6 +144,14 @@ https://new.iskcd.com/20211015/E86nYmcM/index.m3u8
 https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/584deeb4cbe2959c5ed8b8e207c522dc.jpeg",罪人2021
+https://ukzy.ukubf2.com/20211109/Z2cYuRTk/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9749fd09d9a9d07e376a79aa823e4625.jpeg",哭泣的男人
+https://v7.dious.cc/20210925/EhRRV8Db/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b28d7d21740643564419f85f0a900225.jpeg",犬之力
+https://auete.top/datas/mov/quanzhili.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/65daf827b7b788b64f228c52d5629aa5.jpeg",不可饶恕2021
+https://v12.tkzyapi.com/20211210/6ngrGBlj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6f51c743cabadcb9d27201cabe5d3313.jpeg",帕尔默
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/19522/4c8d703c-2fad-475c-a2e1-0dbc6d502b08/SD/playlist.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9e3d9828ed870d11b1379d45a4f94854.jpeg",发掘
@@ -340,6 +350,12 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0dfd790f3c193b5dc2c796f43f8517b7.jpeg",内特拉姆
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/7c2f0e5f-bf71-49fc-99e3-02d8a9207593/30836/80c5fb3c-b956-46fb-948a-9988a75084c4/SD/playlist.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/49c5e4315d21a2a5e63a8e2d58f26ccc.jpeg",六十一号的恐怖
+https://v11.tkzyapi.com/20211221/s46ZFhVv/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/59d27d2304213f3fc521f8a8b1e55692.jpeg",密室逃生2
+https://auete.top/datas/mov/mishitaosheng2.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/540bc17c2d9f5fc52c1f4df0a88fe96c.jpeg",波丽莱多里的鬼魂
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/19630/334aa587-d40c-45ba-9659-b7f715c4e3d6/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39d34d00a40d9bf412594973b5abfd06.jpeg",致命感应
@@ -486,6 +502,10 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49b
 https://ukzy.ukubf2.com/20211208/BHAvYegZ/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22376/a36103c3-47d3-439f-b911-7b519daff23b/SD/playlist.m3u8
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bfb482bc61697ff5a61e61e23ef9daad.jpeg",卓娅
+https://v.v1kd.com/20211220/phS2WpLP/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28e7f088c653054de544d385c6c14a2e.jpeg",德维塔耶夫
+https://new.iskcd.com/20211216/Xl7z6xX5/1100kb/hls/index.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a879b888601fa72094fa0cd349c6cb0b.jpeg",零和一
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/cd7c4dd9-44ab-49e9-aa54-f35ef0295da8/29028/1e97f402-b315-42ab-a9e6-61713012a104/SD/playlist.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/672f2d653b73229fe08c9b667a29526c.jpeg",战争幽灵
