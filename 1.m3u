@@ -34,6 +34,12 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6739a439e7a715dd755ee03ac6b2baa.jpeg",纹身
+https://vod4.fsvod4.com/20220130/9cK0BQRb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/22deaebfcbcc9c759419bc6a51e7df64.jpeg",那些希望我死的人
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/19742/07ded4d9-4ab5-4895-b9c4-1506010dc7b3/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39616fec5c87d4067a512baf776717af.jpeg",凯特
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/22292/5c5da1cf-64e9-4195-9a10-e074c4e7cbdc/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5196d61d9b1f98e5006ccadd8bc27b8b.jpeg",极地反击
 https://auete.top/datas/mov/jidifanji.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ecbd0cbd8f7ffad7c783f57c08c490f4.jpeg",北区侦缉队
@@ -256,6 +262,10 @@ https://sod.bunediy.com/20211029/YBMsefTr/index.m3u8
 https://sod.bunediy.com/20211028/0vieQ6hH/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/33eb375550f4e3a94662757f557ccb77.jpeg",新逃学威龙
 https://new.iskcd.com/20211015/2HgP1iYO/index.m3u8
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/107e91417ab12aa2bb8385b0e586b3d4.jpeg",人类清除计划5
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/45508302-83d1-49ca-9655-337540acdc03/24584/937d42b5-0887-4739-ba37-a5a52400ed89/SD/playlist.m3u8
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cb0f398ed8ce1b70705ce9c3080f4e8d.jpeg",特种部队
+https://auete.top/datas/mov/tezhongbudui_sheyanqiyuan.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e3a149c6536d654d33f4a4bd737b2b48.jpeg",哥斯拉大战金刚
 https://auete.top/datas/mov/gesiladazhanjingang.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b0d71ecc5778c27cb7f6674903aaf5b.jpeg",氧气危机
