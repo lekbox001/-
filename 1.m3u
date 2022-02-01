@@ -34,6 +34,12 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6730ea012ad12b44f316c5955c65251c.jpeg",倚天屠龙记之九阳神功
+https://alicdn.dm1.im/20220131/D10APZcz/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6739a439e7a715dd755ee03ac6b2baa.jpeg",纹身
+https://v10.dious.cc/20220130/rO8motrj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e20b2fe7c2a4a7e786f095c7fa4d3c58.jpeg",神枪手
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/30682/bb9680be-0ccd-4656-aeea-9f2aef827181/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6739a439e7a715dd755ee03ac6b2baa.jpeg",纹身
 https://vod4.fsvod4.com/20220130/9cK0BQRb/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/22deaebfcbcc9c759419bc6a51e7df64.jpeg",那些希望我死的人
@@ -162,6 +168,10 @@ https://new.iskcd.com/20211015/E86nYmcM/index.m3u8
 https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c8a056a1afd4910cd09aeaf99c648473.jpeg",窗里的女人
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/19739/b01ac489-39e5-416a-a1b6-fe6bc32d7f25/SD/playlist.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a56180c4c30956aeeeaf759ea1255a67.jpeg",红点杀机
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/28320/52434309-8f01-4da7-a837-1d24d31963e8/SD/playlist.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/584deeb4cbe2959c5ed8b8e207c522dc.jpeg",罪人2021
 https://ukzy.ukubf2.com/20211109/Z2cYuRTk/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9749fd09d9a9d07e376a79aa823e4625.jpeg",哭泣的男人
