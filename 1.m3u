@@ -199,8 +199,16 @@ http://139.99.71.104:8888/live/blink2/q4xvtv4ymi/37346.ts
 http://139.99.71.104:8888/live/blink3/4wai0i6rn6/37347.ts
 #EXTINF: -1 tvg-name="BOLLYONE HD" tvg-logo="https://bit.ly/3geHa5r" group-title="MY", BOLLYONE HD
 http://139.99.71.104:8888/live/blink4/frknnyvc9e/37348.ts
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2859ef6bb084c026c063d51b2be196b7.jpeg",鬼手神枪
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/34857/4672cf83-2304-4093-832f-53744751215a/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3aad3027f6c6bca2dcafd3f0cae3c8ab.jpeg",美国围攻
+https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/38853/17639c9f-009b-42c9-b3e2-ec982c5facdd/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4a6f290b661d4fe09610d906546ccf11.jpeg",摩加迪沙
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22905/e59058e2-705e-4ca1-8ce3-5f2cf66e60dd/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3c6d564162feb863b4e23e815e6d4bc2.jpeg",铁血护卫之异种入侵
+https://alicdn.dm1.im/20211030/mf3HVCi7/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/55d437d94b4bad84b22222c71eb10e42.jpeg",王牌特工2022
-https://v11.tkzyapi.com/20220209/gsddyjTU/1000kb/hls/index.m3u8
+https://c2.monidai.com/20220209/ooIlchdh/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28f1601f3e8345733bd5a2878f7b959a.jpeg",狩猎行动
 https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/40046/d4edd251-1f7c-4e28-8a30-9e54e4d13b5e/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d8031200b7b97f823bef5f5f0762f43e.jpeg",限制来电
@@ -399,8 +407,14 @@ https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b640a1e76d8be9d9807689a168e91f60.jpeg",大话西游
+https://sod.bunediy.com/20220211/4FeI0oJ4/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3526eac68877aea4b933e33e0dafe23a.jpeg",解禁男女
+https://sod.bunediy.com/20220211/ayyoFSOy/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a38775128f0e93ec3873cc67ccbb0724.jpeg",我的爸爸是小学生
+https://alicdn.dm1.im/20211030/U4VykNcm/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e2590e7f885f45919bca26f9d3265d75.jpeg",我的老板是连环杀手
-https://v11.tkzyapi.com/20220209/VC62yYsk/1000kb/hls/index.m3u8
+https://sod.bunediy.com/20220209/un7bMar8/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d42b6c64e6945c33f74a024b22a8b6ab.jpeg",让我看看鬼
 https://b.baobuzz.com/m3u8/529327.m3u8?sign=1eceaf161e0491736c178d301ebe05a6
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/109ed4fa90265f91a3471a31f028980d.jpeg",吉姆·加菲根
@@ -601,6 +615,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8eaae8307b28e27572145dbc7f2c3cb6.jpeg",水怪2
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/19212/2eb85843-ab76-4a5b-a849-7a2764131739/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/df197372ac5347dc4c0d105c804d5a27.jpeg",在黑暗中回家
 https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22374/d5b788bd-1214-4f34-9ddb-2767ae007464/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1cab8825bf4af6ef3cac531d894f4bff.jpeg",饥饿站台
