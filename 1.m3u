@@ -407,6 +407,14 @@ https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/118b556a0541f28493b7492e35debb8c.jpeg",冰上之光
+https://sod.bunediy.com/20220212/x0TZqRO6/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cdc8d9875a81fb38ce5bf5ae81f89de4.jpeg",城市猎人
+https://b.baobuzz.com/m3u8/331547.m3u8?sign=f4c65e08a843a9718741c31ea7166f3c
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/03538e54a9304cff61ca9a1319c12f66.jpeg",极限职业
+https://1251316161.vod2.myqcloud.com/007a649dvodcq1251316161/1336f3643701925925657093231/t2XchwRS6QcA.mp4
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2fdcd97a96f9cf31ce781f3006c91132.jpeg",热血警探
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/931/a7b2733c-5752-4aea-82b2-30afdaa53591/SD/playlist.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b640a1e76d8be9d9807689a168e91f60.jpeg",大话西游
 https://sod.bunediy.com/20220211/4FeI0oJ4/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3526eac68877aea4b933e33e0dafe23a.jpeg",解禁男女
@@ -727,6 +735,10 @@ https://s1.zoubuting.com/20210725/JmmmwDKY/index.m3u8
 https://cdn2.bzjupinhang.com:65/20210930/l3YuFneU/index.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e689015603c9784f1ccc428a58360d3e.jpeg",月光光心慌慌
 https://v4.cdtlas.com/20211017/p16I1EaG/1200kb/hls/index.m3u8
+#EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/abdb9c81dc3bb07f313a1b536c6d38ad.jpeg",飓风奇劫
+https://vod2.fsvod2.com/20211018/3FamsS6u/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf4d1c25b7dfd4b9ee3ea1875bf35295.jpeg",海云台
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/9477/7ca65513-2c53-44f1-ac43-c8154e498b1c/SD/playlist.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c670b5673e64c00abc8587e2b2ef9429.jpeg",勇往直前
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/23287/dbbbbdc9-bacb-470b-b411-423c4b318d39/SD/playlist.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf6ca37710955d98437626b3b30911e5.jpeg",后天
