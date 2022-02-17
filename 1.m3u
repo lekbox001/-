@@ -521,6 +521,10 @@ http://206.119.173.184/tv/js.php?id=169
 http://206.119.173.184/tv/js.php?id=168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",JET
 http://206.119.173.184/tv/js.php?id=175
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25f84af74470975a056bfc89814b69f7.jpeg",支离破碎
+https://sod.bunediy.com/20220214/YxOnlFGb/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4587aa3e1d73cf4d3b993ff39921da42.jpeg",断金
+https://auete.top/datas/mov/duanjin.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2859ef6bb084c026c063d51b2be196b7.jpeg",鬼手神枪
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/34857/4672cf83-2304-4093-832f-53744751215a/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3aad3027f6c6bca2dcafd3f0cae3c8ab.jpeg",美国围攻
@@ -536,7 +540,7 @@ https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d8031200b7b97f823bef5f5f0762f43e.jpeg",限制来电
 https://vod.bunediy.com/20210721/DCjDjCLx/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b05177a069250a0d465bad8cbfc8dd19.jpeg",特送
-https://c2.monidai.com/20220209/7GUfEoXH/index.m3u8
+https://auete.top/datas/mov/tesong.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2a303a4eb1dc935cabdbc094018d5dbd.jpeg",极地追击
 https://auete.top/datas/mov/wlp/jidizhuiji.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3443aa8b9f903bc745b25d2fd92dfe1e.jpeg",大上海夜枭
@@ -558,7 +562,7 @@ https://alicdn.dm1.im/20220131/D10APZcz/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e20b2fe7c2a4a7e786f095c7fa4d3c58.jpeg",神枪手
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/30682/bb9680be-0ccd-4656-aeea-9f2aef827181/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6739a439e7a715dd755ee03ac6b2baa.jpeg",纹身
-https://vod4.fsvod4.com/20220130/9cK0BQRb/1000kb/hls/index.m3u8
+https://auete.top/datas/mov/wenshen.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/22deaebfcbcc9c759419bc6a51e7df64.jpeg",那些希望我死的人
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/19742/07ded4d9-4ab5-4895-b9c4-1506010dc7b3/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39616fec5c87d4067a512baf776717af.jpeg",凯特
@@ -685,6 +689,16 @@ https://new.iskcd.com/20211015/E86nYmcM/index.m3u8
 https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/19fb0fa58da7bb1efef8d40d427c13da.jpeg",警官之血
+https://auete.top/datas/mov/jingguanzhixue.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4512764fbb37ad041cc832348e1aef5c.jpeg",KIMI
+https://auete.top/datas/mov/kimi.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85e57a8a7ee9c5c0bc9cb2cc3e636afc.jpeg",昆仑劫之鲛人泪
+https://ukzy.ukubf2.com/20220214/UWoLRBKV/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dcb0514e0429b0e9f3ce4ce86d0534b6.jpeg",守岛人
+https://auete.top/datas/mov/shoudaorenby.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cd377fb30d3d59b69bed4402aa449425.jpeg",爷们信条
+https://auete.top/datas/mov/yemenxintiao.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5834f80195b3175a2ecbf2eea7ee9121.jpeg",黄庙村·地宫美人
 https://b.baobuzz.com/m3u8/510910.m3u8?sign=8c4a033dc9475779738bb32bc91df25c
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e349f2a730bfb09c741a84114bb745a2.jpeg",三目先生
@@ -729,8 +743,12 @@ https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3526eac68877aea4b933e33e0dafe23a.jpeg",解禁男女
+https://auete.top/datas/mov/jiejinnannv.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ed91d958b55297b8891abd1994612394.jpeg",AI爱上你
+https://bbx-video.gtimg.com/daodm_0b53uaaayaaafaah3kilsjrn3igdbsqaadca.f0.mp4?dis_k=5d636fcb4d53d645253651e085acb363&dis_t=1645060864
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/118b556a0541f28493b7492e35debb8c.jpeg",冰上之光
-https://sod.bunediy.com/20220212/x0TZqRO6/index.m3u8
+https://ukzy.ukubf2.com/20220212/AdyDFM9H/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cdc8d9875a81fb38ce5bf5ae81f89de4.jpeg",城市猎人
 https://b.baobuzz.com/m3u8/331547.m3u8?sign=f4c65e08a843a9718741c31ea7166f3c
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/03538e54a9304cff61ca9a1319c12f66.jpeg",极限职业
@@ -897,6 +915,8 @@ https://auete.top/datas/mov/jishengyixing.m3u8
 https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://auete.top/datas/mov/conglinqihang.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b559f417335717697750fa6c35ea787.jpeg",狄小肆之幽冥飞狼
+https://ukzy.ukubf2.com/20220216/84WkeR0p/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5a767f8f08e57e7611e350816129525f.jpeg",奇侠义士
 https://sod.bunediy.com/20220209/lj7ogvSQ/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e56fae16ce0def32b1544e2c0805606e.jpeg",枕刀歌之尘世行
@@ -945,6 +965,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b98f6e229fbc143e84f323fc0bbb66d0.jpeg",圈养
+https://auete.top/datas/mov/quanyang.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8eaae8307b28e27572145dbc7f2c3cb6.jpeg",水怪2
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/19212/2eb85843-ab76-4a5b-a849-7a2764131739/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/df197372ac5347dc4c0d105c804d5a27.jpeg",在黑暗中回家
