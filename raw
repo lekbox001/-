@@ -4,25 +4,14 @@
       "key": "LEKBOX",
       "name": "LEKBOX",
       "type": 0,
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml"
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
       "key": "闪电",
       "name": "闪电",
       "type": 0,
       "api": "http://sdzyapi.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "想看",
-      "name": "想看",
-      "type": 0,
-      "api": "https://m3u8.xiangkanapi.com/provide/vod/at/xml"
-    },
-    {
-      "key": "北斗",
-      "name": "北斗",
-      "type": 0,
-      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "电影牛",
@@ -32,22 +21,10 @@
       "playUrl": "https://jx.7kjx.com/?url="
     },
     {
-      "key": "无尽",
-      "name": "无尽",
-      "type": 0,
-      "api": "https://wuzy9.com/api.php/provide/vod/at/xml"
-    },
-    {
       "key": "Ikaola",
       "name": "Ikaola",
       "type": 0,
       "api": "http://ikaola.tv/api.php/provide/vod/at/xml/"
-    },
-    {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 0,
-      "api": "http://api.bdyunzy.com/api.php/provide/vod/at/xml/"
     },
     {
       "key": "饭团",
@@ -55,12 +32,6 @@
       "type": 0,
       "api": "http://television.wkfile.com/api.php/provide/vod/at/xml",
       "playUrl": "https://jx.7kjx.com/?url="
-    },
-    {
-      "key": "独播",
-      "name": "独播",
-      "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "唐人街",
@@ -96,34 +67,6 @@
     {
       "name": "人人",
       "url": "https://jx.renrenmi.cc/?url="
-    },
-    {
-      "name": "追剧达人",
-      "url": "https://vip123kan.vip/m3u8.php?url="
-    },
-    {
-      "name": "百度",
-      "url": "https://jsap.ahfuqi.net/?url="
-    },
-    {
-      "name": "百度2",
-      "url": "https://chaxun.truechat365.com/?url="
-    },
-    {
-      "name": "明日",
-      "url": "https://www.qianyicp.com/jiexi/index.php?url="
-    },
-    {
-      "name": "虾米",
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "无尽",
-      "url": "https://51wujin.net/?url="
-    },
-    {
-      "name": "红牛",
-      "url": "https://www.tutukiki.com/m3u8/?url="
     }
   ],
   "flags": [
