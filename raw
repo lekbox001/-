@@ -4,8 +4,7 @@
       "key": "LEKBOX",
       "name": "LEKBOX",
       "type": 0,
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jx.7kjx.com/?url="
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "闪电",
@@ -17,8 +16,7 @@
       "key": "U酷",
       "name": "U酷",
       "type": 0,
-      "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jx.7kjx.com/?url="
+      "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "Ikaola",
@@ -30,8 +28,7 @@
       "key": "饭团",
       "name": "饭团",
       "type": 0,
-      "api": "http://television.wkfile.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jx.7kjx.com/?url="
+      "api": "http://television.wkfile.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "唐人街",
