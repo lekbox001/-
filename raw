@@ -14,10 +14,10 @@
       "api": "http://sdzyapi.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "电影牛",
-      "name": "电影牛",
+      "key": "U酷",
+      "name": "U酷",
       "type": 0,
-      "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml",
       "playUrl": "https://jx.7kjx.com/?url="
     },
     {
@@ -40,10 +40,10 @@
       "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
     },
     {
-      "key": "淘片",
-      "name": "淘片",
+      "key": "I酷",
+      "name": "I酷",
       "type": 0,
-      "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml"
+      "api": "http://tv.kudian6.com/api.php/provide/vod/at/xml"
     }
   ],
   "lives": [
@@ -81,6 +81,8 @@
     "mgtv",
     "rrm3u8",
     "bilibili",
+    "renrenmi",
+    "ltnb",
     "wasu"
   ],
   "ijk": [
