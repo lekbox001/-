@@ -155,6 +155,29 @@ http://seb.sason.top/sc/slinews_fhd.m3u8
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",好消息
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="体育",ASTRO Arena HD
+http://shareext@urtv.cc:80/live/297340/297340/6707.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="体育",Arena2
+http://shareext@urtv.cc:80/live/297340/297340/9028.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="体育",ASTRO_SUPERSPORT HD
+http://shareext@urtv.cc:80/live/297340/297340/6708.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="体育",ASSP1
+http://shareext@urtv.cc:80/live/297340/297340/9024.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="体育",ASTRO_SUPERSPORT2 HD
+http://shareext@urtv.cc:80/live/297340/297340/6710.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="体育",ASSP2
+http://shareext@urtv.cc:80/live/297340/297340/9025.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="体育",ASTRO_SUPERSPORT3 HD
+http://shareext@urtv.cc:80/live/297340/297340/6711.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="体育",ASSP3(LIVE EPL ONLY)
+http://shareext@urtv.cc:80/live/297340/297340/9020.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="体育",ASTRO_SUPERSPORT 4 HD
+http://shareext@urtv.cc:80/live/297340/297340/6712.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",ASSP4
+http://shareext@urtv.cc:80/live/297340/297340/9026.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",AstroSupersport5
+http://shareext@urtv.cc:80/live/297340/297340/9029.ts?shareext.ts
+#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
@@ -173,6 +196,12 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="体育",sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/83548a042130feab30798751c9fe8f5c.jpeg",艾达·雷德
+https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/43048/04497bbb-7737-4941-9e7c-279b5a445ac6/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9906ed5127012f8a9088ac39838cc4b0.jpeg",罗布泊神秘事件
+https://ukzy.ukubf2.com/20220224/E5qfFGvb/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/17a5630c2634c25e39379efd226606df.jpeg",反贪风暴5
+https://qq.sd-play.com/20220226/Oge6EV9W/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3bdb1e56ec1b99f19bd55c8c7d690ebd.jpeg",复仇铁拳
 https://video.qzone.qq.com/daodm_0b534maasaaa7aafxjiov5rn3y6dbhrqacka.f0.mp4?dis_k=71605a5dcf69790cbc4d0a58226efa47&dis_t=1645232636
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25f84af74470975a056bfc89814b69f7.jpeg",支离破碎
@@ -397,6 +426,10 @@ https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f361d0a389613dd4f72fee5b400921c4.jpeg",东北虎
+https://ukzy.ukubf2.com/20220220/iT0fGacX/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/afdd36aeabecc86b1975fa25f2144e49.jpeg",甘草披萨
+https://sod.bunediy.com/20220220/0txnK5sR/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2af7bbdc047023cbc6d4ef8fa72f4997.jpeg",陈翔六点半之拳王妈妈
 https://sod.bunediy.com/20220218/N5bHYYAM/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3526eac68877aea4b933e33e0dafe23a.jpeg",解禁男女
@@ -489,6 +522,8 @@ https://sod.bunediy.com/20211029/YBMsefTr/index.m3u8
 https://sod.bunediy.com/20211028/0vieQ6hH/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/33eb375550f4e3a94662757f557ccb77.jpeg",新逃学威龙
 https://new.iskcd.com/20211015/2HgP1iYO/index.m3u8
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b8d07d352bde097cc84afa852172bd67.jpeg",英雄无归
+https://auete.top/datas/mov/zhizhuxia_yingxiongwugui.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e229eb008a62f73c785d1fd68a4c9d34.jpeg",徐福
 https://b.baobuzz.com/m3u8/475420.m3u8?sign=773ed6410d226ce0a89aff29b77a65bb
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b58cfe36acfd7af5e55282b067e654c8.jpeg",外星人
@@ -571,6 +606,8 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 https://auete.top/datas/mov/conglinqihang.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b559f417335717697750fa6c35ea787.jpeg",狄小肆之幽冥飞狼
 https://ukzy.ukubf2.com/20220216/84WkeR0p/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab799069211dc1cf5f7e30af187b66bf.jpeg",地底怪物
+https://m3u.if101.tv/xm3u8/89de7b8b644b4e239fd1c5ad23c4229c34c5a4e621e31cb379bb4b38e576ebfe9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5a767f8f08e57e7611e350816129525f.jpeg",奇侠义士
 https://sod.bunediy.com/20220209/lj7ogvSQ/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e56fae16ce0def32b1544e2c0805606e.jpeg",枕刀歌之尘世行
@@ -737,8 +774,6 @@ https://s1.zoubuting.com/20210725/JmmmwDKY/index.m3u8
 https://cdn2.bzjupinhang.com:65/20210930/l3YuFneU/index.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e689015603c9784f1ccc428a58360d3e.jpeg",月光光心慌慌
 https://v4.cdtlas.com/20211017/p16I1EaG/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/abdb9c81dc3bb07f313a1b536c6d38ad.jpeg",飓风奇劫
-https://vod2.fsvod2.com/20211018/3FamsS6u/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf4d1c25b7dfd4b9ee3ea1875bf35295.jpeg",海云台
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/9477/7ca65513-2c53-44f1-ac43-c8154e498b1c/SD/playlist.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c670b5673e64c00abc8587e2b2ef9429.jpeg",勇往直前
@@ -793,6 +828,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49b
 https://ukzy.ukubf2.com/20211208/BHAvYegZ/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22376/a36103c3-47d3-439f-b911-7b519daff23b/SD/playlist.m3u8
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/36fe03d2e453eb8157460743f634a175.jpeg",幸存者1937
+https://auete.top/datas/mov/wlp/xingcunzhe1937.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8413d438c39a65f5bc127c41f6f2724e.jpeg",淮水情
 https://vod.bunediy.com/20210126/dmbYtOnX/index.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/098e38e746dfb60012384a20467837c5.jpeg",波斯坦妮·卡迪娜拉
