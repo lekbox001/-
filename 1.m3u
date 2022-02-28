@@ -155,27 +155,27 @@ http://seb.sason.top/sc/slinews_fhd.m3u8
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",好消息
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="体育",ASTRO Arena HD
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="体育",Arena HD
 http://shareext@urtv.cc:80/live/297340/297340/6707.ts?shareext.ts
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="体育",Arena2
 http://shareext@urtv.cc:80/live/297340/297340/9028.ts?shareext.ts
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="体育",ASTRO_SUPERSPORT HD
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="体育",SUPERSPORT HD
 http://shareext@urtv.cc:80/live/297340/297340/6708.ts?shareext.ts
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="体育",ASSP1
 http://shareext@urtv.cc:80/live/297340/297340/9024.ts?shareext.ts
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="体育",ASTRO_SUPERSPORT2 HD
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="体育",SUPERSPORT2 HD
 http://shareext@urtv.cc:80/live/297340/297340/6710.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="体育",ASSP2
 http://shareext@urtv.cc:80/live/297340/297340/9025.ts?shareext.ts
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="体育",ASTRO_SUPERSPORT3 HD
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="体育",SUPERSPORT3 HD
 http://shareext@urtv.cc:80/live/297340/297340/6711.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="体育",ASSP3(LIVE EPL ONLY)
 http://shareext@urtv.cc:80/live/297340/297340/9020.ts?shareext.ts
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="体育",ASTRO_SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="体育",SUPERSPORT 4 HD
 http://shareext@urtv.cc:80/live/297340/297340/6712.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",ASSP4
 http://shareext@urtv.cc:80/live/297340/297340/9026.ts?shareext.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",AstroSupersport5
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",Supersport5
 http://shareext@urtv.cc:80/live/297340/297340/9029.ts?shareext.ts
 #EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
