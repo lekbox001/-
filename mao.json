@@ -16,7 +16,7 @@
       "name": "推荐",
       "type": 0,
       "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
-    },
+},
 {"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"星空影视###https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/appys.json"},
 {
   "key": "csp_Auete",
