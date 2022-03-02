@@ -56,16 +56,19 @@
       ]
     }
   ],
-  "parses": [
-    {
-      "name": "VIP",
-      "url": "https://jx.7kjx.com/?url="
-    },
-    {
-      "name": "maioparty",
-      "url": "https://www.meiju56.com/a/jmplay/?url="
-    }
-  ],
+  "parses":[
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"lekbox","type":0,"url":"https://jx.7kjx.com/?url="},
+{"name":"CL4K","type":0,"url":"http://ts.yjhan.com:8090/api/?key=kYMcDdn4gh3AAxVXbQ&url="},
+{"name":"miaoparty3","type":0,"url":"https://www.meiju56.com/a/jmplay/?url="},
+{"name":"QQ2","type":0,"url":"https://jf.tcysvip.cn/?url="},
+{"name":"3DPT","type":0,"url":"https://jx.973973.xyz/?url="},
+{"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
+{"name":"PG","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
+{"name":"77","type":1,"url":"https://ysjx.jikezhuji.com/api/?key=80gdewY7tQriIwA6hw&url="},
+{"name":"21","type":1,"url":"http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="}
+],
   "flags": [
     "youku",
     "qq",
