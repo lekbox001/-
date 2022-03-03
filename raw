@@ -31,6 +31,12 @@
       "api": "http://television.wkfile.com/api.php/provide/vod/at/xml"
     },
     {
+      "key": "闪电",
+      "name": "闪电",
+      "type": 0,
+      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml"
+    },
+    {
       "key": "唐人街",
       "name": "唐人街",
       "type": 0,
@@ -57,8 +63,6 @@
     }
   ],
   "parses":[
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"lekbox","type":0,"url":"https://jx.7kjx.com/?url="},
 {"name":"CL4K","type":0,"url":"http://ts.yjhan.com:8090/api/?key=kYMcDdn4gh3AAxVXbQ&url="},
 {"name":"miaoparty3","type":0,"url":"https://www.meiju56.com/a/jmplay/?url="},
