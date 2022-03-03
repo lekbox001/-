@@ -54,6 +54,114 @@ http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Celestial/p
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8
 #EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Assp5
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",AEC
+http://iptv.tvmalaysia.cc:80/100588/100588/6701
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",AOD 351
+http://iptv.tvmalaysia.cc:80/100588/100588/6702
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",AOD 352
+http://iptv.tvmalaysia.cc:80/100588/100588/6703
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",AOD 353
+http://iptv.tvmalaysia.cc:80/100588/100588/6704
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",AOD 355
+http://iptv.tvmalaysia.cc:80/100588/100588/6706
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",Bernama News
+http://iptv.tvmalaysia.cc:80/100588/100588/6750
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/78_144.png",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/100588/100588/6751
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",Cartoon Network
+http://iptv.tvmalaysia.cc:80/100588/100588/6757
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/102_144.png",DMAX
+http://iptv.tvmalaysia.cc:80/100588/100588/6778
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Movies
+http://iptv.tvmalaysia.cc:80/100588/100588/6845
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN
+http://iptv.tvmalaysia.cc:80/100588/100588/6844
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",One
+http://iptv.tvmalaysia.cc:80/100588/100588/6817
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA
+http://iptv.tvmalaysia.cc:80/100588/100588/7190
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",Cinemax
+http://iptv.tvmalaysia.cc:80/100588/100588/7062
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO Hits
+http://iptv.tvmalaysia.cc:80/100588/100588/7068
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO Signature
+http://iptv.tvmalaysia.cc:80/100588/100588/7069
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Family
+http://iptv.tvmalaysia.cc:80/100588/100588/7070
+#EXTINF:-1 group-title="MY",Hits Movies
+http://iptv.tvmalaysia.cc:80/100588/100588/7066
+#EXTINF:-1 group-title="MY",Red By HBO
+http://iptv.tvmalaysia.cc:80/100588/100588/7071
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV
+http://iptv.tvmalaysia.cc:80/100588/100588/7072
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tVN movies
+http://iptv.tvmalaysia.cc:80/100588/100588/7074
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic
+http://iptv.tvmalaysia.cc:80/100588/100588/7075
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild
+http://iptv.tvmalaysia.cc:80/100588/100588/7081
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History
+http://iptv.tvmalaysia.cc:80/100588/100588/7079
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel
+http://iptv.tvmalaysia.cc:80/100588/100588/7078
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/40_144.png",Animal Planet
+http://iptv.tvmalaysia.cc:80/100588/100588/7077
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
+http://iptv.tvmalaysia.cc:80/100588/100588/7076
+#EXTINF:-1 group-title="MY",Cinema World
+http://iptv.tvmalaysia.cc:80/100588/100588/7219
+#EXTINF:-1 group-title="MY",Thrill
+http://iptv.tvmalaysia.cc:80/100588/100588/7220
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN
+http://iptv.tvmalaysia.cc:80/100588/100588/7223
+#EXTINF:-1 group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1920px-Fox_Crime_2017.svg.png",Fox Crime
+http://iptv.tvmalaysia.cc:80/100588/100588/7225
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png",Fox Life
+http://iptv.tvmalaysia.cc:80/100588/100588/7228
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",KiX
+http://iptv.tvmalaysia.cc:80/100588/100588/7229
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/100588/100588/7222
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",BBC Earth
+http://iptv.tvmalaysia.cc:80/100588/100588/7233
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies
+http://iptv.tvmalaysia.cc:80/100588/100588/7235
+#EXTINF:-1 group-title="MY",Sony One
+http://iptv.tvmalaysia.cc:80/100588/100588/8863
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",TvN
+http://iptv.tvmalaysia.cc:80/100588/100588/8865
+#EXTINF:-1 group-title="MY",Disney Channel
+http://iptv.tvmalaysia.cc:80/100588/100588/7196
+#EXTINF:-1 group-title="MY",Tom & Jerry
+http://iptv.tvmalaysia.cc:80/100588/100588/8986
+#EXTINF:-1 group-title="MY",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/100588/100588/8991
+#EXTINF:-1 group-title="MY",Star Movies
+http://iptv.tvmalaysia.cc:80/100588/100588/8997
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png",Crime & Investigation
+http://iptv.tvmalaysia.cc:80/100588/100588/9009
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png",Arena
+http://iptv.tvmalaysia.cc:80/100588/100588/6707
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png",Arena 2
+http://iptv.tvmalaysia.cc:80/100588/100588/9028
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png",SUPERSPORT
+http://iptv.tvmalaysia.cc:80/100588/100588/6708
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png",ASSP 1
+http://iptv.tvmalaysia.cc:80/100588/100588/9024
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png",SUPERSPORT 2
+http://iptv.tvmalaysia.cc:80/100588/100588/6710
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png",ASSP 2
+http://iptv.tvmalaysia.cc:80/100588/100588/9025
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/100588/100588/9020
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",SUPERSPORT 4
+http://iptv.tvmalaysia.cc:80/100588/100588/6712
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",ASSP 4
+http://iptv.tvmalaysia.cc:80/100588/100588/9026
+#EXTINF:-1 group-title="MY" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",Supersport 5
+http://iptv.tvmalaysia.cc:80/100588/100588/9029
+#EXTINF:-1 group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Cricket
+http://iptv.tvmalaysia.cc:80/100588/100588/6717
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
