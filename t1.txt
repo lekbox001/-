@@ -1,21 +1,92 @@
 MY,#genre#
-TV1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV1/playlist.m3u8
-8TV,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV8/playlist.m3u8
-AEC,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Aec/playlist.m3u8
-华丽台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Wlt/playlist.m3u8
-欢喜台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Huahee/playlist.m3u8
-全佳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Quanjia/playlist.m3u8
-双星,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Shuangxing/playlist.m3u8
-小太阳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xiaotaiyang/playlist.m3u8
-AOD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/AodHD/playlist.m3u8
-天映,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Celestial/playlist.m3u8
-Channel5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel5HD/playlist.m3u8
-Channel8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel8HD/playlist.m3u8
-ChannelU,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8
-Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8
-Rtmsport,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8
-Assp5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8
-HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+RIA BACKUP,http://iptv.tvmalaysia.cc:80/100588/100588/9031
+Ria HD,http://iptv.tvmalaysia.cc:80/100588/100588/6730
+Prima HD,http://iptv.tvmalaysia.cc:80/100588/100588/6727
+Warna HD,http://iptv.tvmalaysia.cc:80/100588/100588/6740
+Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/100588/100588/7267
+Boo,http://iptv.tvmalaysia.cc:80/100588/100588/8872
+Oasis HD,http://iptv.tvmalaysia.cc:80/100588/100588/6725
+Aura HD,http://iptv.tvmalaysia.cc:80/100588/100588/6713
+Rania HD,http://iptv.tvmalaysia.cc:80/100588/100588/6729
+Awani HD,http://iptv.tvmalaysia.cc:80/100588/100588/6714
+Ceria HD,http://iptv.tvmalaysia.cc:80/100588/100588/6715
+Asian Food Network HD,http://iptv.tvmalaysia.cc:80/100588/100588/6693
+Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/100588/100588/6694
+Animax,http://iptv.tvmalaysia.cc:80/100588/100588/6696
+AEC HD,http://iptv.tvmalaysia.cc:80/100588/100588/6701
+AOD 351 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6702
+AOD 352 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6703
+AOD 353 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6704
+AOD 355 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6706
+Colors Tamil,http://iptv.tvmalaysia.cc:80/100588/100588/6716
+Zee Tamil HD,http://iptv.tvmalaysia.cc:80/100588/100588/6742
+Vaanavil HD,http://iptv.tvmalaysia.cc:80/100588/100588/6738
+Makkal TV,http://iptv.tvmalaysia.cc:80/100588/100588/6806
+Sun TV HD,http://iptv.tvmalaysia.cc:80/100588/100588/6733
+Star Vijay HD,http://iptv.tvmalaysia.cc:80/100588/100588/6732
+Jaya Max,http://iptv.tvmalaysia.cc:80/100588/100588/6802
+Chutti TV,http://iptv.tvmalaysia.cc:80/100588/100588/6762
+Bernama News,http://iptv.tvmalaysia.cc:80/100588/100588/6750
+Bloomberg TV,http://iptv.tvmalaysia.cc:80/100588/100588/6751
+Cartoon Network HD,http://iptv.tvmalaysia.cc:80/100588/100588/6757
+DMAX HD,http://iptv.tvmalaysia.cc:80/100588/100588/6778
+Colors HD,http://iptv.tvmalaysia.cc:80/100588/100588/6769
+Colors Cineplex,http://iptv.tvmalaysia.cc:80/100588/100588/6768
+CNBC,http://iptv.tvmalaysia.cc:80/100588/100588/6766
+tvN Movies,http://iptv.tvmalaysia.cc:80/100588/100588/6845
+tvN HD,http://iptv.tvmalaysia.cc:80/100588/100588/6844
+Sun Music,http://iptv.tvmalaysia.cc:80/100588/100588/6831
+One HD,http://iptv.tvmalaysia.cc:80/100588/100588/6817
+Nickelodeon HD,http://iptv.tvmalaysia.cc:80/100588/100588/6814
+Nick Jr,http://iptv.tvmalaysia.cc:80/100588/100588/6813
+KBS World HD,http://iptv.tvmalaysia.cc:80/100588/100588/6803
+HGTV HD,http://iptv.tvmalaysia.cc:80/100588/100588/6798
+TV 1,http://iptv.tvmalaysia.cc:80/100588/100588/7177
+TV 2,http://iptv.tvmalaysia.cc:80/100588/100588/7178
+TV 3,http://iptv.tvmalaysia.cc:80/100588/100588/7266
+TV 3 HD,http://iptv.tvmalaysia.cc:80/100588/100588/8750
+TV 9,http://iptv.tvmalaysia.cc:80/100588/100588/7185
+BERNAMA,http://iptv.tvmalaysia.cc:80/100588/100588/7190
+Cinemax FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7062
+HBO Hits FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7068
+HBO Signature FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7069
+HBO Family FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7070
+Hits Movies,http://iptv.tvmalaysia.cc:80/100588/100588/7066
+Red By HBO HD,http://iptv.tvmalaysia.cc:80/100588/100588/7071
+Warner TV HD,http://iptv.tvmalaysia.cc:80/100588/100588/7072
+tVN movies HD,http://iptv.tvmalaysia.cc:80/100588/100588/7074
+National Geographic HD,http://iptv.tvmalaysia.cc:80/100588/100588/7075
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/100588/100588/7081
+History FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7079
+Discovery Channel HD,http://iptv.tvmalaysia.cc:80/100588/100588/7078
+Animal Planet,http://iptv.tvmalaysia.cc:80/100588/100588/7077
+HGTV,http://iptv.tvmalaysia.cc:80/100588/100588/7076
+Era FM,http://iptv.tvmalaysia.cc:80/100588/100588/7169
+Hot FM,http://iptv.tvmalaysia.cc:80/100588/100588/7170
+Sinar FM,http://iptv.tvmalaysia.cc:80/100588/100588/7172
+THR GEGAR,http://iptv.tvmalaysia.cc:80/100588/100588/7174
+Cinema World,http://iptv.tvmalaysia.cc:80/100588/100588/7219
+Thrill,http://iptv.tvmalaysia.cc:80/100588/100588/7220
+AXN,http://iptv.tvmalaysia.cc:80/100588/100588/7223
+Fox Crime,http://iptv.tvmalaysia.cc:80/100588/100588/7225
+Fox Life,http://iptv.tvmalaysia.cc:80/100588/100588/7228
+KiX,http://iptv.tvmalaysia.cc:80/100588/100588/7229
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/100588/100588/7222
+BBC Earth,http://iptv.tvmalaysia.cc:80/100588/100588/7233
+Celestial Movies,http://iptv.tvmalaysia.cc:80/100588/100588/7235
+WLT JADE,http://iptv.tvmalaysia.cc:80/100588/100588/8836
+Sony One,http://iptv.tvmalaysia.cc:80/100588/100588/8863
+TvN,http://iptv.tvmalaysia.cc:80/100588/100588/8865
+Disney Channel HD,http://iptv.tvmalaysia.cc:80/100588/100588/7196
+Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/100588/100588/8922
+Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/100588/100588/8986
+STARZ KIDS&FAMILY,http://iptv.tvmalaysia.cc:80/100588/100588/8991
+Star Movies HD,http://iptv.tvmalaysia.cc:80/100588/100588/8997
+MNX,http://iptv.tvmalaysia.cc:80/100588/100588/8998
+Movies Now,http://iptv.tvmalaysia.cc:80/100588/100588/8999
+TESTNEW,http://iptv.tvmalaysia.cc:80/100588/100588/9001
+Crime & Investigation.,http://iptv.tvmalaysia.cc:80/100588/100588/9009
+Fox Family Movie,http://iptv.tvmalaysia.cc:80/100588/100588/9027
 HK,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 無綫新聞台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
