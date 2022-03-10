@@ -1,92 +1,57 @@
 MY,#genre#
-RIA BACKUP,http://iptv.tvmalaysia.cc:80/100588/100588/9031
-Ria HD,http://iptv.tvmalaysia.cc:80/100588/100588/6730
-Prima HD,http://iptv.tvmalaysia.cc:80/100588/100588/6727
-Warna HD,http://iptv.tvmalaysia.cc:80/100588/100588/6740
-Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/100588/100588/7267
-Boo,http://iptv.tvmalaysia.cc:80/100588/100588/8872
-Oasis HD,http://iptv.tvmalaysia.cc:80/100588/100588/6725
-Aura HD,http://iptv.tvmalaysia.cc:80/100588/100588/6713
-Rania HD,http://iptv.tvmalaysia.cc:80/100588/100588/6729
-Awani HD,http://iptv.tvmalaysia.cc:80/100588/100588/6714
-Ceria HD,http://iptv.tvmalaysia.cc:80/100588/100588/6715
-Asian Food Network HD,http://iptv.tvmalaysia.cc:80/100588/100588/6693
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/100588/100588/6694
-Animax,http://iptv.tvmalaysia.cc:80/100588/100588/6696
-AEC HD,http://iptv.tvmalaysia.cc:80/100588/100588/6701
-AOD 351 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6702
-AOD 352 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6703
-AOD 353 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6704
-AOD 355 HD,http://iptv.tvmalaysia.cc:80/100588/100588/6706
-Colors Tamil,http://iptv.tvmalaysia.cc:80/100588/100588/6716
-Zee Tamil HD,http://iptv.tvmalaysia.cc:80/100588/100588/6742
-Vaanavil HD,http://iptv.tvmalaysia.cc:80/100588/100588/6738
-Makkal TV,http://iptv.tvmalaysia.cc:80/100588/100588/6806
-Sun TV HD,http://iptv.tvmalaysia.cc:80/100588/100588/6733
-Star Vijay HD,http://iptv.tvmalaysia.cc:80/100588/100588/6732
-Jaya Max,http://iptv.tvmalaysia.cc:80/100588/100588/6802
-Chutti TV,http://iptv.tvmalaysia.cc:80/100588/100588/6762
-Bernama News,http://iptv.tvmalaysia.cc:80/100588/100588/6750
-Bloomberg TV,http://iptv.tvmalaysia.cc:80/100588/100588/6751
-Cartoon Network HD,http://iptv.tvmalaysia.cc:80/100588/100588/6757
-DMAX HD,http://iptv.tvmalaysia.cc:80/100588/100588/6778
-Colors HD,http://iptv.tvmalaysia.cc:80/100588/100588/6769
-Colors Cineplex,http://iptv.tvmalaysia.cc:80/100588/100588/6768
-CNBC,http://iptv.tvmalaysia.cc:80/100588/100588/6766
-tvN Movies,http://iptv.tvmalaysia.cc:80/100588/100588/6845
-tvN HD,http://iptv.tvmalaysia.cc:80/100588/100588/6844
-Sun Music,http://iptv.tvmalaysia.cc:80/100588/100588/6831
-One HD,http://iptv.tvmalaysia.cc:80/100588/100588/6817
-Nickelodeon HD,http://iptv.tvmalaysia.cc:80/100588/100588/6814
-Nick Jr,http://iptv.tvmalaysia.cc:80/100588/100588/6813
-KBS World HD,http://iptv.tvmalaysia.cc:80/100588/100588/6803
-HGTV HD,http://iptv.tvmalaysia.cc:80/100588/100588/6798
-TV 1,http://iptv.tvmalaysia.cc:80/100588/100588/7177
-TV 2,http://iptv.tvmalaysia.cc:80/100588/100588/7178
-TV 3,http://iptv.tvmalaysia.cc:80/100588/100588/7266
-TV 3 HD,http://iptv.tvmalaysia.cc:80/100588/100588/8750
-TV 9,http://iptv.tvmalaysia.cc:80/100588/100588/7185
-BERNAMA,http://iptv.tvmalaysia.cc:80/100588/100588/7190
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7062
-HBO Hits FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7068
-HBO Signature FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7069
-HBO Family FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7070
-Hits Movies,http://iptv.tvmalaysia.cc:80/100588/100588/7066
-Red By HBO HD,http://iptv.tvmalaysia.cc:80/100588/100588/7071
-Warner TV HD,http://iptv.tvmalaysia.cc:80/100588/100588/7072
-tVN movies HD,http://iptv.tvmalaysia.cc:80/100588/100588/7074
-National Geographic HD,http://iptv.tvmalaysia.cc:80/100588/100588/7075
-Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/100588/100588/7081
-History FHD,http://iptv.tvmalaysia.cc:80/100588/100588/7079
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/100588/100588/7078
-Animal Planet,http://iptv.tvmalaysia.cc:80/100588/100588/7077
-HGTV,http://iptv.tvmalaysia.cc:80/100588/100588/7076
-Era FM,http://iptv.tvmalaysia.cc:80/100588/100588/7169
-Hot FM,http://iptv.tvmalaysia.cc:80/100588/100588/7170
-Sinar FM,http://iptv.tvmalaysia.cc:80/100588/100588/7172
-THR GEGAR,http://iptv.tvmalaysia.cc:80/100588/100588/7174
-Cinema World,http://iptv.tvmalaysia.cc:80/100588/100588/7219
-Thrill,http://iptv.tvmalaysia.cc:80/100588/100588/7220
-AXN,http://iptv.tvmalaysia.cc:80/100588/100588/7223
-Fox Crime,http://iptv.tvmalaysia.cc:80/100588/100588/7225
-Fox Life,http://iptv.tvmalaysia.cc:80/100588/100588/7228
-KiX,http://iptv.tvmalaysia.cc:80/100588/100588/7229
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/100588/100588/7222
-BBC Earth,http://iptv.tvmalaysia.cc:80/100588/100588/7233
-Celestial Movies,http://iptv.tvmalaysia.cc:80/100588/100588/7235
-WLT JADE,http://iptv.tvmalaysia.cc:80/100588/100588/8836
-Sony One,http://iptv.tvmalaysia.cc:80/100588/100588/8863
-TvN,http://iptv.tvmalaysia.cc:80/100588/100588/8865
-Disney Channel HD,http://iptv.tvmalaysia.cc:80/100588/100588/7196
-Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/100588/100588/8922
-Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/100588/100588/8986
-STARZ KIDS&FAMILY,http://iptv.tvmalaysia.cc:80/100588/100588/8991
-Star Movies HD,http://iptv.tvmalaysia.cc:80/100588/100588/8997
-MNX,http://iptv.tvmalaysia.cc:80/100588/100588/8998
-Movies Now,http://iptv.tvmalaysia.cc:80/100588/100588/8999
-TESTNEW,http://iptv.tvmalaysia.cc:80/100588/100588/9001
-Crime & Investigation.,http://iptv.tvmalaysia.cc:80/100588/100588/9009
-Fox Family Movie,http://iptv.tvmalaysia.cc:80/100588/100588/9027
+8TV,P2p://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts
+Al-Hijrah,P2p://ns2.hellotvvod.com:9906/1645da922771498cb69e845778fadb33.ts
+AEC,P2p://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
+AEC2,P2p://ns2.hellotvvod.com:9906/51b52f447fda45378b1bb0d44a2480ec.ts
+AOD352,P2p://ns2.hellotvvod.com:9906/f15cbf3878864ced90e7ade17310ffe7.ts
+AOD353,P2p://ns2.hellotvvod.com:9906/ed61718ce8874b36be661dfe1010dd74.ts
+AOD354,P2p://ns2.hellotvvod.com:9906/004957812ce14373b8adc0422faa775d.ts
+AOD355,P2p://ns2.hellotvvod.com:9906/4e6943bded5247b582b78ea32aa0d57e.ts
+AODHD311,P2p://ns2.hellotvvod.com:9906/bba671c9774f418497219e85eaae4466.ts
+Arena,P2p://ns2.hellotvvod.com:9906/5c70c832d10f4b49879633dab1b43616.ts
+Arena2,P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts
+AuraHD,P2p://ns2.hellotvvod.com:9906/d2f00109e6ca4f1c935eefaa82b30fb7.ts
+Awani,P2p://ns2.hellotvvod.com:9906/bbe69795210a4fbe907bdfcce49793b6.ts
+Ceria,P2p://ns2.hellotvvod.com:9906/bb35635f92ca4c69a62aee7da5ffcb5b.ts
+CitraHD,P2p://ns2.hellotvvod.com:9906/f570a042354345b6b0a71a5fffc2fac2.ts
+Cricket,P2p://ns2.hellotvvod.com:9906/373b146d21d441a683672445d194ccad.ts
+OasisHD,P2p://ns2.hellotvvod.com:9906/053ea7df19f64c238235a93e15a5b69d.ts
+PrimaHD,P2p://ns2.hellotvvod.com:9906/98a9a8c867ec4ee3aa18ba38e656dec8.ts
+RaniaHD,P2p://ns2.hellotvvod.com:9906/62b41c11a9574d4a8ae72d8fe6a999a4.ts
+RiaHD,P2p://ns2.hellotvvod.com:9906/d08c69f7374a4aff89a678f85001bc5a.ts
+SuperSport,P2p://ns2.hellotvvod.com:9906/46c1874db98e44e2897b3b666f63e5b3.ts
+SuperSport2,P2p://ns2.hellotvvod.com:9906/e7a877e3655648e595b28b29f1518692.ts
+SuperSport3,P2p://ns2.hellotvvod.com:9906/556ebf04baa340a98fff40f9e7d75ea8.ts
+SuperSport4,P2p://ns2.hellotvvod.com:9906/d34a9e12e4ce4fb2831e4e9e1ce3b465.ts
+SuperSport5,P2p://ns2.hellotvvod.com:9906/9bd1e201633648379bb551756fbe8e1f.ts
+TutorTVPT3,P2p://ns2.hellotvvod.com:9906/b75440c9b554429aa28045a7539325cc.ts
+TutorTVSK,P2p://ns2.hellotvvod.com:9906/9b02988f0b0d40c4bfd6776711828407.ts
+TutorTVSPM,P2p://ns2.hellotvvod.com:9906/a32dfb01f4b5481d89567e4ca3f16b15.ts
+Vaanavil,P2p://ns2.hellotvvod.com:9906/49fb40c331e3491298e50ec689d698d4.ts
+Vinmeen,P2p://ns2.hellotvvod.com:9906/2c794a087c324522b1c03574cd2101cd.ts
+WarnaHD,P2p://ns2.hellotvvod.com:9906/2bcc414c10954b868c5a73221293d54a.ts
+欢喜台(备),P2p://ns2.hellotvvod.com:9906/0b72c0256d614c948fcbe93b1f97f6d5.ts
+欢喜台,P2p://ns2.hellotvvod.com:9906/e8e8cd8584e14b6e8b83d58df4f01675.ts
+全佳,P2p://ns2.hellotvvod.com:9906/c7945049fd8643c782410d15cc3984ad.ts
+双星,P2p://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
+小太阳,P2p://ns2.hellotvvod.com:9906/c61f74e0628f400488cf710372ebb76c.ts
+AwesomeTV,P2p://ns2.hellotvvod.com:9906/e568310674414edca9a826a6349fc667.ts
+BollyOne,P2p://ns2.hellotvvod.com:9906/6af79b14095d482d9a19ba6c5f8d3fb8.ts
+DramaSangat,P2p://ns2.hellotvvod.com:9906/76dd5ab7008a436b853724c4dade5571.ts
+LUXETV,P2p://ns2.hellotvvod.com:9906/de135697629e4ac3913049b4f3e377e3.ts
+NTV7,P2p://ns2.hellotvvod.com:9906/0e13f4ba635a4c51ba28c84136f9e0da.ts
+Oh!K,P2p://ns2.hellotvvod.com:9906/2428a8f3d060452d8a34d690781d2aeb.ts
+PrimeTimeChannel,P2p://ns2.hellotvvod.com:9906/1ce34a223d144568a39d3cd66266f9ee.ts
+TA-DAA!,P2p://ns2.hellotvvod.com:9906/2b57f29c35194e65b0a15a11e78cf104.ts
+TV1,P2p://ns2.hellotvvod.com:9906/214c44d356874a4388949095d7461a24.ts
+TV2,P2p://ns2.hellotvvod.com:9906/3ee5d1232f9540c3b27245656f9d6f48.ts
+TV3,P2p://ns2.hellotvvod.com:9906/60792fb5c59a4c22b4d38cb6f7cf46de.ts
+TV5,P2p://ns2.hellotvvod.com:9906/678bdf4c01ea449790d73b13548c5d4c.ts
+TV5Monde,P2p://ns2.hellotvvod.com:9906/2f0199b7ade54a2e8d018ac259ac6cb5.ts
+TV5MONDEStyle生活时尚,P2p://ns2.hellotvvod.com:9906/031ca01822864fa1b8e4248ce35b5fe5.ts
+TV9,P2p://ns2.hellotvvod.com:9906/8405a9ce683248708acbac791da6c3c0.ts
+TVS,P2p://ns2.hellotvvod.com:9906/81e7d1a75f874530be571d63cd7121b7.ts
+爱奇艺,P2p://ns2.hellotvvod.com:9906/70f60622dd2946da8d0baf69cd8a0963.ts
 HK,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 無綫新聞台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
