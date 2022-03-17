@@ -113,10 +113,8 @@ http://51.79.193.109:8080/hlsok/848003613/index.m3u8?key=JKqxmXzW3MuJMdrgZoyIHw&
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",ASSP4
 http://51.79.193.109:8080/hlsok/06254581b/index.m3u8?key=07NauyrTk73XyZwc8WXjbw&expires=1646241796&mac=08:00:27:3c:10:13&type=ph
 
-#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dc9658563ae3d3d38452312365997ff7.jpeg",神秘海域
-https://m3u.if101.tv/xm3u8/d9d9022f29860a05af2e4bb8571e7fa12d0393944d51b7180bf40d9b6a42650a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85d6c37f51b10e00e8718e1f0d871ba5.jpeg",朱雀战纪
-https://new.iskcd.com/20220304/1lIXD33S/1100kb/hls/playlist_up.m3u8
+https://b.baobuzz.com/m3u8/541163.m3u8?sign=787c091961db48b03a4df9a2658b4049
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/45275307c0bcd820cdeaf111ff79a2ab.jpeg",岩脊求生
 https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/45802/4f4808ec-65a5-455d-8263-278f11e26e4b/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e0592bc8a94cf38ebdf4b215b7dde19e.jpeg",黑金营救
