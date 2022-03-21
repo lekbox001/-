@@ -35,23 +35,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" tvg-id="", CNA 24 Hours News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767803/ei/m5w2Yqa6GtqJsfIP9sO94As/ip/13.86.153.109/id/XWq5kBlakcQ.4/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPhIh61ovNMHleZqEOgeawGf_ShC0u-sp8SlMMhQk_XwCIEv2iRwBZJzL5OdzyQfRY1KokqwA3v3IG9lzPQj6sEmc/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png" tvg-id="", CTITV 24 Hours News 中天新聞 24小時
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767803/ei/m5w2YqLMMJWOkwbK-q_wBw/ip/13.86.153.109/id/Gr44RRnjFys.1/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXcvMvwsr-SBzH4tCUYaA11cCHrIM2EDPGQyijpY8u5ECIQDFZ7kwZeRugZB8GM8g9GCtgQ-0lYYZaQ9d7qK5LhSh5Q%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", SET 24 Hours News 三立新聞 24小時
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767804/ei/nJw2YrewCMXMkwa-oraQCw/ip/13.86.153.109/id/FoBfXvlOR6I.4/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHDzbBzCPX5Ibq2wf-wYxV17PV-5qQK7byTcyDTCUmOACIHUcUFI84LphzkEJjMfxsWn2wlfDq4eUtmzBGrm699yt/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRir9C4K4BtZOlOjKHAqboFL_RlTYOfqOqhJ7brKw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Taiwan Formosa 24 Hours News 民视新聞 24小時
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767804/ei/nJw2Yt-FKJPAkwaXqYOADQ/ip/13.86.153.109/id/yguQ1SzPM5U.2/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVbkHDNrXAUX2XK5bZGDu49-Svb4rKAiq02Aj_e_GgrYCIQDeZ78HOceyoJ5leZFtOAeKGlnCUEPSxCT-7ocG76vSCg%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTOF4kYphsozlFL9YlRloNh8eJv6c_aCnCVe65vw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Taiwan CTV 24 Hours News 中视新聞 24小時
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767805/ei/nJw2Yt7YOsSrkgbpqL7YCQ/ip/13.86.153.109/id/TCnaIE_SAtM.1/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXYQ4KZfvll7S7xh7OtAdgfL3hR6hZzzjBew7j89qmxoCIE_OPLdiTjlrymghEPsCILMbW8Pj_-mPyJBYlaDoYbIW/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJF3vf6WMkZD_5lr5FQzOBqZH_GqObSZ1PBI7TnA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", EBC 24 Hours News 东森新闻 24小时
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767805/ei/nZw2YonoEMOAkwaupZC4CA/ip/13.86.153.109/id/R2iMq5LKXco.3/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGR4Pbyz28rHds7F9lSi5uyNotPLMGJQfc-ijTF6QXfMCICBM5RaTDGEuzn-rVfqzd9VTknktCLoGZrsN1Er8fZHO/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ_34jNUOPlbqCQ4A5cr_mvjLfg6GEaN_mj0IAjYCc=s48-c-k-c0x00ffffff-no-rj" tvg-id="", KBS Korea
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767805/ei/nZw2YvOqLcaXsfIPpImKuA8/ip/13.86.153.109/id/HnfpTMtfFk8.1/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI2vkeB0Xt4ydAzCq-BDS23BcBhnZn7imnHalPzmXEYRAiEA7Umb0808rGgwYhS9vxhFzw0-MWKHXqj7vsz3ZyZCZbg%3D/file/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/special/PAGE0zGSkJyGWSfe7p5hmd2O160414/ELMTpczNhFfnjUTDVZHJBDwt160414_1460623280.png" tvg-id="", CCTV4  CCTV4 中文国际
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647767806/ei/npw2YqCJA5WRkgal-bXgAg/ip/13.86.153.109/id/Qg9U06O2R-s.1/source/yt_live_broadcast/requiressl/yes/tx/24161928/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbXiQKweE6LBObHi0Pf_w5gNvo-pDyq6Q9L5Lp5JpdmkCIQDv7mUnCu3NxJWvYj9HW68rE7cvataTuIQDVLlXO4IlMg%3D%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
@@ -737,6 +720,8 @@ https://ukzy.ukubf2.com/20211208/BHAvYegZ/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22376/a36103c3-47d3-439f-b911-7b519daff23b/SD/playlist.m3u8
 
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9b0da65f04d69314150cd11e0f455348.jpeg",我和我的父辈
+https://m3u.if101.tv/xm3u8/e36c1ee20a39a289bd3a9c60d954836299af6c59fef22874eb399023149091479921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/180e559732283ecb80e903009a08d3e5.jpeg",决战鬼哭谷
 https://ukzy.ukubf2.com/20220304/KtVozhYM/index.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/36fe03d2e453eb8157460743f634a175.jpeg",幸存者1937
@@ -804,48 +789,6 @@ https://m3u.if101.tv/xm3u8/f9b967e75ac6677ef3cfa7e9ac4505ec70743f395facded83fe8c
 https://m3u.if101.tv/xm3u8/ae27b89ce3a922ea59715ed17ff4be499383b84ccd358ed8913d223e5b99d0189921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="梅艳芳" tvg-logo="https://pic.rmb.bdstatic.com/bjh/75d3741d442165d2951e99c7351d6d28.jpeg",5
 https://m3u.if101.tv/xm3u8/a913edd0a8ab211ec9209c53da1f068fc3bb33de1ce44bade0dc3672a39e619c9921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d847dfb203978a0f10bed77688731ff1.jpeg",倾听肯尼·基
-https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/74d2ec5b-73ec-4d43-87c4-c772f8fb9e86/41647/a5b1390a-24a2-4154-8088-83f5ec0c4723/SD/playlist.m3u8
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/259ef1b9c1fadc73df0462b18f90ef50.jpeg",九零后
-https://c1.monidai.com/20211013/rcUz6BE5/index.m3u8
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5f72e27deb4ac59b7c778037fef0b079.jpeg",武汉日夜
-https://ukzy.ukubf2.com/20211118/bS49aoRe/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/09228731a3fc8430afbb1270cff99008.jpeg",父女之战
-https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/74d2ec5b-73ec-4d43-87c4-c772f8fb9e86/20859/54ee516e-49ff-40b6-a919-4d3de6adc239/SD/playlist.m3u8
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/35597cdabb9151c79c38fd3611a33d90.jpeg",成为詹姆斯·邦德
-https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/74d2ec5b-73ec-4d43-87c4-c772f8fb9e86/19185/773cf822-97f9-4953-a67e-4daf0a1d67cf/SD/playlist.m3u8
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e775f1753b09e229be7cdef5b8b36bee.jpeg",刺杀
-https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/74d2ec5b-73ec-4d43-87c4-c772f8fb9e86/19001/182b06fe-4e9e-473b-836b-b772eb9e01e1/SD/playlist.m3u8
-#EXTINF:-1 group-title="DC纪录片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/59d2c1e32ec4b14ceced807eb2be5eb0.jpeg",听见台湾
-https://b.baobuzz.com/m3u8/405075.m3u8?sign=ceef605929cb2f2908ec5106113e7b32
-
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e63be9de36f54a63b4c222e5914d2ebf.jpeg",霸主
-https://1251316161.vod2.myqcloud.com/007a649dvodcq1251316161/0167bd333701925925487859226/bYQTuRwYSuoA.mp4
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5ee655b75437497fd7c1962ed33b366e.jpeg",温暖的尸体
-https://auete.top/datas/mov/wennuandeshiti.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4cb3cfa643422d41c7e0966048547876.jpeg",摄影机不要停！
-https://m3u.if101.tv/xm3u8/6372c8f33f452b8eb4ed3c3af9ee64378ecabdf1932fccfec12638e789fa18be9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8060a933c74edc88fb7bfff7cd24b162.jpeg",请叫我英雄
-https://m3u.if101.tv/xm3u8/054a047117405f12d7823afd5b68dca1aad3645b96ce24f7c3d5ac7fb21e9fbd9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/aa76cee8f08a24b04e0718198bfc7e70.jpeg",惊变28天
-https://m3u.if101.tv/xm3u8/bc5b65cb2ef4df889aa5f9667366f054f90c50c82fecdaecfe900e665286da739921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/643f71a640f3cfb395f7e7238f5de2e9.jpeg",惊变28周
-https://m3u.if101.tv/xm3u8/bff97ef2180abee01b7dfd9a1d285583af41aec08b0a4679341f7eb112d1611e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1dddaac97bcdfa0033bd3c01fbd4f7b0.jpeg",死亡之雪1
-https://m3u.if101.tv/xm3u8/ce509ba961012cab5f0917385bf357c7ec420b09fc74e79fb7e14818c38938819921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cd8f44e50d0c12f5bc3ad69f7f784677.jpeg",死亡之雪2
-https://m3u.if101.tv/xm3u8/11ffd3de6a96a3d547cc0111582d1b71502773bde316b573479cc25271c4c9da9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7495ff52e2285a3ebd308f8d696d66b9.jpeg",奇妙的家族
-https://auete.top/datas/mov/qimiaodejiazu.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4f7938c291e292df6599070d3d00245c.jpeg",童军手册之僵尸启示录
-https://m3u.if101.tv/xm3u8/130fa96a5566b40100e5233df7a58cf18145cf95acb348bb8db0b63389ae03a99921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a3e5d9ce9cd98435a97cda820bf0ecb8.jpeg",负重前行
-https://m3u.if101.tv/xm3u8/bd16ddafda891f0336c080bd6885025119885da562bd327e75e15ae304573f1c9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5f1660e9af876f5af57c2c4808b6b57d.jpeg",天赐之女
-https://auete.top/datas/mov/tiancizhinv.m3u8
-#EXTINF:-1 group-title="丧尸" tvg-logo="https://pic.rmb.bdstatic.com/bjh/433ef474ecb42efbbe84cb4f2d618a6e.jpeg",僵尸世界大战
-https://m3u.if101.tv/xm3u8/a39ce5852e8037ec20b655dd073cf442007401b4713b1ef57da22d7e166cc7fb9921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/150377aa2dbdb587ad840f6b9d225c4f.jpeg",2001
 https://auete.top/datas/mov/suduyujiqing1.m3u8
