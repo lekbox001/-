@@ -121,7 +121,7 @@ Ikaola,http://ikaola.tv/api.php/provide/vod/at/xml/,解析
 结束
 解析：
 解析1,http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=
-lekbox,https://jx.7kjx.com/?url=
+lekbox,https://jx.blbo.cc:4433/?url=
 maioparty,https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=
 maioparty2,https://jx.300ys.xyz/json/jh.php/?url=
 人人,https://jx.renrenmi.cc/?url=
