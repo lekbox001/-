@@ -264,6 +264,10 @@ https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a584e68cc598994f0ba4a3dacf9bcb43.jpeg",尼罗河上的惨案
+https://m3u.if101.tv/xm3u8/549cdc67c9cdfafd9cd5edd23a73ddd837af8d0b83e62504c5763b0e6cb1410b9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2f1b6f6a9485391c3efaf1416e884b1f.jpeg",我所有的朋友都死了
+https://m3u.if101.tv/xm3u8/696e294260e1c05d06093466ab38c539f3232ac978d4000fc714a30e36e2e14c9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/33deda0b3b88a1e229e2d9cb55dd6def.jpeg",逆冰之行
 https://m3u.if101.tv/xm3u8/2b21f40f42c714fcfba6ccfb42514dd5eba380b8ac09e3fe27f33fda8c11dad29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b4e7dfe6cfe4b3d3f6850e38c6315c9a.jpeg",王者制造
@@ -321,6 +325,10 @@ https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
 
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4662f9797736d63567db29086733f33a.jpeg",这个杀手不太冷静
+https://m3u.if101.tv/xm3u8/c1737f69ef08a759711f06821c56706127bef2b2112474885e3d69f73873b77a9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0b65f5c938dee0480a67c538530179f6.jpeg",和我结婚
+https://m3u.if101.tv/xm3u8/79dbea9f19bce7e03348ab48e37e1439a01085511af964d765c5b485a96a47c49921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/702b2a67a3bfb9981691cc6129427110.jpeg",忠犬
 https://m3u.if101.tv/xm3u8/a2c56ae2700645cd93d3f46febf74e3b26fb47ae500c31af974d7bb5454e3cb19921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7105205f0bb2a0d25ce4124f5b9f2368.jpeg",浩哥爱情故事
@@ -485,6 +493,8 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25fa26d692170df365959d545b2dc332.jpeg",雪鹰领主
+https://m3u.if101.tv/xm3u8/4c656394f73d2573d3ccbccaea259d1547853c0bb6e134ae984fbfce1a2822dd9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/418c2d4b2dacbd042b26a18c92321055.jpeg",青春变形记
 https://m3u.if101.tv/xm3u8/4b900fbb1d0c52ac0df5ab6aeb7c16252b19c68ed69fdfffbf52279965cd16449921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b559f417335717697750fa6c35ea787.jpeg",狄小肆之幽冥飞狼
@@ -657,6 +667,8 @@ https://cdn2.bzjupinhang.com:65/20210930/l3YuFneU/index.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e689015603c9784f1ccc428a58360d3e.jpeg",月光光心慌慌
 https://v4.cdtlas.com/20211017/p16I1EaG/1200kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ea61a34ca1b42984ec0d4b31934a1ddf.jpeg",月球陨落
+https://m3u.if101.tv/xm3u8/d730587058f6839af0866682a40a0d7607a4500ad3b8ad5ad815db8796b4368a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b640960d6c2c2c08b1de1bf8bc434fbc.jpeg",北海
 https://m3u.if101.tv/xm3u8/0c253a3225b8a498587817db42991bb2f0eda74180b417b0a0d9745a9f9143139921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf4d1c25b7dfd4b9ee3ea1875bf35295.jpeg",海云台
