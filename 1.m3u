@@ -104,15 +104,14 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
 
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="体育",Astro SuperSport HD
-http://51.79.193.109:8080/hlsok/afdd687c4/index.m3u8?key=iM5aCL8gH7NGfkdSzhW0NQ&expires=1646241728&mac=08:00:27:3c:10:13&type=ph
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="体育",Astro SuperSport 2 HD
-http://51.79.193.109:8080/hlsok/a656b8477/index.m3u8?key=padgxLR04CjGn7DYy2K0GA&expires=1646297930&mac=08:00:27:3c:10:13&type=ph
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="体育",Astro SuperSport 3 HD
-http://51.79.193.109:8080/hlsok/848003613/index.m3u8?key=JKqxmXzW3MuJMdrgZoyIHw&expires=1646241787&mac=08:00:27:3c:10:13&type=ph
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="体育",Astro SuperSport 4 HD
-http://51.79.193.109:8080/hlsok/06254581b/index.m3u8?key=07NauyrTk73XyZwc8WXjbw&expires=1646241796&mac=08:00:27:3c:10:13&type=ph
-
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e5ec585eab1bc1bdfa925fddb0beba73.jpeg",特工游戏
+https://new.iskcd.com/20220409/R03Pm9wv/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f3a77a802d75ba2cc1b3f265b323f59d.jpeg",承包商
+https://m3u.if101.tv/xm3u8/64f175b6ec1ded6655a1894de8472f632ca0e25363d08aaf03f6bd3aa14f44919921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4b455568ac11e0e8c30b447002107bb9.jpeg",军火大劫案
+https://m3u.if101.tv/xm3u8/abb6c398534f5850812e5099e69cdfd30dc733480271c9b4d7efdf90df9b6b309921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3443aa8b9f903bc745b25d2fd92dfe1e.jpeg",大上海夜枭
+https://new.iskcd.com/20211007/V6qk5O6W/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8d603f783e379e3a12452d8dc2059256.jpeg",哮天神犬勇闯龙宫
 https://m3u.if101.tv/xm3u8/d3aef5a0ad9bba78e10437dd585c7662eb25383c61fb4364d518768d9a0f868e9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1a957dfd24ee8c0547871ebb16377f0b.jpeg",东北往事我叫黄中华
@@ -264,6 +263,8 @@ https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f07347a1a62f11bcd96b1f5d97662c92.jpeg",誓不低头
+https://m3u.if101.tv/xm3u8/968644e42d7a0760df28bde134a107f8e3054ab369ea18bdf7306d4420606fad9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a584e68cc598994f0ba4a3dacf9bcb43.jpeg",尼罗河上的惨案
 https://m3u.if101.tv/xm3u8/549cdc67c9cdfafd9cd5edd23a73ddd837af8d0b83e62504c5763b0e6cb1410b9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2f1b6f6a9485391c3efaf1416e884b1f.jpeg",我所有的朋友都死了
@@ -325,6 +326,14 @@ https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
 
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dca96ac6cc7c5e4d31d6cda7583cee2b.jpeg",重金属天团
+https://m3u.if101.tv/xm3u8/3f599938851a3d2a5bd47407daf2cfefd6da4f6be854fe3fcde4476ba8dcbc3b9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a38775128f0e93ec3873cc67ccbb0724.jpeg",我的爸爸是小学生
+https://s1.zoubuting.com/20210809/LVXJdbxs/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/55227163bb9f4f739280724c1be22d44.jpeg",诡扯
+https://m3u.if101.tv/xm3u8/8316b4c4ff6af9c9e75bbcad02c34adf30bfcd0b487c77cbe1f46cefa8d3b6209921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/90c8bca6b54aeb9a5d66692271261a16.jpeg",假冒女团
+https://m3u.if101.tv/xm3u8/0a806039deb70576d99334788a849cfb1726215b77b49241bb3bf4ced39f355c9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4662f9797736d63567db29086733f33a.jpeg",这个杀手不太冷静
 https://m3u.if101.tv/xm3u8/c1737f69ef08a759711f06821c56706127bef2b2112474885e3d69f73873b77a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0b65f5c938dee0480a67c538530179f6.jpeg",和我结婚
@@ -495,6 +504,12 @@ https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d82320
 
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25fa26d692170df365959d545b2dc332.jpeg",雪鹰领主
 https://m3u.if101.tv/xm3u8/4c656394f73d2573d3ccbccaea259d1547853c0bb6e134ae984fbfce1a2822dd9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/870080597ece4fb6d7ffe0f9283a1f7d.jpeg",东游传
+https://m3u.if101.tv/xm3u8/eeb6496e4979d5c6d524ccb5ce8e61cfca42532707abe554ee915fd2c87c3a9b9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5b5df7312bb942ddc25e53b506715052.jpeg",伏魔录
+https://m3u.if101.tv/xm3u8/bc42544feeec08cdd0c4ffe842ac416905d8ba10333aa62cf6863569da7133729921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25fa26d692170df365959d545b2dc332.jpeg",雪鹰领主
+https://m3u.if101.tv/xm3u8/4c656394f73d2573d3ccbccaea259d1547853c0bb6e134ae984fbfce1a2822dd9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/418c2d4b2dacbd042b26a18c92321055.jpeg",青春变形记
 https://m3u.if101.tv/xm3u8/4b900fbb1d0c52ac0df5ab6aeb7c16252b19c68ed69fdfffbf52279965cd16449921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b559f417335717697750fa6c35ea787.jpeg",狄小肆之幽冥飞狼
@@ -546,6 +561,8 @@ https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce180929fb4668a8bd8a4b125ae63cb9.jpeg",哭悲
+https://m3u.if101.tv/xm3u8/27c99b8674f310600961ca91df4322ada02fd12f2675e7cd0bc78e4b025aae139921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bbea730914c521ae2d03023463d8f36b.jpeg",新鲜
 https://m3u.if101.tv/xm3u8/3521926cbe1487e1be4cd08f78c84fd694d5fee28c81c28b150dcc41aeaae2bb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8e1d0e149f957e868d04e32843ad745a.jpeg",唇亡齿寒
