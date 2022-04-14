@@ -104,6 +104,8 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/345fc62a11af9b1671b453fb50f24a7f.jpeg",见习排爆手
+https://cdn.zoubuting.com/20210709/z17pjDSo/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d6f495d5324dc15eba6c48132de31861.jpeg",新蝙蝠侠
 https://m3u.if101.tv/xm3u8/aa059e3e8c3817737a3886d9d1fa8c464013dd492feed37d8fd8ecccbe8652059921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e5ec585eab1bc1bdfa925fddb0beba73.jpeg",特工游戏
@@ -265,6 +267,8 @@ https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/439d263525fca2e824e2006afbf89520.jpeg",无限风暴
+https://new.iskcd.com/20220413/IbHKJFcS/1100kb/hls/playlist_up.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f07347a1a62f11bcd96b1f5d97662c92.jpeg",誓不低头
 https://m3u.if101.tv/xm3u8/968644e42d7a0760df28bde134a107f8e3054ab369ea18bdf7306d4420606fad9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a584e68cc598994f0ba4a3dacf9bcb43.jpeg",尼罗河上的惨案
@@ -419,6 +423,8 @@ https://cdn.zoubuting.com/20210625/YAsZuFuS/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/33eb375550f4e3a94662757f557ccb77.jpeg",新逃学威龙
 https://new.iskcd.com/20211015/2HgP1iYO/index.m3u8
 
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3bf5e94ca9d827748eb7070d25e8f41c.jpeg",僵尸来袭2
+https://qq.sd-play.com/20220413/go5MklhN/hls/index.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c7e87a2000b4d0fc263db8e4e736df50.jpeg",特利迦奥特曼
 https://auete.top/datas/mov/dhp/telijiaaotemanepisodez.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/558ad4ef48416769fc1585addf3af6db.jpeg",宇宙黎明
@@ -563,6 +569,8 @@ https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc1ac6f8f83bbdc712ee0fa39cf09b8b.jpeg",神童
+https://m3u.if101.tv/xm3u8/4ffe2a5a925a28b33dbebc4f4d58548f5b3da051bfc05c837266f9aa33752f419921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce180929fb4668a8bd8a4b125ae63cb9.jpeg",哭悲
 https://m3u.if101.tv/xm3u8/27c99b8674f310600961ca91df4322ada02fd12f2675e7cd0bc78e4b025aae139921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bbea730914c521ae2d03023463d8f36b.jpeg",新鲜
@@ -745,6 +753,12 @@ https://ukzy.ukubf2.com/20211208/BHAvYegZ/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22376/a36103c3-47d3-439f-b911-7b519daff23b/SD/playlist.m3u8
 
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/87b3fc166c9816e3f4b4458e5483a149.jpeg",英雄连
+https://auete.top/datas/mov/yingxionglian.m3u8
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1e2da43fd9e987a4b85fa14e4c8daef2.jpeg",夺命狙击2
+https://s1.zoubuting.com/20210821/DcPzPgwP/1200kb/hls/index.m3u8
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/55ded7eb0f96742331b0b3d550991860.jpeg",前哨
+https://m3u.if101.tv/xm3u8/39ecb30613103e2ec8a609959cbccf419d7a0777b284dfe65d09bed73f9e5fd59921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a49b1fb0dd6a1c868023bf32e82140c2.jpeg",狙击手
 https://m3u.if101.tv/xm3u8/3904f40c0818095098cf4e923e6f992a3d96ba1afeadec14e533c31c7b20ac359921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0cd66db218995a0212aed996464ad060.jpeg",战狼1
