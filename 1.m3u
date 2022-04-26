@@ -35,6 +35,8 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/aeb1c99b7d6a40a52cf31bdb952f65ed.jpeg",亡命救护车
+https://m3u.if101.tv/xm3u8/2d951b28be286e88d1afc1afa7c0e36e03e94d858a4cd281fcdc69cd695f571f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dc9658563ae3d3d38452312365997ff7.jpeg",神秘海域
 https://m3u.if101.tv/xm3u8/61d6629bfed43835626617be0eaa8c9b93d2a51089bbbb0df6d2f90c7300d7f19921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/345fc62a11af9b1671b453fb50f24a7f.jpeg",见习排爆手
@@ -198,6 +200,10 @@ https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/378069330808e802177b86957d99ab59.jpeg",乱战交叉
+https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/54665/c2d597aa-3199-40b4-8d2d-6947f84ee39c/SD/playlist.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8d5f7d9c112f8c4a69ea62396dd0e2e4.jpeg",奇怪国家的数学家
+https://m3u.if101.tv/xm3u8/d0950bcde5772587fd4aaec723cc642febb6cd7d29c36c8028bae865b8832a549921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a32dbd941ca3f1ab78b5bad68381b16c.jpeg",烈马争锋上海滩
 https://m3u.if101.tv/xm3u8/981d3b97ebd732be5ccb229adb410c22f1f3bd021b490af9f9f419d0071094b49921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/439d263525fca2e824e2006afbf89520.jpeg",无限风暴
@@ -510,6 +516,10 @@ https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/895ef7637bc18b2a998fff014ee648f8.jpeg",病毒32
+https://new.iskcd.com/20220425/sFFnmZww/1100kb/hls/playlist_up.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8af4fa7ded985fc3c046cf8c43dd55ad.jpeg",恶魔录音棚
+https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/ef0c756f-bc4c-4923-b13b-1f3d7be08bd5/60375/e0fb6171-cf11-4d47-b936-406fa29e4573/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3b488fa0bd33da78516c6e575246f012.jpeg",你将不再孤单
 https://m3u.if101.tv/xm3u8/176734ad391765ec840ca5030dd11b0a7b35e55e469c720ab0c427eab1f3bb5f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc1ac6f8f83bbdc712ee0fa39cf09b8b.jpeg",神童
