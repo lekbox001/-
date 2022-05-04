@@ -11,7 +11,7 @@ https://stream-01.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFPeJ9UT-kHpLt1G8id
 #EXTINF:-1 tvg-id="106" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-id="107" group-title="MY" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTINF:-1 tvg-id="107" group-title="MY" tvg-logo="https://didik.tv/images/logotv2.png",NTV7
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 #EXTINF:-1 tvg-id="108" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
