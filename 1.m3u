@@ -37,6 +37,8 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="MY" tvg-logo="https://www.ikim.gov.my/wp-newest/wp-content/uploads/2016/12/loho-grade-smaller.png",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b4b68a8abdb589a039bf7b557adc247d.jpeg",黑狱
+https://qq.sd-play.com/20220509/hlswbNhX/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1287f8e8633fa16ef919184cf267798f.jpeg",热血
 https://m3u.if101.tv/xm3u8/8d477ede664b532ce53965352546768450e8a9bef0fa077dabd17a8caf81a1029921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/aeb1c99b7d6a40a52cf31bdb952f65ed.jpeg",亡命救护车
@@ -204,6 +206,8 @@ https://new.iskcd.com/20211008/bqa680Ts/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://v4.cdtlas.com/20211209/8vIotbSn/index.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/800fe98ec0586e13c07e8da4b81a0dc1.jpeg",暑期何漫漫
+https://hnzy3.hnzyww.com:65/20220510/vD8MGv4t/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28f670833b04deca098a5c8fc589ffa6.jpeg",小镇怪客托马斯
 https://m3u.if101.tv/xm3u8/3fde05e763384e432054b7d78703b8cc014df0a863a06ecde02618ad26a616619921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4d1d12f4b382bf5f40d82c4217a5a007.jpeg",梦想演说家
@@ -279,6 +283,8 @@ https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d340769a7d800a304e251ff31a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",海盗王
 https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
 
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6d26b30cd2b513e65d9fa386c250c47.jpeg",迷失之城
+https://new.iskcd.com/20220510/ynDhC4OK/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/686f05387f86fa00647d6353c1c9d893.jpeg",依兰爱情故事
 https://m3u.if101.tv/xm3u8/009a6b5d304a17f5679134832c4895f6e170f9f1c55ab492eab4fbe130c943289921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/99ffbc1d95b8783af671d7a4337cdaa7.jpeg",东北告别天团
@@ -463,6 +469,10 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e186fb8d7df44d2123b321981b8c7f91.jpeg",邓布利多之谜
+https://m3u.if101.tv/xm3u8/b2ced90fa15cb50f8c7f030bb9ca3cd556ec04cd975a9378106a59496e2ca9a79921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/466c3d4ef7ec393b14d52e45159c30cb.jpeg",坏蛋联盟
+https://m3u.if101.tv/xm3u8/4aef04eaf9fc3d3c23b1e91133c5b95843d86481f36626b8550abdfdfa3b6e529921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce7d14c7de2d777d0946a4ca91309b63.jpeg",我们的冬奥
 https://wolongzywcdn.com:65/20220423/nSui0Zv3/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ec2413c5ef5b8ba43378d480a6855b69.jpeg",刺猬索尼克2
@@ -532,6 +542,8 @@ https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/29bed5cfeab4d727028e5406b5430bd6.jpeg",牛首村
+https://m3u.if101.tv/xm3u8/0a299d92621891e0f6e60cdcd6b58e2df887b7f0a98d971c55fb9ce16b6daa0d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8af4fa7ded985fc3c046cf8c43dd55ad.jpeg",恶魔录音棚
 https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/ef0c756f-bc4c-4923-b13b-1f3d7be08bd5/60375/e0fb6171-cf11-4d47-b936-406fa29e4573/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/895ef7637bc18b2a998fff014ee648f8.jpeg",病毒32
