@@ -180,6 +180,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/04/film-fantastic-beasts-the-secrets-of-dumbledore-2022-lk21-d21.jpg",Fantastic Beasts
+https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022-11.05.2022-15.06.45/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://146.19.24.137/wp-content/uploads/2022/04/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg",Alice (2022)
 https://hive.gdriveplayer.link/bbfj4NCXQccWmvW4F7NnDSoBVXHtR1aaa1CzlDq7XpglJMnoIrufZFBacVjf3RXKyHufp2fXZkMQ6F024YriBA/trupuM5G02wOiMratoYrkuCkvPFYUF90dntbsqAY4bE/720.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-uncharted-2022-lk21-d21.jpg",Uncharted
