@@ -7,7 +7,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-https://stream-01.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFPeJ9UT-kHpLt1G8idtG8-qv-IEQbf3aDMrn1wLaqldSazDTe8va36q7_D1jkO8bzQ)/dm/3/x7a7rpm/s/live-4.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF:-1 tvg-id="106" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -180,102 +180,21 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic the Hedgehog 2
+https://stream.xpeer.xyz/playlist1/sonic-the-hedgehog-2-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-the-northman-2022-lk21-d21.jpg",The Northman
 https://stream.xpeer.xyz/playlist1/the-northman-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/04/film-fantastic-beasts-the-secrets-of-dumbledore-2022-lk21-d21.jpg",Fantastic Beasts
 https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022-11.05.2022-15.06.45/master_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://146.19.24.137/wp-content/uploads/2022/04/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg",Alice (2022)
-https://hive.gdriveplayer.link/bbfj4NCXQccWmvW4F7NnDSoBVXHtR1aaa1CzlDq7XpglJMnoIrufZFBacVjf3RXKyHufp2fXZkMQ6F024YriBA/trupuM5G02wOiMratoYrkuCkvPFYUF90dntbsqAY4bE/720.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-uncharted-2022-lk21-d21.jpg",Uncharted
-https://www1.xpeer.xyz/hls/uncharted-2022-23.04.2022-13.27.21/playlist_480.m3u8
+https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/04/film-ambulance-2022-lk21-d21.jpg",Ambulance
-https://www1.xpeer.xyz/hls/ambulance-2022/playlist_480.m3u8
+https://stream.xpeer.xyz/playlist1/ambulance-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg",Spider-Man: No Way Home
-https://www1.xpeer.xyz/hls/spider-man-no-way-home-2021/playlist_480.m3u8
+https://stream.xpeer.xyz/playlist1/spider-man-no-way-home-2021/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/03/film-turning-red-2022-lk21-d21.jpg",Turning Red
-https://www1.xpeer.xyz/hls/turning-red-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/04/film-you-wont-be-alone-2022-lk21-d21.jpg",You Won’t Be Alone
-https://www1.xpeer.xyz/hls/you-wont-be-alone-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-wyrmwood-apocalypse-2022-lk21-d21.jpg",Wyrmwood: Apocalypse
-https://www1.xpeer.xyz/hls/wyrmwood-apocalypse-2022-22.04.2022-17.45.03/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/Shanghai-Knight-2022.jpg",Shanghai Knight
-https://www1.xpeer.xyz/hls/shanghai-knight-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/04/film-too-cool-to-kill-zhe-ge-sha-shou-bu-tai-leng-jing-2022-lk21-d21.jpg",Too Cool to Kill
-https://www1.xpeer.xyz/hls/too-cool-to-kill-zhe-ge-sha-shou-bu-tai-leng-jing-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/02/film-the-desperate-hour-lakewood-2022-lk21-d21.jpg",The Desperate Hour
-https://www1.xpeer.xyz/hls/the-desperate-hour-lakewood-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/04/film-in-our-prime-2022-lk21-d21.jpg",In Our Prime
-https://www1.xpeer.xyz/hls/in-our-prime-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/04/film-bloody-mary-2022-lk21-d21.jpg",Bloody Mary
-https://www1.xpeer.xyz/hls/bloody-mary-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/04/film-the-batman-2022-lk21-d21.jpg",The Batman
-https://www1.xpeer.xyz/hls/the-batman-2022-18.04.2022-17.35.58/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-blacklight-2022-lk21-d21.jpg",Blacklight
-https://www1.xpeer.xyz/hls/blacklight-2022-16.04.2022-21.02.09/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/04/film-the-outfit-2022-lk21-d21.jpg",The Outfit
-https://www1.xpeer.xyz/hls/the-outfit-2022-16.04.2022-16.41.21/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/04/film-room-203-2022-lk21-d21.jpg",Room 203
-https://www1.xpeer.xyz/hls/room-203-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/03/film-moonfall-2022-lk21-d21.jpg",Moonfall
-https://www1.xpeer.xyz/hls/moonfall-2022-16.04.2022-07.47.40/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/04/film-yaksha-ruthless-operations-2022-lk21-d21.jpg",Yaksha: Ruthless Operations
-https://www1.xpeer.xyz/hls/yaksha-ruthless-operations-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/04/film-the-contractor-2022-lk21-d21.jpg",The Contractor
-https://www1.xpeer.xyz/hls/the-contractor-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/03/film-snipers-ju-ji-shou-2022-lk21-d21.jpg",Snipers
-https://www1.xpeer.xyz/hls/snipers-ju-ji-shou-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/03/film-fir-2022-lk21-d21.jpg",FIR
-https://www1.xpeer.xyz/hls/fir-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/03/film-the-adam-project-2022-lk21-d21.jpg",The Adam Project
-https://www1.xpeer.xyz/hls/the-adam-project-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/03/film-the-pirates-the-last-royal-treasure-2022-lk21-d21.jpg",The Last Royal Treasure
-https://www1.xpeer.xyz/hls/the-pirates-the-last-royal-treasure-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/02/film-la-soga-salvation-la-soga-2-2022-lk21-d21.jpg",La Soga: Salvation
-https://www1.xpeer.xyz/hls/la-soga-salvation-la-soga-2-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/02/film-fistful-of-vengeance-2022-lk21-d21.jpg",Fistful of Vengeance
-https://www1.xpeer.xyz/hls/fistful-of-vengeance-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/02/film-new-kung-fu-cult-master-yi-tin-to-lung-gei-2022-lk21-d21.jpg",New Kung Fu Cult Master1
-https://www1.xpeer.xyz/hls/new-kung-fu-cult-master-yi-tin-to-lung-gei-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/02/film-new-kung-fu-cult-master-2-2022-lk21-d21.jpg",New Kung Fu Cult Master2
-https://www1.xpeer.xyz/hls/new-kung-fu-cult-master-2-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/03/film-g-storm-g-fung-bou-2021-lk21-d21.jpg",G Storm
-https://www1.xpeer.xyz/hls/g-storm-g-fung-bou-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/01/film-the-battle-at-lake-changjin-zhang-jin-hu-2021-lk21-d21.jpg",The Battle at Lake Changjin
-https://www1.xpeer.xyz/hls/the-battle-at-lake-changjin-zhang-jin-hu-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/11/film-eternals-2021-lk21-d21.jpg",Eternals
-https://www1.xpeer.xyz/hls/eternals-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2021/12/film-the-matrix-resurrections-2021-lk21-d21.jpg",The Matrix Resurrections
-https://www1.xpeer.xyz/hls/the-matrix-resurrections-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/02/film-the-kings-man-2021-lk21-d21.jpg",The King’s Man
-https://www1.xpeer.xyz/hls/the-kings-man-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg",F9 Fast & Furious 9
-https://www1.xpeer.xyz/hls/f9-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2021/11/film-no-time-to-die-2021-d21.jpg",No Time to Die
-https://www1.xpeer.xyz/hls/no-time-to-die-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2021/11/film-red-notice-2021-d21.jpg",Red Notice
-https://www1.xpeer.xyz/hls/red-notice-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg",Shang-Chi
-https://www1.xpeer.xyz/hls/shang-chi-and-the-legend-of-the-ten-rings-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2021/08/film-the-suicide-squad-2021-lk21.jpg",The Suicide Squad
-https://www1.xpeer.xyz/hls/the-suicide-squad-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2021/07/film-jungle-cruise-2021-lk21.jpg",Jungle Cruise
-https://www1.xpeer.xyz/hls/jungle-cruise-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2021/07/film-black-widow-2021-lk21.jpg",Black Widow
-https://www1.xpeer.xyz/hls/black-widow-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2021/07/film-the-hitmans-wifes-bodyguard-2021-lk21.jpg",The Hitman’s Wife’s Bodyguard
-https://www1.xpeer.xyz/hls/the-hitmans-wifes-bodyguard-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg",Wrath of Man
-https://www1.xpeer.xyz/hls/wrath-of-man-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2021/07/film-the-tomorrow-war-2021-lk21.jpg",The Tomorrow War
-https://www1.xpeer.xyz/hls/the-tomorrow-war-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/04/film-mortal-kombat-2021-lk21.jpg",Mortal Kombat
-https://www1.xpeer.xyz/hls/mortal-kombat-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2021/04/film-nobody-2021-lk21.jpg",Nobody
-https://www1.xpeer.xyz/hls/nobody-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2021/04/film-godzilla-vs-kong-2021-lk21.jpg",Godzilla vs. Kong
-https://www1.xpeer.xyz/hls/godzilla-vs-kong-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2021/07/film-how-i-became-a-superhero-2021-lk21.jpg",How I Became a Superhero
-https://www2.xpeer.xyz/hls/how-i-became-a-superhero-2021/playlist_480.m3u8
+https://stream.xpeer.xyz/playlist1/turning-red-2022/master_480.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/VanquishPoster.jpeg" group-title="𝐕𝐎𝐃 𝐌𝐨𝐯𝐢𝐞 𝟐𝟎𝟐𝟏", Action: Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
