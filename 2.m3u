@@ -177,8 +177,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-one-for-the-road-2022-lk21-d21.jpg",One for the Road
+https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-black-glasses-dark-glasses-2022-lk21-d21.jpg",Black Glasses
+https://stream.xpeer.xyz/playlist1/black-glasses-dark-glasses-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-the-monkey-king-2022-lk21-d21.jpg",The Monkey King
+https://stream.xpeer.xyz/playlist1/the-monkey-king-the-legend-begins-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-morbius-2022-lk21-d21.jpg",Morbius
-https://stream.xpeer.xyz/playlist1/morbius-2022-14.05.2022-14.42.29/master_480.m3u8https://stream.xpeer.xyz/playlist1/morbius-2022-14.05.2022-14.42.29/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/morbius-2022-14.05.2022-14.42.29/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic the Hedgehog 2
 https://stream.xpeer.xyz/playlist1/sonic-the-hedgehog-2-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-the-northman-2022-lk21-d21.jpg",The Northman
