@@ -370,13 +370,13 @@ https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/in
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M37OAIwR4pc/movieposter_en.jpg" group-title="𝐕𝐎𝐃 𝐌𝐨𝐯𝐢𝐞 𝟐𝟎𝟐𝟏", Hellkat (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
 
-#EXTINF:-1 group-title="Malay" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/film-kampong-pisang-berbuah-dua-kali-2022-lk21-d21.jpg",Kampong Pisang Berbuah Dua Kali(2022)
-https://www1.xpeer.xyz/hls/kampong-pisang-berbuah-dua-kali-2022/playlist_480.m3u8
-#EXTINF:-1 group-title="Malay" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-j2-j-retribusi-2021-lk21-d21.jpg",J Retribusi(2021)
-https://www1.xpeer.xyz/hls/j2-j-retribusi-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="Malay" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/04/film-penunggang-agama-2-2021-lk21-d21.jpg",Penunggang Agama 2 (2021)
-https://www1.xpeer.xyz/hls/penunggang-agama-2-2021/playlist_480.m3u8
-#EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/03/film-paskal-paskal-the-movie-2018-lk21.jpg",Paskal: The Movie(2018)
-https://www1.xpeer.xyz/hls/paskal-paskal-the-movie-2018/playlist_480.m3u8
-#EXTINF:-1 group-title="Malay" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2019/10/film-hantu-kak-limah-2018-lk21.jpg",Hantu Kak Limah (2018)
-https://www2.xpeer.xyz/hls/hantu-kak-limah-2018/playlist_480.m3u8
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/11/film-boboiboy-movie-2-2019-lk21.jpg",BoBoiBoy Movie 2
+https://stream.xpeer.xyz/playlist1/boboiboy-movie-2-2019/master_480.m3u8
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2021/01/film-upin-ipin-keris-siamang-tunggal-upin-ipin-keris-siamang-tunggal-2019-lk21.jpg",Upin & Ipin: Keris Siamang Tunggal
+https://stream.xpeer.xyz/playlist1/upin-ipin-keris-siamang-tunggal-upin-ipin-keris-siamang-tunggal-2019/master_480.m3u8
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/film-kampong-pisang-berbuah-dua-kali-2022-lk21-d21.jpg",Kampong Pisang Berbuah Dua Kali
+https://stream.xpeer.xyz/playlist1/kampong-pisang-berbuah-dua-kali-2022/master_480.m3u8
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-j2-j-retribusi-2021-lk21-d21.jpg",J2: J Retribusi
+https://stream.xpeer.xyz/playlist1/j2-j-retribusi-2021/master_480.m3u8
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/03/film-paskal-paskal-the-movie-2018-lk21.jpg",Paskal
+https://stream.xpeer.xyz/playlist2/paskal-paskal-the-movie-2018/master_480.m3u8
