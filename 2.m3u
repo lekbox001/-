@@ -177,6 +177,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/Golden-Spider-City-2022.jpg",Golden Spider City
+https://stream.xpeer.xyz/playlist1/golden-spider-city-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-one-for-the-road-2022-lk21-d21.jpg",One for the Road
 https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-black-glasses-dark-glasses-2022-lk21-d21.jpg",Black Glasses
@@ -380,3 +382,43 @@ https://stream.xpeer.xyz/playlist1/kampong-pisang-berbuah-dua-kali-2022/master_4
 https://stream.xpeer.xyz/playlist1/j2-j-retribusi-2021/master_480.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/03/film-paskal-paskal-the-movie-2018-lk21.jpg",Paskal
 https://stream.xpeer.xyz/playlist2/paskal-paskal-the-movie-2018/master_480.m3u8
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2016/01/film-v-for-vendetta-2005.jpg",V for Vendetta
+https://stream.xpeer.xyz/playlist2/v-vendetta-2005/master_480.m3u8
+#EXTINF:-1 group-title="Action" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/10/film-dune-2021-lk21.jpg",Dune
+https://stream.xpeer.xyz/playlist1/dune-2021/master_480.m3u8
+
+#EXTINF:-1 group-title="Avengers" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg",1
+https://stream.xpeer.xyz/playlist1/the-avengers-2012/master_480.m3u8
+#EXTINF:-1 group-title="Avengers" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2015/12/film-avengers-age-of-ultron-2015.jpg",2
+https://stream.xpeer.xyz/playlist1/avengers-age-of-ultron-2015/master_480.m3u8
+#EXTINF:-1 group-title="Avengers" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg",3
+https://stream.xpeer.xyz/playlist1/avengers-infinity-war-2018/master_480.m3u8
+#EXTINF:-1 group-title="Avengers" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg",4
+https://stream.xpeer.xyz/playlist1/avengers-endgame-2019/master_480.m3u8
+
+#EXTINF:-1 group-title="Jurassic Park" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/08/film-jurassic-park-1993.jpg",1
+https://stream.xpeer.xyz/playlist1/jurassic-park-1993/master_480.m3u8
+#EXTINF:-1 group-title="Jurassic Park" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2016/10/film-the-lost-world-jurassic-park-1997.jpg",2
+https://stream.xpeer.xyz/playlist1/lost-world-jurassic-park-1997/master_480.m3u8
+#EXTINF:-1 group-title="Jurassic Park" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2015/12/film-jurassic-park-iii-2001.jpg",3
+https://stream.xpeer.xyz/playlist2/jurassic-park-iii-2001/master_480.m3u8
+#EXTINF:-1 group-title="Jurassic Park" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-jurassic-world-2015.jpg",4
+https://stream.xpeer.xyz/playlist1/jurassic-world-2015/master_480.m3u8
+#EXTINF:-1 group-title="Jurassic Park" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2018/06/film-jurassic-world-fallen-kingdom-2018-lk21.jpg",5
+https://stream.xpeer.xyz/playlist1/jurassic-world-fallen-kingdom-2018/master_480.m3u8
+
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-resident-evil-2002.jpg",1
+https://stream.xpeer.xyz/playlist1/resident-evil-2002/master_480.m3u8
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2015/12/film-resident-evil-apocalypse-2004.jpg",2
+https://stream.xpeer.xyz/playlist2/resident-evil-apocalypse-2004/master_480.m3u8
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2015/12/film-resident-evil-extinction-2007.jpg",3
+https://stream.xpeer.xyz/playlist2/resident-evil-extinction-2007/master_480.m3u8
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-resident-evil-afterlife-2010.jpg",4
+https://stream.xpeer.xyz/playlist2/resident-evil-afterlife-2010/master_480.m3u8
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-resident-evil-retribution-2012.jpg",5
+https://stream.xpeer.xyz/playlist2/resident-evil-retribution-2012/master_480.m3u8
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://146.19.24.137/wp-content/uploads/2021/05/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg",6
+https://hive.gdriveplayer.link/3Y26ucYQijQNmy1pMq6n10TgnuHdZ7PmUUGIjLty4s-XIqsKTxi0DfaJTEQBn84MP2pmvbhQyB832flhgfnjMA/yHfKIXrhG4PFpFRJjbMyynk9nnIYRs5XShReMHgAn6M/720.m3u8
+#EXTINF:-1 group-title="Resident Evil" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2021/12/film-resident-evil-welcome-to-raccoon-city-2021-lk21-d21.jpg",7
+https://stream.xpeer.xyz/playlist1/resident-evil-welcome-to-raccoon-city-2021/master_480.m3u8
