@@ -177,6 +177,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f8d571bc99e4cd078af5c713e3c895c8.jpeg",The Contractor
+https://stream.xpeer.xyz/playlist1/the-contractor-2022-28.05.2022-12.33.02/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/Golden-Spider-City-2022.jpg",Golden Spider City
 https://stream.xpeer.xyz/playlist1/golden-spider-city-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-one-for-the-road-2022-lk21-d21.jpg",One for the Road
