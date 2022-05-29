@@ -222,6 +222,12 @@ https://cache.tkys.tv/m3u8/40544526ab595e1cd12783e118230760.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/efb147196889cb10944f8a6c7bca02a5.jpeg",最后的决斗
 https://pps.sd-play.com/20211129/xTx7uwPh/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/29eff914e0a4d7d2a7eb5775519e83b6.jpeg",逃狱兄弟3
+https://s7.fsvod1.com/20220528/li7pfWmA/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce6a1490f5c0dec37cb7f12639c4bf0b.jpeg",逃狱兄弟2
+https://m3u.if101.tv/xm3u8/0eed0c145a7f6c0da55a0476661da1ec65c0836b166f221421b3516378ff785b9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8bf16d5e55577c84a3c6e35b2138507c.jpeg",逃狱兄弟1
+https://m3u.if101.tv/xm3u8/df3a4696328b29bf25f344aecee9bc18e6918681ab1d1c23d00f67d0144abd4f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6d26b30cd2b513e65d9fa386c250c47.jpeg",迷失之城
 https://m3u.if101.tv/xm3u8/6fc07f534aad5aca18aab33b014885ab5955a6fd09aa6f05b89c43c007c93ae39921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/686f05387f86fa00647d6353c1c9d893.jpeg",依兰爱情故事
