@@ -35,7 +35,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab46afd587c1e0c19e49d78d2a3461e8.jpeg",记忆
-https://sod.kuaibocaiji.com/20220525/jFMIlnm7/800kb/hls/index.m3u8
+https://m3u.if101.tv/xm3u8/b1132145d28eb8cca81dd8bac41b8f48fd9794e9e0cef1df97a6b30e1e74c1e09921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b4b68a8abdb589a039bf7b557adc247d.jpeg",黑狱
 https://sod.bunediy.com/20220513/t3qlyPai/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1287f8e8633fa16ef919184cf267798f.jpeg",热血
@@ -632,17 +632,6 @@ https://datas-s8pwfqdu9yystn90fb----------------cache.haozhansou.com/datas/mov5/
 https://datas-s8pwfqdu9yystn90fb----------------cache.haozhansou.com/datas/mov5/ab973dd43057c09cb339c49ace1fbe56.m3u8
 #EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3515a9a57daf3e8ef09315ba1c77c3db.jpeg",3
 https://datas-s8pwfqdu9yystn90fb----------------cache.haozhansou.com/datas/mov5/8d6067712fc2dae8a7f061c5d866cb7a.m3u8
-
-#EXTINF:-1 group-title="梅艳芳" tvg-logo="https://pic.rmb.bdstatic.com/bjh/75d3741d442165d2951e99c7351d6d28.jpeg",1
-https://m3u.if101.tv/xm3u8/f44ad598ff685a382ecb13bca7cf26b7b19b2fc3c12a503a29e6748568b984db9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="梅艳芳" tvg-logo="https://pic.rmb.bdstatic.com/bjh/75d3741d442165d2951e99c7351d6d28.jpeg",2
-https://m3u.if101.tv/xm3u8/f3187750c46504ca5f889b2e6cc60895ebc6d28cc9b1ea33e1980477a13d6f539921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="梅艳芳" tvg-logo="https://pic.rmb.bdstatic.com/bjh/75d3741d442165d2951e99c7351d6d28.jpeg",3
-https://m3u.if101.tv/xm3u8/f9b967e75ac6677ef3cfa7e9ac4505ec70743f395facded83fe8c582b9fb2f8e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="梅艳芳" tvg-logo="https://pic.rmb.bdstatic.com/bjh/75d3741d442165d2951e99c7351d6d28.jpeg",4
-https://m3u.if101.tv/xm3u8/ae27b89ce3a922ea59715ed17ff4be499383b84ccd358ed8913d223e5b99d0189921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="梅艳芳" tvg-logo="https://pic.rmb.bdstatic.com/bjh/75d3741d442165d2951e99c7351d6d28.jpeg",5
-https://m3u.if101.tv/xm3u8/a913edd0a8ab211ec9209c53da1f068fc3bb33de1ce44bade0dc3672a39e619c9921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="反贪风暴" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25ab7cd7838ff503dc20ea676f2d6d5a.jpeg",1
 https://m3u.if101.tv/xm3u8/6aa2b925c1097f8cd8e2acddc1b92d10b9bd99eae5bf9ce4469163d3b209734a9921f11e97d0da21.m3u8
