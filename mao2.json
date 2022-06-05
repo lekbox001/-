@@ -49,10 +49,9 @@
 {"key":"csp_XPathMacFilter_pianba","name":"Pianba(XPath)","type":3,"api":"csp_XPath",searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8dz5fjxe2/raw/pianba.json"},
 {"key":"csp_XPathMacFilter_laimi","name":"来米(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8ywcmy74k/raw"},
 {"key":"csp_XPathMacFilter_jpys","name":"极品(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8n0cs9frh/raw"},
-{"key":"csp_XPathMacFilter_789","name":"789(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8yvzt2658/raw"},
-{"key":"最爱","name":"最爱","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
-{"key":"DC专用","name":"DC专用","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
-{"key":"兔子","name":"兔子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
+{"key":"追剧","name":"追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/api.php/app/"},
+{"key":"U5","name":"U5","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
+{"key":"天天","name":"天天","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"天空","name":"天空","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
 #
 // 推送功能扩展（需v2.1.0.Beta6及以上版本）
