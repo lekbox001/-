@@ -33,6 +33,24 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="MY" tvg-logo="https://www.ikim.gov.my/wp-newest/wp-content/uploads/2016/12/loho-grade-smaller.png",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-id="TVS" group-title="MY" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="MY" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO OASIS
+http://axcestv.vip:8080/freeview/axcestv/453
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MY",ASTRO WARNA HD
+http://axcestv.vip:8080/freeview/axcestv/456
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MY",ASTRO CITRA HD
+http://axcestv.vip:8080/freeview/axcestv/459
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="MY" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD
+http://axcestv.vip:8080/freeview/axcestv/594
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="MY" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
+http://axcestv.vip:8080/freeview/axcestv/596
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="MY" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD
+http://axcestv.vip:8080/freeview/axcestv/598
+#EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MY",Androidrepublica
+https://bit.ly/seOnlyla
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
