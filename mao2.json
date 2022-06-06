@@ -124,6 +124,7 @@
 {"name": "qq","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url="},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url="},
 {"name":"parwix","type":1,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
 {"name": "renren","type": 1,"url": "https://jx.blbo.cc:4433/?url="},
 {"name": "lekbox","type": 1,"url": "https://jx.7kjx.com/?url="},
 {"name": "laodim3u8","type": 1,"url": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="},
