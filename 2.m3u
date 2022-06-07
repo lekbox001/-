@@ -49,8 +49,6 @@ http://axcestv.vip:8080/freeview/axcestv/594
 http://axcestv.vip:8080/freeview/axcestv/596
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="MY" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD
 http://axcestv.vip:8080/freeview/axcestv/598
-#EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MY",Androidrepublica
-https://bit.ly/seOnlyla
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
