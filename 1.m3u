@@ -34,6 +34,10 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="MY" tvg-logo="https://www.ikim.gov.my/wp-newest/wp-content/uploads/2016/12/loho-grade-smaller.png",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d95dbd7a53569f231e892e325f850344.jpeg",天才不能承受之重
+https://m3u.if101.tv/xm3u8/ebe9b702b8aaf0f104497aa92d9eaf54425e259018d008fe9ae672fa0098605f9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25b7d3c839ce19f226dc61f3420f8052.jpeg",追踪
+https://m3u.if101.tv/xm3u8/878f9fec0be32ad42d8b827a0d7e51e4363b65252fb59adff6c448a0e07dc1319921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab46afd587c1e0c19e49d78d2a3461e8.jpeg",记忆
 https://m3u.if101.tv/xm3u8/b1132145d28eb8cca81dd8bac41b8f48fd9794e9e0cef1df97a6b30e1e74c1e09921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b4b68a8abdb589a039bf7b557adc247d.jpeg",黑狱
