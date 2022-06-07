@@ -195,6 +195,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-last-seen-alive-2022-lk21-d21.jpg",Last Seen Alive
+https://stream.xpeer.xyz/playlist1/last-seen-alive-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-the-unbearable-weight-of-massive-talent-2022-lk21-d21.jpg",The Unbearable Weight of Massive Talent
+https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/05/film-father-stu-2022-lk21-d21.jpg",Father Stu
 https://stream.xpeer.xyz/playlist1/father-stu-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f8d571bc99e4cd078af5c713e3c895c8.jpeg",The Contractor
