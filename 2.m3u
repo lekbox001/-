@@ -193,6 +193,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-blind-war-2022-lk21-d21.jpg",Blind War
+https://stream.xpeer.xyz/playlist1/blind-war-2022/master_720.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-last-seen-alive-2022-lk21-d21.jpg",Last Seen Alive
 https://stream.xpeer.xyz/playlist1/last-seen-alive-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-the-unbearable-weight-of-massive-talent-2022-lk21-d21.jpg",The Unbearable Weight of Massive Talent
@@ -396,6 +398,8 @@ https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/in
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M37OAIwR4pc/movieposter_en.jpg" group-title="𝐕𝐎𝐃 𝐌𝐨𝐯𝐢𝐞 𝟐𝟎𝟐𝟏", Hellkat (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
 
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-rumah-2022-lk21-d21.jpg",Rumah (2022)
+https://stream.xpeer.xyz/playlist1/rumah-2022/master_480.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/11/film-boboiboy-movie-2-2019-lk21.jpg",BoBoiBoy Movie 2
 https://stream.xpeer.xyz/playlist1/boboiboy-movie-2-2019/master_480.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2021/01/film-upin-ipin-keris-siamang-tunggal-upin-ipin-keris-siamang-tunggal-2019-lk21.jpg",Upin & Ipin: Keris Siamang Tunggal
