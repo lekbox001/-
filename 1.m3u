@@ -33,12 +33,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="MY" tvg-logo="https://www.ikim.gov.my/wp-newest/wp-content/uploads/2016/12/loho-grade-smaller.png",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="MY" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD
-http://axcestv.vip:8080/freeview/axcestv/594
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="MY" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
-http://axcestv.vip:8080/freeview/axcestv/596
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="MY" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD
-http://axcestv.vip:8080/freeview/axcestv/598
 
 
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25b7d3c839ce19f226dc61f3420f8052.jpeg",追踪
