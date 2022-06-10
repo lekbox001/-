@@ -121,18 +121,14 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name": "点此解析","type": 2,"url": "Parallel"},
-{"name": "qq","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url="},
-{"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url="},
-{"name": "lekbox","type": 1,"url": "https://jx.7kjx.com/?url="},
-{"name":"parwix","type":1,"url":"https://jx.parwix.com:4433/player/?url="},
-{"name": "renren","type": 1,"url": "https://jx.blbo.cc:4433/?url="},
-{"name": "laodim3u8","type": 1,"url": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="},
+{"name":"Vip123","type":1,"url":"http://api.vip123kan.vip/?url="},
+{"name": "lekbox","type": 0,"url": "https://jx.7kjx.com/?url="},
+{"name":"parwix","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name": "blbo","type": 0,"url": "https://jx.blbo.cc:4433/?url="},
 {"name": "ltnb","type": 1,"url": "https://vvip.funsline.cn//api//?key=3xWfEoDf4V9p9Y20CR&url="},
 {"name": "WUDU","type": 1,"url": "https://jhjx.kuanjv.com/newky/?url="},
 {"name": "WUDU2","type": 1,"url": "http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
-{"name": "爱奇艺","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7631191&key=cdemqsxFGKLNRVXYZ9&url="},
-{"name": "hfyrw","type": 1,"url": "https://jx.hfyrw.com/mao.go?url="},
-{"name": "人人","type": 1,"url": "https://jx.renrenmi.cc/?url="}
+{"name": "hfyrw","type": 1,"url": "https://jx.hfyrw.com/mao.go?url="}
 ],
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","longteng","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","xueren","xfyun","ziqie","wuduzy","CL4K","xuanfeng","1920l"],
