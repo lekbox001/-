@@ -34,7 +34,8 @@
 {"key": "库克(爬虫)","name": "库克","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "爱优腾VIP","name": "爱优腾VIP","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "官采","name": "官采","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
-
+## 01.🐼缝合接口
+## --> spider 改 "custom_spider.jar",
 {"key":"csp_Nbys","name":"泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_Auete","name": "LEKBOX2","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_AliPanSou","name": "喵狸盘搜","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "مواء الراكون"},
