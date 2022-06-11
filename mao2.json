@@ -44,7 +44,7 @@
 {"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "عالم الحيوان"},
 {"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "أوبرا"},
 ## XPath系列, APP影视规则, 资源网采集
-{"key":"csp_biubiu_天空资源","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/l1007/-/main/mao/%E5%A4%A9%E7%A9%BA%E8%B5%84%E6%BA%90.json"},
+{"key":"csp_biubiu_天空资源","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/天空资源.json"},
 {"key":"csp_XPathMacFilter_555","name":"555(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
 {"key":"csp_XPathMacFilter_lib","name":"LIBVIO(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8idxgvwsv/raw"},
 {"key":"csp_XPathMacFilter_dadagui","name":"大师兄(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8g4y02s31/raw"},
