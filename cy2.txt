@@ -1,7 +1,7 @@
 点播：
 LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,解析
 推荐,https://demo.if101.tv/api.php/provide/vod/at/xml,解析
-爱优腾,https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml,解析
+8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 天空资源,http://api.tiankongapi.com/api.php/provide/vod/at/xml,解析
 神马,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 星辰,http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml/,解析
