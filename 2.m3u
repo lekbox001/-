@@ -179,6 +179,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-siege-of-robin-hood-2022-lk21-d21.jpg",The Siege of Robin Hood
+https://stream.xpeer.xyz/playlist1/the-siege-of-robin-hood-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-hustle-2022-lk21-d21.jpg",Hustle
 https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-attack-2022-lk21-d21.jpg",Attack
@@ -407,6 +409,13 @@ https://stream.xpeer.xyz/playlist2/paskal-paskal-the-movie-2018/master_480.m3u8
 https://stream.xpeer.xyz/playlist2/v-vendetta-2005/master_480.m3u8
 #EXTINF:-1 group-title="Action" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/10/film-dune-2021-lk21.jpg",Dune
 https://stream.xpeer.xyz/playlist1/dune-2021/master_480.m3u8
+
+#EXTINF:-1 group-title="Taken" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-taken-2008.jpg",1
+https://stream.xpeer.xyz/playlist1/taken-2008/master_480.m3u8
+#EXTINF:-1 group-title="Taken" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2015/12/film-taken-2-2012.jpg",2
+https://stream.xpeer.xyz/playlist1/taken-2-2012/master_480.m3u8
+#EXTINF:-1 group-title="Taken" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2015/12/film-taken-3-2015.jpg",3
+https://stream.xpeer.xyz/playlist2/taken-3-2015/master_480.m3u8
 
 #EXTINF:-1 group-title="Avengers" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg",1
 https://stream.xpeer.xyz/playlist1/the-avengers-2012/master_480.m3u8
