@@ -38,6 +38,13 @@
 ## --> spider 改 custom_spider.jar
 {"key":"csp_Nbys","name":"泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_Auete","name": "LEKBOX2","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+## 02.🐉明接口
+## --> spider 改 xm.jar
+{"key": "csp_AliPanSou","name": "喵狸盘搜","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "مواء الراكون"},
+{"key": "csp_GitCafe","name": "小纸条","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "ملاحظة"},
+{"key": "csp_Concert","name": "演唱会","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "حفلة موسيقية"},
+{"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "عالم الحيوان"},
+{"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "أوبرا"},
 ## XPath系列, APP影视规则, 资源网采集
 {"key":"csp_biubiu_天空资源","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g91yiix1s8/raw"},
 {"key":"csp_XPathMacFilter_555","name":"555(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
