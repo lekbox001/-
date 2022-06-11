@@ -4,7 +4,7 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-"spider":"https://github.com/l1007/-/raw/main/custom_spider.jar",
+"spider":"https://github.com/l1007/-/raw/main/baddychen0608.jar",
 ## 02.🐉明接口
 //"spider":"https://github.com/l1007/-/raw/main/xm.jar",
 ## 03.🐱S接口
@@ -35,14 +35,14 @@
 {"key": "爱优腾VIP","name": "爱优腾VIP","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "官采","name": "官采","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 ## 01.🐼缝合接口
-## --> spider 改 custom_spider.jar
+## --> spider 改 baddychen0608.jar
 {"key":"csp_Nbys","name":"泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_Auete","name": "LEKBOX2","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_Concert","name": "演唱会","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
+{"key": "csp_AliPanSou","name": "喵狸盘搜","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "مواء الراكون"},
+{"key": "csp_GitCafe","name": "小纸条","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "ملاحظة"},
+{"key": "csp_Concert","name": "演唱会","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "حفلة موسيقية"},
+{"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "عالم الحيوان"},
+{"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "أوبرا"},
 ## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple+Kuaikan规则
 ## --> spider 改 "spider":"https://oneclickrun.yuanhsing.cf/MeowXB/XBiubiuLA3.jar",
 {"key":"csp_biubiu_天空资源","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/天空资源.json"},
