@@ -1,30 +1,8 @@
 {
 "wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
-//"spider":"https://github.com/l1007/-/raw/main/mao/custom_spider.jar",
-
-# spider (择一使用👇)
-## 01.🐼缝合接口
-"spider":"https://github.com/l1007/-/raw/main/custom_spider.jar",
-## 02.🐉明接口
-//"spider":"https://github.com/l1007/-/raw/main/xm.jar",
-## 03.🐱S接口
-//"spider":"https://github.com/l1007/-/raw/main/baikan.jar",
-
-
-# 直播 (择一使用👇)
-## 01.🦋直播
-## --> spider 改 baikan.jar 或 custom_spider.jar
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
-
-## 02.🦋直播
-## --> spider 改 xm.jar
-## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
-//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
-
+"spider":"https://github.com/l1007/-/raw/main/baddychen0608.jar",
 
 "sites":[
-# 广大侠 资源网采集
-#官方解析
 {"key":"if101资源","name":"LEKBOX","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1"},
 {"key":"淘片资源","name":"淘片","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"U酷","name":"U酷","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":""},
@@ -34,8 +12,6 @@
 {"key": "库克(爬虫)","name": "库克","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "爱优腾VIP","name": "爱优腾VIP","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "官采","name": "官采","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
-## 01.🐼缝合接口
-## --> spider 改 "custom_spider.jar",
 {"key":"csp_Nbys","name":"泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_Auete","name": "LEKBOX2","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_AliPanSou","name": "喵狸盘搜","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -43,8 +19,6 @@
 {"key": "csp_Concert","name": "演唱会","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
-## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple+Kuaikan规则
-## --> spider 改 "spider":"https://oneclickrun.yuanhsing.cf/MeowXB/XBiubiuLA3.jar",
 {"key":"csp_biubiu_天空资源","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/天空资源.json"},
 {"key":"csp_XPathMacFilter_555","name":"555(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
 {"key":"csp_XPathMacFilter_lib","name":"LIBVIO(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8idxgvwsv/raw"},
@@ -59,13 +33,7 @@
 {"key":"U5","name":"U5","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"天天","name":"天天","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"天空","name":"天空","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
-#
-// 推送功能扩展（需v2.1.0.Beta6及以上版本）
-// 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
-// 支持推送播放网盘链接
-// https://github.com/catvod/CatVodTVSpider
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
-#
 ],
  
   "lives": [
