@@ -405,6 +405,25 @@ https://stream.xpeer.xyz/playlist1/j2-j-retribusi-2021/master_480.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/03/film-paskal-paskal-the-movie-2018-lk21.jpg",Paskal
 https://stream.xpeer.xyz/playlist2/paskal-paskal-the-movie-2018/master_480.m3u8
 
+#EXTINF:-1 group-title="The Transporter" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2016/05/film-the-transporter-2002.jpg",1
+https://stream.xpeer.xyz/playlist1/the-transporter-2002/master_480.m3u8
+#EXTINF:-1 group-title="The Transporter" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/05/film-transporter-2-2005.jpg",2
+https://stream.xpeer.xyz/playlist1/transporter-2-2005/master_480.m3u8
+#EXTINF:-1 group-title="The Transporter" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2015/12/film-transporter-3-2008.jpg",3
+https://stream.xpeer.xyz/playlist1/transporter-3-2008/master_480.m3u8
+
+#EXTINF:-1 group-title="The Expendables" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2016/01/film-the-expendables-2010.jpg",1
+https://stream.xpeer.xyz/playlist1/the-expendables-2010/master_480.m3u8
+#EXTINF:-1 group-title="The Expendables" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2017/06/film-the-expendables-2-2012-1.jpg",2
+https://stream.xpeer.xyz/playlist2/expendables-2-2012/master_480.m3u8
+#EXTINF:-1 group-title="The Expendables" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2016/01/film-the-expendables-3-2014.jpg",3
+https://stream.xpeer.xyz/playlist1/the-expendables-3-2014/master_480.m3u8
+
+#EXTINF:-1 group-title="Mechanic" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/05/film-the-mechanic-2011.jpg",1
+https://stream.xpeer.xyz/playlist1/the-mechanic-2011/master_480.m3u8
+#EXTINF:-1 group-title="Mechanic" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2016/11/film-mechanic-resurrection-2016.jpg",2
+https://stream.xpeer.xyz/playlist1/mechanic-resurrection-2016/master_480.m3u8
+
 #EXTINF:-1 group-title="Action" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2016/01/film-v-for-vendetta-2005.jpg",V for Vendetta
 https://stream.xpeer.xyz/playlist2/v-vendetta-2005/master_480.m3u8
 #EXTINF:-1 group-title="Action" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/10/film-dune-2021-lk21.jpg",Dune
