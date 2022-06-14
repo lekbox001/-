@@ -74,7 +74,7 @@
 {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_AliPanSou","name":"阿里网盘搜索","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Concert","name": "演唱会","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
