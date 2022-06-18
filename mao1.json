@@ -88,7 +88,6 @@
 {"key": "库克(爬虫)","name": "库克","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "爱优腾VIP","name": "爱优腾VIP","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "官采","name": "官采","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
-{"key":"csp_biubiu_天空资源","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/天空资源.json"},
 {"key":"csp_XPathMacFilter_555","name":"555(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
 {"key":"csp_XPathMacFilter_lib","name":"LIBVIO(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8idxgvwsv/raw"},
 {"key":"csp_XPathMacFilter_dadagui","name":"大师兄(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8g4y02s31/raw"},
