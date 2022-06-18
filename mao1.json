@@ -80,6 +80,8 @@
 {"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0},
 
+{"key":"csp_biubiu_厂长资源","name":"🥒厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywseg8bk/raw"},
+   
 {"key":"淘片资源","name":"淘片","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"U酷","name":"U酷","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":""},
 {"key":"考拉TV","name":"考拉TV","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://ikaola.tv/api.php/provide/vod/at/xml/","playUrl":""},
@@ -88,6 +90,7 @@
 {"key": "库克(爬虫)","name": "库克","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "爱优腾VIP","name": "爱优腾VIP","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 {"key": "官采","name": "官采","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
+
 {"key":"csp_XPathMacFilter_555","name":"555(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
 {"key":"csp_XPathMacFilter_lib","name":"LIBVIO(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8idxgvwsv/raw"},
 {"key":"csp_XPathMacFilter_dadagui","name":"大师兄(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://glot.io/snippets/g8g4y02s31/raw"},
