@@ -1,15 +1,7 @@
-// 本地接口 clan://协议 简易设定流程：
-// 升级猫影视TV至 2.1.1 Beta5
-// 设置 --> 存储权限 --> 允许
-// 将 Tangsan99999.zip 解压缩至"根目录"
-// 设置 --> 当前接口配置 --> 直接黏贴底下的 配置接口设定 或是也可以 透过扫码或浏览器访问网址 --> 设置配置接口
-// 配置接口设定 --> https://github.com/l1007/-/raw/main/doraAmen.jar
-
-
 {
 "wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
 
-"spider":"https://github.com/l1007/-/raw/main/doraAmen.jar",
+"spider":"https://github.com/l1007/-/raw/main/XBiubiuLA3.jar",
 
 "sites":[
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/厂长资源-蓝光.json"},
@@ -271,7 +263,7 @@
 {"name": "ltnb","type": 1,"url": "https://vvip.funsline.cn//api//?key=3xWfEoDf4V9p9Y20CR&url="},
 {"name": "WUDU","type": 1,"url": "https://jhjx.kuanjv.com/newky/?url="},
 {"name": "WUDU2","type": 1,"url": "http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
-{"name": "hfyrw","type": 1,"url": "https://jx.hfyrw.com/mao.go?url="}
+{"name": "hfyrw","type": 0,"url": "https://jx.hfyrw.com/mao.go?url="}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
