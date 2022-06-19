@@ -1,105 +1,609 @@
-$c_startTW$c_end
-TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS新闻台(备),http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立综合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-三立财经iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-东森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-东森新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-东森财经新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-东森购物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-东森购物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
-中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-中天全民最大党,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-中视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-亚洲旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-公视戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-半岛国际新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-华视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-华语戏剧台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-华语综艺台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-国会频道1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170
-国会频道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
-大爱电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
-客家电视台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-寰宇新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-新唐人亚太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-时尚运动X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-智林体育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民视台湾台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民视影剧台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-民视旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-民视第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民视综艺台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-滚动力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-爱尔达生活旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-精选动漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-经典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-经典电影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-金光布袋戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-ARIRANG,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-DW德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-ELTV生活英语台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-MOMO亲子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-SBN全球财经台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-VOA美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-$c_startHK$c_end
-凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
-凤凰中文,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰资讯,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
-凤凰中文,http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
-凤凰香港,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
-翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
-无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
-无线财经,http://radius.8866.org:880/hls/83/index.m3u8
-明珠台,http://radius.8866.org:880/hls/84/index.m3u8
-ViuTV6,http://radius.8866.org:880/hls/85/index.m3u8
-ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
-RHK31,http://radius.8866.org:880/hls/89/index.m3u8
-RHK32,http://radius.8866.org:880/hls/90/index.m3u8
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线财经,http://ye23.win/iptv/tvb.php?id=2
-无线新闻,http://ye23.win/iptv/tvb.php?id=4
-无线新闻,http://ye23.win/iptv/tvb.php?id=5
-无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-无线财经,http://111.229.84.232/yulin/tvb.php?id=2
-翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-Now直播,http://51.222.193.142:10011/8
-Now新闻,http://51.222.193.142:10011/9
 $c_startMY$c_end
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 TV Alhijrah,http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+$c_startHK12$c_end
+翡翠台,http://iptv12k.com:35461/live/80201051217/424567/1021.m3u8
+无线新闻台,http://iptv12k.com:35461/live/80201051217/424567/1012.m3u8
+无线财经资讯台,http://iptv12k.com:35461/live/80201051217/424567/1011.m3u8
+J2,http://iptv12k.com:35461/live/80201051217/424567/1006.m3u8
+明珠台,http://iptv12k.com:35461/live/80201051217/424567/1020.m3u8
+TVB娱乐新闻台,http://iptv12k.com:35461/live/80201051217/424567/1001.m3u8
+TVB千禧经典台,http://iptv12k.com:35461/live/80201051217/424567/1003.m3u8
+TVB星河,http://iptv12k.com:35461/live/80201051217/424567/1000.m3u8
+RTHK31,http://iptv12k.com:35461/live/80201051217/424567/1004.m3u8
+RTHK32,http://iptv12k.com:35461/live/80201051217/424567/1005.m3u8
+有线新闻台,http://iptv12k.com:35461/live/80201051217/424567/1018.m3u8
+有线电影台,http://iptv12k.com:35461/live/80201051217/424567/1010.m3u8
+有线体育台,http://iptv12k.com:35461/live/80201051217/424567/1017.m3u8
+有线18台,http://iptv12k.com:35461/live/80201051217/424567/1022.m3u8
+有线603台,http://iptv12k.com:35461/live/80201051217/424567/1023.m3u8
+香港开电视,http://iptv12k.com:35461/live/80201051217/424567/1013.m3u8
+Now新闻台,http://iptv12k.com:35461/live/80201051217/424567/1002.m3u8
+Now直播台,http://iptv12k.com:35461/live/80201051217/424567/1015.m3u8
+Now Sports Prime,http://iptv12k.com:35461/live/80201051217/424567/1014.m3u8
+VIUTV,http://iptv12k.com:35461/live/80201051217/424567/1008.m3u8
+VIUTV 6,http://iptv12k.com:35461/live/80201051217/424567/1007.m3u8
+耀才财经台,http://iptv12k.com:35461/live/80201051217/424567/1016.m3u8
+$c_startMY12$c_end
+ASSP,http://iptv12k.com:35461/live/80201051217/424567/972.m3u8
+ASSP(b),http://iptv12k.com:35461/live/80201051217/424567/7990.m3u8
+ASSP2,http://iptv12k.com:35461/live/80201051217/424567/971.m3u8
+ASSP2(b),http://iptv12k.com:35461/live/80201051217/424567/655.m3u8
+ASSP2(b2),http://iptv12k.com:35461/live/80201051217/424567/7988.m3u8
+ASSP3,http://iptv12k.com:35461/live/80201051217/424567/970.m3u8
+ASSP3(b),http://iptv12k.com:35461/live/80201051217/424567/654.m3u8
+ASSP3(b2),http://iptv12k.com:35461/live/80201051217/424567/7985.m3u8
+ASSP4,http://iptv12k.com:35461/live/80201051217/424567/7983.m3u8
+ASSP4(b),http://iptv12k.com:35461/live/80201051217/424567/969.m3u8
+ASSP4(b2),http://iptv12k.com:35461/live/80201051217/424567/653.m3u8
+ASSP5,http://iptv12k.com:35461/live/80201051217/424567/7982.m3u8
+AEC,http://iptv12k.com:35461/live/80201051217/424567/709.m3u8
+AOD351,http://iptv12k.com:35461/live/80201051217/424567/705.m3u8
+AOD352,http://iptv12k.com:35461/live/80201051217/424567/704.m3u8
+AOD353,http://iptv12k.com:35461/live/80201051217/424567/703.m3u8
+AOD354,http://iptv12k.com:35461/live/80201051217/424567/702.m3u8
+AOD355,http://iptv12k.com:35461/live/80201051217/424567/701.m3u8
+翡翠华丽台,http://iptv12k.com:35461/live/80201051217/424567/698.m3u8
+双星,http://iptv12k.com:35461/live/80201051217/424567/706.m3u8
+全佳,http://iptv12k.com:35461/live/80201051217/424567/710.m3u8
+欢喜台,http://iptv12k.com:35461/live/80201051217/424567/707.m3u8
+爱奇艺,http://iptv12k.com:35461/live/80201051217/424567/708.m3u8
+小太阳,http://iptv12k.com:35461/live/80201051217/424567/700.m3u8
+中天亞洲台,http://iptv12k.com:35461/live/80201051217/424567/694.m3u8
+TVBS亞洲台,http://iptv12k.com:35461/live/80201051217/424567/695.m3u8
+TVB星河,http://iptv12k.com:35461/live/80201051217/424567/696.m3u8
+TVB娛樂新聞台,http://iptv12k.com:35461/live/80201051217/424567/697.m3u8
+TVB經典台,http://iptv12k.com:35461/live/80201051217/424567/699.m3u8
+天映頻道,http://iptv12k.com:35461/live/80201051217/424567/581.m3u8
+天映頻道,http://iptv12k.com:35461/live/80201051217/424567/692.m3u8
+天映经典,http://iptv12k.com:35461/live/80201051217/424567/693.m3u8
+8TV,http://iptv12k.com:35461/live/80201051217/424567/738.m3u8
+ABC,http://iptv12k.com:35461/live/80201051217/424567/592.m3u8
+AFN,http://iptv12k.com:35461/live/80201051217/424567/640.m3u8
+ANIMAX,http://iptv12k.com:35461/live/80201051217/424567/605.m3u8
+ANIPLUS,http://iptv12k.com:35461/live/80201051217/424567/686.m3u8
+AXN,http://iptv12k.com:35461/live/80201051217/424567/608.m3u8
+AXN,http://iptv12k.com:35461/live/80201051217/424567/1243.m3u8
+AnimalPlanet,http://iptv12k.com:35461/live/80201051217/424567/633.m3u8
+BBCEarth,http://iptv12k.com:35461/live/80201051217/424567/624.m3u8
+BBC,http://iptv12k.com:35461/live/80201051217/424567/623.m3u8
+BOOMERANG,http://iptv12k.com:35461/live/80201051217/424567/614.m3u8
+BabyTV,http://iptv12k.com:35461/live/80201051217/424567/616.m3u8
+Bloomberg,http://iptv12k.com:35461/live/80201051217/424567/590.m3u8
+CARTOON,http://iptv12k.com:35461/live/80201051217/424567/613.m3u8
+CBeebies,http://iptv12k.com:35461/live/80201051217/424567/615.m3u8
+CI,http://iptv12k.com:35461/live/80201051217/424567/634.m3u8
+CINEMAX,http://iptv12k.com:35461/live/80201051217/424567/607.m3u8
+CN,http://iptv12k.com:35461/live/80201051217/424567/618.m3u8
+CNBC,http://iptv12k.com:35461/live/80201051217/424567/593.m3u8
+CNN,http://iptv12k.com:35461/live/80201051217/424567/594.m3u8
+CinemaWorld,http://iptv12k.com:35461/live/80201051217/424567/1881.m3u8
+Cinemax,http://iptv12k.com:35461/live/80201051217/424567/1882.m3u8
+Cinemax,http://iptv12k.com:35461/live/80201051217/424567/1883.m3u8
+ComedyCentral,http://iptv12k.com:35461/live/80201051217/424567/683.m3u8
+Cricket,http://iptv12k.com:35461/live/80201051217/424567/684.m3u8
+DMAX,http://iptv12k.com:35461/live/80201051217/424567/636.m3u8
+DW,http://iptv12k.com:35461/live/80201051217/424567/622.m3u8
+Discovery,http://iptv12k.com:35461/live/80201051217/424567/627.m3u8
+DisneyXD,http://iptv12k.com:35461/live/80201051217/424567/626.m3u8
+Eentertainment,http://iptv12k.com:35461/live/80201051217/424567/637.m3u8
+EURONEWS,http://iptv12k.com:35461/live/80201051217/424567/588.m3u8
+EUROSPORT,http://iptv12k.com:35461/live/80201051217/424567/647.m3u8
+FOXMOVIES+,http://iptv12k.com:35461/live/80201051217/424567/611.m3u8
+FOXMOVIES+,http://iptv12k.com:35461/live/80201051217/424567/612.m3u8
+FOXMOVIES,http://iptv12k.com:35461/live/80201051217/424567/610.m3u8
+FOXNEWS,http://iptv12k.com:35461/live/80201051217/424567/587.m3u8
+FOX,http://iptv12k.com:35461/live/80201051217/424567/609.m3u8
+FRANCE24,http://iptv12k.com:35461/live/80201051217/424567/589.m3u8
+FoodChannel,http://iptv12k.com:35461/live/80201051217/424567/638.m3u8
+GOLF,http://iptv12k.com:35461/live/80201051217/424567/651.m3u8
+HBOFamily,http://iptv12k.com:35461/live/80201051217/424567/1891.m3u8
+HBOFamily,http://iptv12k.com:35461/live/80201051217/424567/597.m3u8
+HBOHiTS,http://iptv12k.com:35461/live/80201051217/424567/603.m3u8
+HBOHits,http://iptv12k.com:35461/live/80201051217/424567/1889.m3u8
+HBOHits,http://iptv12k.com:35461/live/80201051217/424567/598.m3u8
+HBOSignature,http://iptv12k.com:35461/live/80201051217/424567/596.m3u8
+HBO,http://iptv12k.com:35461/live/80201051217/424567/599.m3u8
+HGTV,http://iptv12k.com:35461/live/80201051217/424567/641.m3u8
+HISTORY,http://iptv12k.com:35461/live/80201051217/424567/629.m3u8
+HITSMOVIES,http://iptv12k.com:35461/live/80201051217/424567/602.m3u8
+KBSWorld,http://iptv12k.com:35461/live/80201051217/424567/713.m3u8
+Kix,http://iptv12k.com:35461/live/80201051217/424567/689.m3u8
+LOVENATURE,http://iptv12k.com:35461/live/80201051217/424567/621.m3u8
+MTV,http://iptv12k.com:35461/live/80201051217/424567/586.m3u8
+NAT GEO,http://iptv12k.com:35461/live/80201051217/424567/632.m3u8
+NAT GEO WILD,http://iptv12k.com:35461/live/80201051217/424567/630.m3u8
+NET GEO WILD,http://iptv12k.com:35461/live/80201051217/424567/1222.m3u8
+NBATV,http://iptv12k.com:35461/live/80201051217/424567/942.m3u8
+NHKWORLD,http://iptv12k.com:35461/live/80201051217/424567/585.m3u8
+Oh!K,http://iptv12k.com:35461/live/80201051217/424567/712.m3u8
+One,http://iptv12k.com:35461/live/80201051217/424567/711.m3u8
+Outdoor,http://iptv12k.com:35461/live/80201051217/424567/582.m3u8
+PREMIERSPORTS,http://iptv12k.com:35461/live/80201051217/424567/687.m3u8
+ROCKENTERTAINMENT,http://iptv12k.com:35461/live/80201051217/424567/601.m3u8
+ROCKEXTREME,http://iptv12k.com:35461/live/80201051217/424567/600.m3u8
+SKYNEWS,http://iptv12k.com:35461/live/80201051217/424567/591.m3u8
+TLC,http://iptv12k.com:35461/live/80201051217/424567/639.m3u8
+TSN,http://iptv12k.com:35461/live/80201051217/424567/1878.m3u8
+TrvlChannel,http://iptv12k.com:35461/live/80201051217/424567/635.m3u8
+WARNERTV,http://iptv12k.com:35461/live/80201051217/424567/604.m3u8
+WWE,http://iptv12k.com:35461/live/80201051217/424567/652.m3u8
+nickjr,http://iptv12k.com:35461/live/80201051217/424567/619.m3u8
+nick,http://iptv12k.com:35461/live/80201051217/424567/617.m3u8
+tvNMovies,http://iptv12k.com:35461/live/80201051217/424567/715.m3u8
+tvN,http://iptv12k.com:35461/live/80201051217/424567/714.m3u8
+$c_startTW12$c_end
+TVBS,http://iptv12k.com:35461/live/80201051217/424567/1272.m3u8
+TVBS欢乐台,http://iptv12k.com:35461/live/80201051217/424567/1271.m3u8
+三立iNews,http://iptv12k.com:35461/live/80201051217/424567/1358.m3u8
+三立台湾台,http://iptv12k.com:35461/live/80201051217/424567/1286.m3u8
+三立新闻,http://iptv12k.com:35461/live/80201051217/424567/1285.m3u8
+三立都会台,http://iptv12k.com:35461/live/80201051217/424567/1287.m3u8
+東森电影台,http://iptv12k.com:35461/live/80201051217/424567/1866.m3u8
+东森戏剧,http://iptv12k.com:35461/live/80201051217/424567/1255.m3u8
+东森综合,http://iptv12k.com:35461/live/80201051217/424567/1280.m3u8
+东森羊片,http://iptv12k.com:35461/live/80201051217/424567/1256.m3u8
+東森洋片,http://iptv12k.com:35461/live/80201051217/424567/1867.m3u8
+东森财经新闻,http://iptv12k.com:35461/live/80201051217/424567/1356.m3u8
+中天亚洲台,http://iptv12k.com:35461/live/80201051217/424567/1278.m3u8
+中天新闻,http://iptv12k.com:35461/live/80201051217/424567/1357.m3u8
+中视新闻,http://iptv12k.com:35461/live/80201051217/424567/1291.m3u8
+中视菁采台,http://iptv12k.com:35461/live/80201051217/424567/1273.m3u8
+八大娱乐台,http://iptv12k.com:35461/live/80201051217/424567/1281.m3u8
+八大戏剧台,http://iptv12k.com:35461/live/80201051217/424567/1284.m3u8
+八大第一台,http://iptv12k.com:35461/live/80201051217/424567/1282.m3u8
+八大综合台,http://iptv12k.com:35461/live/80201051217/424567/1283.m3u8
+卫视中文台,http://iptv12k.com:35461/live/80201051217/424567/1257.m3u8
+卫视电影台,http://iptv12k.com:35461/live/80201051217/424567/1258.m3u8
+卫视电影台,http://iptv12k.com:35461/live/80201051217/424567/1261.m3u8
+卫视电影台,http://iptv12k.com:35461/live/80201051217/424567/1868.m3u8
+台视,http://iptv12k.com:35461/live/80201051217/424567/1290.m3u8
+壹新闻,http://iptv12k.com:35461/live/80201051217/424567/1293.m3u8
+年代新闻,http://iptv12k.com:35461/live/80201051217/424567/1359.m3u8
+星卫HD电影,http://iptv12k.com:35461/live/80201051217/424567/1870.m3u8
+星卫娱乐台,http://iptv12k.com:35461/live/80201051217/424567/1247.m3u8
+纬来体育,http://iptv12k.com:35461/live/80201051217/424567/1237.m3u8
+纬来日本,http://iptv12k.com:35461/live/80201051217/424567/1238.m3u8
+纬来电影,http://iptv12k.com:35461/live/80201051217/424567/1236.m3u8
+纬来精采,http://iptv12k.com:35461/live/80201051217/424567/1239.m3u8
+纬来综合,http://iptv12k.com:35461/live/80201051217/424567/1240.m3u8
+美亚电影台,http://iptv12k.com:35461/live/80201051217/424567/1260.m3u8
+美亚电影台,http://iptv12k.com:35461/live/80201051217/424567/1869.m3u8
+美食星球,http://iptv12k.com:35461/live/80201051217/424567/1259.m3u8
+ELEVEN2,http://iptv12k.com:35461/live/80201051217/424567/1217.m3u8
+ELTA体育1台,http://iptv12k.com:35461/live/80201051217/424567/1221.m3u8
+ELTA体育3台,http://iptv12k.com:35461/live/80201051217/424567/1219.m3u8
+ELTA綜合,http://iptv12k.com:35461/live/80201051217/424567/679.m3u8
+ELTA影剧,http://iptv12k.com:35461/live/80201051217/424567/1248.m3u8
+EYE TV旅游,http://iptv12k.com:35461/live/80201051217/424567/1223.m3u8
+JET综合,http://iptv12k.com:35461/live/80201051217/424567/1262.m3u8
+霹靂台灣台,http://iptv12k.com:35461/live/80201051217/424567/690.m3u8
+大爱,http://iptv12k.com:35461/live/80201051217/424567/1204.m3u8
+天映頻道,http://iptv12k.com:35461/live/80201051217/424567/1875.m3u8
+天映经典,http://iptv12k.com:35461/live/80201051217/424567/1253.m3u8
+天映经典,http://iptv12k.com:35461/live/80201051217/424567/1871.m3u8
+新唐人亚太台,http://iptv12k.com:35461/live/80201051217/424567/1200.m3u8
+momo亲子台,http://iptv12k.com:35461/live/80201051217/424567/1209.m3u8
+人间卫视,http://iptv12k.com:35461/live/80201051217/424567/1202.m3u8
+SBN全球财经台,http://iptv12k.com:35461/live/80201051217/424567/1251.m3u8
+SBN全球财经台,http://iptv12k.com:35461/live/80201051217/424567/1277.m3u8
+AFN亚洲美食,http://iptv12k.com:35461/live/80201051217/424567/1229.m3u8
+动物星球,http://iptv12k.com:35461/live/80201051217/424567/1233.m3u8
+好莱坞电影,http://iptv12k.com:35461/live/80201051217/424567/1249.m3u8
+AXN b,http://iptv12k.com:35461/live/80201051217/424567/2127.m3u8
+AXN,http://iptv12k.com:35461/live/80201051217/424567/1885.m3u8
+CATCHPLAY电影台,http://iptv12k.com:35461/live/80201051217/424567/1252.m3u8
+CINEMAX,http://iptv12k.com:35461/live/80201051217/424567/1214.m3u8
+CatchPlay電影台,http://iptv12k.com:35461/live/80201051217/424567/1865.m3u8
+Ci罪案侦缉频道,http://iptv12k.com:35461/live/80201051217/424567/1246.m3u8
+DW,http://iptv12k.com:35461/live/80201051217/424567/1208.m3u8
+HBO HD,http://iptv12k.com:35461/live/80201051217/424567/1893.m3u8
+HBO HD,http://iptv12k.com:35461/live/80201051217/424567/1266.m3u8
+HBO原创,http://iptv12k.com:35461/live/80201051217/424567/1887.m3u8
+HBO原创,http://iptv12k.com:35461/live/80201051217/424567/1263.m3u8
+HBO家庭,http://iptv12k.com:35461/live/80201051217/424567/1265.m3u8
+HBO强档,http://iptv12k.com:35461/live/80201051217/424567/1264.m3u8
+HISTORY,http://iptv12k.com:35461/live/80201051217/424567/1206.m3u8
+HISTORY2,http://iptv12k.com:35461/live/80201051217/424567/1201.m3u8
+Smithsonian Channel,http://iptv12k.com:35461/live/80201051217/424567/1250.m3u8
+Trvl Channel,http://iptv12k.com:35461/live/80201051217/424567/1213.m3u8
+WarnerTV,http://iptv12k.com:35461/live/80201051217/424567/1880.m3u8
+BBC,http://iptv12k.com:35461/live/80201051217/424567/1360.m3u8.m3u8
+Bloomberg,http://iptv12k.com:35461/live/80201051217/424567/1361.m3u8
+CGTN,http://iptv12k.com:35461/live/80201051217/424567/1367.m3u8
+CNBC,http://iptv12k.com:35461/live/80201051217/424567/1355.m3u8
+CNBC,http://iptv12k.com:35461/live/80201051217/424567/1362.m3u8
+CNN,http://iptv12k.com:35461/live/80201051217/424567/1364.m3u8
+DW,http://iptv12k.com:35461/live/80201051217/424567/1365.m3u8
+DW,http://iptv12k.com:35461/live/80201051217/424567/1369.m3u8
+FOX NEWS,http://iptv12k.com:35461/live/80201051217/424567/1270.m3u8
+FOX NEWS,http://iptv12k.com:35461/live/80201051217/424567/1371.m3u8
+FOX NEWS,http://iptv12k.com:35461/live/80201051217/424567/1372.m3u8
+NBCSN,http://iptv12k.com:35461/live/80201051217/424567/1370.m3u8
+SKY NEWS,http://iptv12k.com:35461/live/80201051217/424567/1368.m3u8
+ESPN,http://iptv12k.com:35461/live/80201051217/424567/1212.m3u8
+NBA CA,http://iptv12k.com:35461/live/80201051217/424567/1227.m3u8
+GOLF,http://iptv12k.com:35461/live/80201051217/424567/1228.m3u8
+TSN 1,http://iptv12k.com:35461/live/80201051217/424567/1245.m3u8
+TSN 4,http://iptv12k.com:35461/live/80201051217/424567/1009.m3u8
+TSN 4,http://iptv12k.com:35461/live/80201051217/424567/1225.m3u8
+$c_startCN12$c_end
+CCTV1,http://iptv12k.com:35461/live/80201051217/424567/1333.m3u8
+CCTV2,http://iptv12k.com:35461/live/80201051217/424567/1332.m3u8
+CCTV3,http://iptv12k.com:35461/live/80201051217/424567/1331.m3u8
+CCTV4,http://iptv12k.com:35461/live/80201051217/424567/1330.m3u8
+CCTV5,http://iptv12k.com:35461/live/80201051217/424567/1329.m3u8
+CCTV5+,http://iptv12k.com:35461/live/80201051217/424567/1328.m3u8
+CCTV6,http://iptv12k.com:35461/live/80201051217/424567/1327.m3u8
+CCTV7,http://iptv12k.com:35461/live/80201051217/424567/1326.m3u8
+CCTV8,http://iptv12k.com:35461/live/80201051217/424567/1325.m3u8
+CCTV9,http://iptv12k.com:35461/live/80201051217/424567/1324.m3u8
+CCTV10,http://iptv12k.com:35461/live/80201051217/424567/1323.m3u8
+CCTV11,http://iptv12k.com:35461/live/80201051217/424567/1322.m3u8
+CCTV12,http://iptv12k.com:35461/live/80201051217/424567/1321.m3u8
+CCTV13,http://iptv12k.com:35461/live/80201051217/424567/1320.m3u8
+CCTV14,http://iptv12k.com:35461/live/80201051217/424567/1319.m3u8
+CCTV15,http://iptv12k.com:35461/live/80201051217/424567/1318.m3u8
+东方卫视,http://iptv12k.com:35461/live/80201051217/424567/1309.m3u8
+北京卫视,http://iptv12k.com:35461/live/80201051217/424567/1312.m3u8
+广东卫视,http://iptv12k.com:35461/live/80201051217/424567/1313.m3u8
+浙江卫视,http://iptv12k.com:35461/live/80201051217/424567/1316.m3u8
+湖南卫视,http://iptv12k.com:35461/live/80201051217/424567/1317.m3u8
+深圳卫视,http://iptv12k.com:35461/live/80201051217/424567/1302.m3u8
+天津卫视,http://iptv12k.com:35461/live/80201051217/424567/1303.m3u8
+山东卫视,http://iptv12k.com:35461/live/80201051217/424567/1307.m3u8
+安徽卫视,http://iptv12k.com:35461/live/80201051217/424567/1308.m3u8
+辽宁卫视,http://iptv12k.com:35461/live/80201051217/424567/1295.m3u8
+黑龙江卫视,http://iptv12k.com:35461/live/80201051217/424567/1298.m3u8
+重庆卫视,http://iptv12k.com:35461/live/80201051217/424567/1299.m3u8
+海南卫视,http://iptv12k.com:35461/live/80201051217/424567/1301.m3u8
+云南卫视,http://iptv12k.com:35461/live/80201051217/424567/1297.m3u8
+河南卫视,http://iptv12k.com:35461/live/80201051217/424567/1300.m3u8
+$c_start香港$c_end
+鳳凰中文台,mitv://51.81.90.178:9906/4cfe34b3161944d7acb47d13ca6f0805
+鳳凰資訊台,mitv://51.81.90.178:9906/df5af1aa5ef740f180e259508b1fa54c
+鳳凰香港台,mitv://51.81.90.178:9906/1d32bcc2ff4649578fa41f6bbe3626f4
+鳳凰電影台,mitv://51.81.90.178:9906/56d03beeca584635b9650181abade903 
+﻿翡翠台,mitv://51.81.90.178:9906/ef5f038c1fd4439499c974db0853c5fb
+﻿翡翠台(備),mitv://51.81.90.178:9906/61ab74d2000c56d914e7a7702f0c341f
+無綫新聞台,mitv://51.81.90.178:9906/b41eb0b5981e48a391fec1e6c1567a47
+無綫新聞台(備),mitv://51.81.90.178:9906/73ae40d2945d4963ae6c287347d86e84
+無綫財經·資訊台,mitv://51.81.90.178:9906/b59bc57c23fd427bb6e21cc06a7d07e5
+J2,mitv://51.81.90.178:9906/62130578e7014b41ab89e439cd19e345
+明珠台,mitv://51.81.90.178:9906/fb704c28c18a4e1eb1494f9238551aab
+TVB娛樂新聞台,mitv://51.81.90.178:9906/e7062076c18a46fdb12d9bd5b4df40a0
+TVB星河(粵),mitv://51.81.90.178:9906/183238c73106418b8aa3c0a10ae19a7c 
+TVB經典台,mitv://51.81.90.178:9906/83d60fafbdbc442d9ec30a98839d8ddc
+TVB直播台,mitv://51.81.90.178:9906/
+TVB亞洲劇台,mitv://51.81.90.178:9906/1377725767ad454990707dd19bd98a80
+TVB粵語片台,mitv://51.81.90.178:9906/f9daf2b8d39a4eb0bfc21de64bf752f8
+TVB功夫台,mitv://51.81.90.178:9906/a5d8a6acd2674bd2b4893d5afb4a39e8
+TVB Hands Up,mitv://51.81.90.178:9906/d261ec10caf04565b79ea0e2b19a84a5
+ myTV SUPER 18台,mitv://51.81.90.178:9906/167d3df9987c407d9b8665e35dfb9762
+港台電視31,mitv://51.81.90.178:9906/47546596e4294a5bac0bbe2738220076
+港台電視32,mitv://51.81.90.178:9906/3f54cfcf3bc5495995185d306de1fbba
+有線新聞台,mitv://51.81.90.178:9906/e03aeb301c454a37a0037e80278b2c00
+有線直播新聞台,mitv://51.81.90.178:9906/
+有線綜合娛樂台,mitv://51.81.90.178:9906/bae2b3e8b2bd42ba8d7a9342b4beb148
+有線財經資訊台,mitv://51.81.90.178:9906/64fe4b26e7be494ab06659f01d79a633
+有線電影台,mitv://51.81.90.178:9906/2ea57ec3a6f840909f2459facddb0857
+有線體育台,mitv://51.81.90.178:9906/e1c5efcc76e5468ea0d1e966075ed564
+有線18台,mitv://51.81.90.178:9906/85970bf795c74244b200490261b5251c
+有線603台,mitv://51.81.90.178:9906/57436c14fffc4a13868d3128d301fd7d
+有線Sports Plus 1,mitv://51.81.90.178:9906/cfc362a06ab14a1b99c26a77fad35842
+香港開電視,mitv://51.81.90.178:9906/6f2c2161b67f46e4940eaf79f5c73831
+now新聞台,mitv://51.81.90.178:9906/f479f58dbc674704aec30e5d7b0e708b
+now直播台,mitv://51.81.90.178:9906/5675efce5d2a4296a7a774abb10c91b9
+ViuTV,mitv://51.81.90.178:9906/1637783702e6405297fb6a3357056a82
+ViuTVsix,mitv://51.81.90.178:9906/e96f8117a3eb4a1a9579c975e4a33da0
+衛視電影台,mitv://51.81.90.178:9906/aa22dede89124e75ab5742c51696fa24
+美亞電影台(粵語),mitv://51.81.90.178:9906/4ebb596e89644d409019695662b8eb7c
+爆谷台,mitv://51.81.90.178:9906/c54a56bb1b164738b39c5f6e17c6ab83
+爆谷星影台,mitv://51.81.90.178:9906/a9e0428b9c0149d79f26310616182a4a
+陽光衛視,mitv://51.81.90.178:9906/c430f03f16984379883b5c726d4bec46
+Thrill,mitv://51.81.90.178:9906/e317bb9e43164d998b73544816d97d92
+$c_start台灣$c_end
+民視,mitv://51.81.90.178:9906/998a4b8c8587435d8e7ac36fd1bcffcd
+民視(備),mitv://51.81.90.178:9906/dfdc38ab7ab3457691ef24772404e073
+民視台灣台,mitv://51.81.90.178:9906/23e6079eaa4f4508a41568bd4e0ace2d
+民視新聞台,mitv://51.81.90.178:9906/ffc52f6ca68747b9aa46398e4aa2ccd3
+民視第一台,mitv://51.81.90.178:9906/02488780d84541b0a2ccc0abf1abe945
+中視,mitv://51.81.90.178:9906/6418b4cc0e6c42df8c3e6ffc1f8fa469
+中視(備),mitv://51.81.90.178:9906/034f23714bc146fa87ffee0cf4dc3fb7
+中視新聞台,mitv://51.81.90.178:9906/ffa76b8f6f41463b9184005134d383cf
+中視經典台,mitv://51.81.90.178:9906/be0796e6d0a641ec94bdf2a36b97250c
+中視菁采台,mitv://51.81.90.178:9906/06cfdd22a6324eb9bb0743e838968ba5
+台視,mitv://51.81.90.178:9906/0266c6114c0d47c6b2c7530b34100114
+台視(備),mitv://51.81.90.178:9906/07dbb3f78b8f4f11be2a1703d2675d54
+台視(備),mitv://51.81.90.178:9906/6ee2c39129d64ece9e6766a1081fd141
+台視新聞台,mitv://51.81.90.178:9906/371758bbc4b8442590e7b376fed7de27
+台視財經台,mitv://51.81.90.178:9906/71289ce5966b4e2ba46b8b921cc6b98f
+華視,mitv://51.81.90.178:9906/06d0e7abfac443a89930e4634285b0a3
+華視(備),mitv://51.81.90.178:9906/65ae7eb593ee458da534a3e3239160b9
+華視新聞,mitv://51.81.90.178:9906/0d4504ce2e4844b598dfd24a151ef778
+公視,mitv://51.81.90.178:9906/5cb069fb469440f2a4d1fe63fe505c8e
+公視(備),mitv://51.81.90.178:9906/07dbb3f78b8f4f11be2a1703d2675d54
+公視3台,mitv://51.81.90.178:9906/da9ad6eae0324ca992c7665752689e60
+TVBS,mitv://51.81.90.178:9906/d80042372b264a7285bcb4a0d8895af9
+TVBS新聞台,mitv://51.81.90.178:9906/319f75ba607b4106ae311c44b6a94e50
+TVBS歡樂台,mitv://51.81.90.178:9906/6427a30bf8d24b888139139e6e5d6ce5
+TVBS精采台,mitv://51.81.90.178:9906/26665ffc1efb446e9d8e5739ea5cecb9
+三立iNEWS,mitv://51.81.90.178:9906/362386face3046f5937d6ce05007ec80
+三立台灣台,mitv://51.81.90.178:9906/3d0ed19ada54446c9b050be6b586b192
+三立台灣台(備),mitv://51.81.90.178:9906/881b01b246a1428d88f48bb1cda43931
+三立戲劇台,mitv://51.81.90.178:9906/92d31152a1e947ec85631bd844176f33
+三立新聞台,mitv://51.81.90.178:9906/fc07833bda4c461faeb5936b0b9579c2
+三立綜合台,mitv://51.81.90.178:9906/f876d15e8ded4a3d8d75b30e03327537
+三立都會台,mitv://51.81.90.178:9906/6aa1515692f84f3f8853227d883bd00b
+中天娛樂台,mitv://51.81.90.178:9906/93468f6d7d5f412294c22481855cdb44
+中天新聞台,mitv://51.81.90.178:9906/a3b86454babd4421b73f6e8297b5ed7b
+中天綜合台,mitv://51.81.90.178:9906/f46fddd9b8f14f6b90721b92784de765
+亞洲旅遊台,mitv://51.81.90.178:9906/faa62020839044d7bb7f9bc885a21301
+八大優頻道,mitv://51.81.90.178:9906/b7084a54e4654f799f81db48a795cf07
+八大娛樂台,mitv://51.81.90.178:9906/8338d7acbcf443e6b604a46070c501b4
+八大戲劇台,mitv://51.81.90.178:9906/a9a36868d5214eed87abde535cb8ad9c
+八大第一台,mitv://51.81.90.178:9906/b1615bf0d6584087aa31727a7d0bbc10
+八大綜合台,mitv://51.81.90.178:9906/f1d887108423433dbe7a1be6cc8c72e4
+壹電視新聞台,mitv://51.81.90.178:9906/7e307b84ddf144ec8a5679c009f1d17d
+壹電視綜合,mitv://51.81.90.178:9906/359b47ce2c954a41b572bab8e672742c
+壹電視電影台,mitv://51.81.90.178:9906/a9f4d08703db48f986f17a3068a5f05d
+好萊塢電影台,mitv://51.81.90.178:9906/7d23046e5e954a3aa51e619cef71deea
+寰宇新聞台,mitv://51.81.90.178:9906/a92e0242bd40432cac27672a4487f5d0
+寰宇新聞台灣台,mitv://51.81.90.178:9906/489dfe99757c4c8a878ff572ed315980
+年代新聞,mitv://51.81.90.178:9906/f528e29826d9408db6a620e3ac2f89f5
+影迷數位電影台,mitv://51.81.90.178:9906/e87e7131d4ac4b45b0135000d161e14d
+星衛HD電影台,mitv://51.81.90.178:9906/ae745ddb161d40ecb85a13bab935fd75
+星衛娛樂台,mitv://51.81.90.178:9906/a7d349332124495abb888f2aef7ec398
+時尚頻道,mitv://51.81.90.178:9906/abad4856a3294ae688b691acee105ad9
+東森新聞台,mitv://51.81.90.178:9906/59e4c440ff2e48ca8d3c61b3d9b5eb8b
+東森新聞台(備),mitv://51.81.90.178:9906/0d495dd09cd344aebf633fb63308
+東森亞洲衛視,mitv://51.81.90.178:9906/7bee7cba1419436882ac0734b1165061
+東森戲劇台,mitv://51.81.90.178:9906/e94ee611df844e1a8b2b24e2efea212d
+東森洋片台,mitv://51.81.90.178:9906/c63744806af4498a97cdcc81389f3b4e
+東森綜合台,mitv://51.81.90.178:9906/5f486fe91c774bd6ba23d9234f4815ee
+東森財經新聞台,mitv://51.81.90.178:9906/816d2fde77fe4f3b94113a0f846d7c83
+東森超視,mitv://51.81.90.178:9906/45fa9027c1d546bd9e0a6dd2de42231c
+東森電影台,mitv://51.81.90.178:9906/77c6190cab484acea558e8890f02ce0a
+東森幼幼台,mitv://51.81.90.178:9906/ad23f70c06c949a1965397b0a7563275
+緯來戲劇台,mitv://51.81.90.178:9906/403ca25e37694cfabac66979b9658a36
+緯來日本,mitv://51.81.90.178:9906/0caf8f77ae19424c967bac0aa0673984
+緯來精采,mitv://51.81.90.178:9906/6de0ff3bdbb04dc7925db72e6b01bbd8
+緯來綜合台,mitv://51.81.90.178:9906/c5aff23843324399a88a42deb460480c
+緯來育樂台,mitv://51.81.90.178:9906/6ffe8ba69d924456a2c9447d4e87f81a
+緯來電影台,mitv://51.81.90.178:9906/408e447322b84ec1a70a11e78796ad44
+緯來體育台,mitv://51.81.90.178:9906/a09cfc3c8e454635a7f661daff272171
+美亞電影台HD,mitv://51.81.90.178:9906/9665a9e693c24fb6a7de5f23a0828e10
+美食星球,mitv://51.81.90.178:9906/9b8d88481c6c44d188afd17343e2fced
+衛視中文台,mitv://51.81.90.178:9906/9e5586a4674f4413a21059ca6e3830ba
+衛視電影台,mitv://51.81.90.178:9906/bbf242927bbb470fa0a8e8320f6e5691
+EYE TV戲劇台,mitv://51.81.90.178:9906/cfb10b74120245009dc13001a9f1908c
+EYE TV旅遊台,mitv://51.81.90.178:9906/9817cc9e252d4badb57afbf195913a40
+愛爾達影劇台,mitv://51.81.90.178:9906/b3b06e844aab4ecc823cf9eeef2e6568
+愛爾達綜合台,mitv://51.81.90.178:9906/f6378e094f7946cb91862292784b3bfc
+愛爾達體育1台,mitv://51.81.90.178:9906/34928cc156e949beaf5fccadf557ee31
+愛爾達體育1台(備),mitv://51.81.90.178:9906/614bc2444db54b328dde2ae3e90a891e
+愛爾達體育2台,mitv://51.81.90.178:9906/635985fc67cc46b68c6a2a4cb7ac2fce
+愛爾達體育2台(備),mitv://51.81.90.178:9906/73874c3ec63944908c6350c456ab4820
+愛爾達體育3台,mitv://51.81.90.178:9906/58b57e4aeff54dcbbd408e0112d0dd00
+愛爾達體育3台(備),mitv://51.81.90.178:9906/338a4df7d1d64128b6a3edc4a7541735
+ELEVEN體育1台,mitv://51.81.90.178:9906/701d36ed810d4791a6a7ab3894b606c9
+ELEVEN體育2台,mitv://51.81.90.178:9906/bf1aa977eda340ec9f156c47c816549f
+博斯無限台,mitv://51.81.90.178:9906/1952f78533ce4a548eae09bfa2714ec4
+博斯無限二台,mitv://51.81.90.178:9906/28056aac2391432696e1e3438e15293a
+博斯網球台,mitv://51.81.90.178:9906/c36c2c9f03b04d2bbcdc90828013bdd1
+博斯運動,mitv://51.81.90.178:9906/ac5044741adc406caf025113fea9abc8
+博斯運動二台,mitv://51.81.90.178:9906/e84376ded708444ea7784d652c13178a
+博斯高球,mitv://51.81.90.178:9906/897f31f31dd842e18135e43c14221615
+博斯高球二台,mitv://51.81.90.178:9906/74d09e6746904743bd2add21d49aca9b
+博斯魅力網,mitv://51.81.90.178:9906/0f66e333d6684f8cbe07fce72ad86419
+智林體育台,mitv://51.81.90.178:9906/a659d303938741eeb64473f36544eb14
+采昌影劇台,mitv://51.81.90.178:9906/a7a1620736734c5fa0803a9710a18306
+霹靂台灣台,mitv://51.81.90.178:9906/1d335adddeaf453e9ec8c8e633d1a485
+靖天卡通台,mitv://51.81.90.178:9906/a440c2357c3f4112837f70ec31b935a2
+靖天國際台,mitv://51.81.90.178:9906/a3be622a9a4f4ab0b642eb3873936e6e
+靖天戲劇台,mitv://51.81.90.178:9906/87b58bcf05114e8b9286d1e642fe2614
+靖天日本台,mitv://51.81.90.178:9906/a1cb13c09b6745ab963729c6e29a932b
+靖天映畫,mitv://51.81.90.178:9906/494a5f0b60bc4462951d0b858cb00921
+靖天歡樂台,mitv://51.81.90.178:9906/eb34bdd571d2485cbeb8e9a6c83dd6d9
+靖天綜合台,mitv://51.81.90.178:9906/628fa51cd4334160b4c9e03ec9534a61
+靖天育樂台,mitv://51.81.90.178:9906/8cc03dabde6f4ed6adc70755b0c3cff3
+靖天資訊台,mitv://51.81.90.178:9906/3d8c76d584a6463e8b82a0180da24504
+靖天電影台,mitv://51.81.90.178:9906/ca72a184acbe4bad9c8865696ce35e4a
+靖洋卡通Nice Bingo,mitv://51.81.90.178:9906/5547b4f414034f3fa69c85f3f46a2be9
+靖洋戲劇台,mitv://51.81.90.178:9906/efc3634338504bf98b720e6f52ffda78
+鏡新聞,mitv://51.81.90.178:9906/afbbd4d09aeb44db915b3bd48ca52275
+非凡新聞台,mitv://51.81.90.178:9906/0e50dcbe43d24864a68dd221347a4069
+非凡商業台,mitv://51.81.90.178:9906/efa3ca2f9d2b4050aa0cf5a0be33ae25
+韓國娛樂台,mitv://51.81.90.178:9906/c2cc7f1a2b094e1397f44809458d43dc
+高點綜合台,mitv://51.81.90.178:9906/17767d205cfa4e67afaef5c3fdfab332
+龍祥電影,mitv://51.81.90.178:9906/e750c6a96d784dc887ca4c07a39765ce
+龍華偶像,mitv://51.81.90.178:9906/2019f6a498084984b46e9311906077dc
+龍華戲劇,mitv://51.81.90.178:9906/8a4279caaac24c6bb978526e3197523d
+龍華電影,mitv://51.81.90.178:9906/270ef606c9fb4db5ae3833d511ad74b5
+原住民電視台,mitv://51.81.90.178:9906/b517479c78a0438dbadb8eff3f8230d6
+客家電視台,mitv://51.81.90.178:9906/03239dcb6b6241eea4547d1b4460d499
+國興衛視,mitv://51.81.90.178:9906/c840ffbb1f5248659607460c784a4268
+大愛,mitv://51.81.90.178:9906/9c1267362bae486c9c1a87ddee575894
+大愛(備),mitv://51.81.90.178:9906/26454017b4d04b2a84c3460e1a59cde7
+大愛2台,mitv://51.81.90.178:9906/092cd8d7b4a34ceeb0ff6d553f06891d
+好消息,mitv://51.81.90.178:9906/7d5d6597440646119cde621419853187
+好消息2台,mitv://51.81.90.178:9906/0db23de4313e44efadabd109ae121f66
+國會頻道1,mitv://51.81.90.178:9906/c3e7a1ff37a249048ef637b17e3e03a1
+國會頻道2,mitv://51.81.90.178:9906/6e4d614fde9748d1b1a255e49af03a17
+人間衛視,mitv://51.81.90.178:9906/3b43053286ca43b5a968f7bd1094f052
+佛衛慈悲台,mitv://51.81.90.178:9906/77b2a5261c1c4cd68613a7b9dba473b4
+ETtoday綜合台,mitv://51.81.90.178:9906/63cde357b65f4a5fadf352c2c6e8f3de
+ELTV生活英語台,mitv://51.81.90.178:9906/2177065d908240f29d5b113718d9206b
+i-Fun動漫台,mitv://51.81.90.178:9906/ccd2308443d34ec3b5b57f86fcb4bd7c
+MOMO親子台,mitv://51.81.90.178:9906/05836ce8d0a04ee09f3dea234121795d
+Z頻道,mitv://51.81.90.178:9906/e51199fd84764a5a80943a26d9d3f3e6
+動物星球,mitv://51.81.90.178:9906/fbb0d320127b41539f441afae6d7087a
+國家地理頻道,mitv://51.81.90.178:9906/acb183e8cca144be844fc9f224db3d14
+國家地理野生頻道,mitv://51.81.90.178:9906/327be5b6f0a247e9aee8fca8985d096b
+AFN亞洲美食頻道,mitv://51.81.90.178:9906/1f8b63123d46430fbf0b1c3905aa67d3
+AMC最愛電影,mitv://51.81.90.178:9906/d736de70d0a444418a5aed698cdb01e6
+AXN,mitv://51.81.90.178:9906/55f279fb6d714ba6babd744e96e3008a
+Al Jazeera English,mitv://51.81.90.178:9906/0803cab7ba544af8bd6dc9edaf3d655e
+Animax,mitv://51.81.90.178:9906/e1c068f658a84fd881d850e42cfb7ce3
+Arirang,mitv://51.81.90.178:9906/1f33e4a367bf4dbfbafb2991de431359
+BBC Earth,mitv://51.81.90.178:9906/fc8c10aef4404d67b9d42230d8adfbbe
+BBC Lifestyle,mitv://51.81.90.178:9906/aa72dc1f5aa94bb8b0f47600dba36c7a
+BBC World News,mitv://51.81.90.178:9906/14cd138d7d964e5ea8aa6a1b72692ee0
+Bloomberg TV,mitv://51.81.90.178:9906/a37da105edcd4588b8a026f830e9c088
+Cinema World,mitv://51.81.90.178:9906/67bae79dacee4447bbf6e8e5d73be731
+CINEMAX,mitv://51.81.90.178:9906/2d668223ac634f04b842d496ba832c7a
+CI罪案偵緝頻道,mitv://51.81.90.178:9906/83c23f12668641938106b999fff6126d
+CLASSICA 古典樂,mitv://51.81.90.178:9906/b000e0a3b5c843618d43ce5a3b653bf6
+CMusic,mitv://51.81.90.178:9906/0ebb766164904a7c91506004896d548a
+CNBC,mitv://51.81.90.178:9906/262bfc2b7fcb4ef2b40e8efb837bf09d
+CNN,mitv://51.81.90.178:9906/3d4a6bbbcbab4748b97ba2f205e746b3
+CN卡通頻道,mitv://51.81.90.178:9906/e8e472c997d14ff3a2ad261df5eecf67
+CatchPlay電影台,mitv://51.81.90.178:9906/9f013473d54441f1ab91065fd015cae7
+Cbeebies,mitv://51.81.90.178:9906/0f7b2ed7047c491cad3c9e5ac6e9de4d
+達文西頻道,mitv://51.81.90.178:9906/30683a53dfd24cc4879a93a7cb2abdb0
+DMAX,mitv://51.81.90.178:9906/6ec338206013427fa13c0e37f9b76f5a
+DW,mitv://51.81.90.178:9906/3b8a119ba86e431eb901f4a39039fc72
+探索頻道,mitv://51.81.90.178:9906/4ac9b4da15e74a39a6586889b9fa6425
+Discovery Asia,mitv://51.81.90.178:9906/e60bc3b1861a44d6bad1b4d3ad69c801
+Discovery科學頻道,mitv://51.81.90.178:9906/14b91dbaad9d44f0b67d2d8897b30467
+Dreamworks,mitv://51.81.90.178:9906/4f7a8def8f574982afae4ac980eeefd0
+EVE,mitv://51.81.90.178:9906/d84d8a83740048edb73ceb9684487614
+FOX,mitv://51.81.90.178:9906/ad5578a582c34fec8d882770e2a79f94
+France24,mitv://51.81.90.178:9906/b5547b82392c461face8d5d8c623ee31
+HBO,mitv://51.81.90.178:9906/6dcc289c378046cfb906d8ae08f73c86
+HBO Family,mitv://51.81.90.178:9906/7ef5682175384cebb311b818b3f8ef87
+HBO原創,mitv://51.81.90.178:9906/6cc6160dd4234fd394d0ec5b8139c69d
+HBO強檔,mitv://51.81.90.178:9906/11ceb251cbeb47c286e1937e853a2096
+HGTV居家樂活頻道,mitv://51.81.90.178:9906/504b048224a34be69dcacf0ae0f29d3e
+歷史頻道,mitv://51.81.90.178:9906/9d54d31961b1487f96430221c8f1086e
+歷史頻道 2,mitv://51.81.90.178:9906/3081b3f14c1c4de8b53e716588c3fe93
+HITS,mitv://51.81.90.178:9906/94cb128e25b5459e921b0a9d8148f758
+LUXE TV,mitv://51.81.90.178:9906/40c82135cd9b42139e84b4a6977bbcb4
+Lifetime,mitv://51.81.90.178:9906/3b56d096b13b4111a33216b6eb1f0898
+Love Nature,mitv://51.81.90.178:9906/4234fd6d92de4b7cacd59950eb344879
+MTV,mitv://51.81.90.178:9906/9f7e10280c0243d38511db9dd4a7d701
+MTV Live,mitv://51.81.90.178:9906/0b7353b1b5f043a59bf1333fde7abbc6Mezzo
+Mezzo Live,mitv://51.81.90.178:9906/42764efdccfc41419f8f0b94b8c2b7d0
+NHK新聞資訊台,mitv://51.81.90.178:9906/ac80bf74fcdd48d1be8361f724340bed
+Nick Jr.,mitv://51.81.90.178:9906/1b9728e683f84e81ad6d1565d38f8881
+尼克兒童頻道,mitv://51.81.90.178:9906/c156a076f388408eb24ec0b3507c0921
+OUTDOOR,mitv://51.81.90.178:9906/b514193385504d41bff7bb694e45da18
+ROCK Entertainment,mitv://51.81.90.178:9906/1bd2bae894534567a669f634eb724a2c
+ROCK Extreme,mitv://51.81.90.178:9906/e4fa89ecf1cc4670be7b2a3f0bf9dd28
+Star Movies HD,mitv://51.81.90.178:9906/89c847dccca5420f8ce1defe8848d06b
+Style 生活時尚,mitv://51.81.90.178:9906/80687d668e1447c982e3500e37b84394
+TLC旅遊生活,mitv://51.81.90.178:9906/5fe7b1d9c59549b4a21c7355806995d1
+TRACE Sport Stars,mitv://51.81.90.178:9906/902fa006b6be4fdbbffe6285916c6eef
+Travel Channel,mitv://51.81.90.178:9906/4e53eede82fe471096cf4e918e635cb0
+TV5Monde,mitv://51.81.90.178:9906/0bb1c2f009d347b58ed3493e4603e57d
+tvN,mitv://51.81.90.178:9906/5b6c7b96f2944f44a3b4f291a5074041
+WARNER TV,mitv://51.81.90.178:9906/f47052bfeb29473d89b279f76383db64
+$c_start馬來$c_end
+AOD 311,mitv://51.81.90.178:9906/e63ca0706123484e9d9c315c591e5a70
+AOD 352,mitv://51.81.90.178:9906/edc2ccb0b0f24b56bcd5c36ee7162974
+AOD 354,mitv://51.81.90.178:9906/83521310998f4f3193af1e113dfac28b
+AEC,mitv://51.81.90.178:9906/d4031c357f1d4b40985863541d8e36e6
+AEC(備),mitv://51.81.90.178:9906/731c5599565a4e90921c8733dd254df1
+翡翠台(華麗台),mitv://51.81.90.178:9906/646d816f3b834be1a71b22c5628a0923
+雙星,mitv://51.81.90.178:9906/e1d347cf4f614bddbde04b740b6c56bb
+全佳,mitv://51.81.90.178:9906/397c72090c3c4a3395e29405b30cdb07
+歡喜台,mitv://51.81.90.178:9906/95a700444fb34fcb88ff26901372b68d
+愛奇藝,mitv://51.81.90.178:9906/4b8afc84b4bc483b98867fcf918244f1
+小太陽,mitv://51.81.90.178:9906/8a89a410eac7414cafd1001b395b99e7
+中天亞洲台,mitv://51.81.90.178:9906/ac3e6d70235e47f9a7930711191f1a41
+衛視電影台,mitv://51.81.90.178:9906/5e43e60d3ee6452a88386eee0ae99139
+天映經典,mitv://51.81.90.178:9906/bc63ba04afd14641a34e6d66d8b7b608
+天映頻道,mitv://51.81.90.178:9906/577e6fbf1bb9450fbd220859cdf2e4e4
+8TV,mitv://51.81.90.178:9906/73370120aafc4c3da58fac6485194027
+TVBS亞洲台,mitv://51.81.90.178:9906/0f8ce5741a774983bdf671f290fc6fa4
+TVB娛樂新聞台,mitv://51.81.90.178:9906/e7062076c18a46fdb12d9bd5b4df40a0
+TVB星河(粵),mitv://51.81.90.178:9906/183238c73106418b8aa3c0a10ae19a7c
+TVB經典台,mitv://51.81.90.178:9906/83d60fafbdbc442d9ec30a98839d8ddc
+ABC Australia,mitv://51.81.90.178:9906/d3fdde3d81e940068878279ead55518c
+AXN,mitv://51.81.90.178:9906/30d4f63205984272b3025bdeab5c8185
+Al Jazeera English,mitv://51.81.90.178:9906/0803cab7ba544af8bd6dc9edaf3d655e
+BBC World News,mitv://51.81.90.178:9906/14cd138d7d964e5ea8aa6a1b72692ee0
+BOO,mitv://51.81.90.178:9906/8e6cc432fe0a4177856efb94d10b97b5
+Bloomberg TV,mitv://51.81.90.178:9906/a37da105edcd4588b8a026f830e9c088
+Boomerang,mitv://51.81.90.178:9906/ca67a99335b94961b3aaea726284d0b1
+CGTN,mitv://51.81.90.178:9906/889cabe0fac44b5f8d96ca8627969278
+CNBC,mitv://51.81.90.178:9906/262bfc2b7fcb4ef2b40e8efb837bf09d
+CNN,mitv://51.81.90.178:9906/3d4a6bbbcbab4748b97ba2f205e746b3
+Cartoon Network,mitv://51.81.90.178:9906/4658f50e9a134c4b8f7fee22be1c2008
+DW,mitv://51.81.90.178:9906/3b8a119ba86e431eb901f4a39039fc72
+eGG Network,mitv://51.81.90.178:9906/51e8fcf4ac654cd2919d9fba457528ed
+France24,mitv://51.81.90.178:9906/b5547b82392c461face8d5d8c623ee31
+GEM,mitv://51.81.90.178:9906/1d191a0a105748f98cb102d664111b70
+HITS,mitv://51.81.90.178:9906/94cb128e25b5459e921b0a9d8148f758
+HITS Movies,mitv://51.81.90.178:9906/9f56eecb02624a57a888d772e857f9b1
+KBS World,mitv://51.81.90.178:9906/2d189b97bf174a70aab20f82906c3d8c
+KIX,mitv://51.81.90.178:9906/8b9ab28b2fd6487cb55322dcb7f1c6e1
+Nat Geo Wild,mitv://51.81.90.178:9906/18a290cf6c4a488b8e6e99c963774203
+Nick Jr.,mitv://51.81.90.178:9906/4c8f1c603dbe4de4a3e301ce15f1db0e
+Nickelodeon,mitv://51.81.90.178:9906/2c23725917e5491380381cdb60ab8e18
+ONE,mitv://51.81.90.178:9906/0d591c7a5263449cb152f7016bb599d7
+SHOWCASE MOVIES,mitv://51.81.90.178:9906/02a003a2e0304892a8cbd4d7246d9a65
+Sky News,mitv://51.81.90.178:9906/8a4954e7d96948d09318c55100e77f11
+tvN,mitv://51.81.90.178:9906/5b6c7b96f2944f44a3b4f291a5074041
+tvN Movies HD,mitv://51.81.90.178:9906/02999d713ae941c282765048579ed37f
+WWE,mitv://51.81.90.178:9906/40c7e4b84a9a49718f8f6e9cdbb8f3cf
+$c_start新加坡$c_end
+CNA,mitv://51.81.90.178:9906/4831d84bf6604795bfbf1b916715f066
+Mediacorp 5,mitv://51.81.90.178:9906/c9cadc8e0e0d45d18568e8288fe05523
+Mediacorp 8,mitv://51.81.90.178:9906/f7f6b80a39eb4a0aaead1b5544e3c761
+Mediacorp U,mitv://51.81.90.178:9906/ac9dde40ef034f28b12abf48150caa4e
+Hub都會台,mitv://51.81.90.178:9906/122aefcfca6c43a695fa4df482bc06c3
+Hub娛家,mitv://51.81.90.178:9906/5a2a063df638430e81f395c45bd485b6
+Hub Sports 1,mitv://51.81.90.178:9906/685e038005ce4d1987feffbaada0df4f
+Hub Sports 2,mitv://51.81.90.178:9906/79dbe3125c974d87980ae2a2771dce25
+Hub Sports 3,mitv://51.81.90.178:9906/81e8cb8e4f6a4adc98b0b1a78d37f486
+Horse Racing 88,mitv://51.81.90.178:9906/e36254792fe64b33a1638b90c6217db5
+Horse Racing 89,mitv://51.81.90.178:9906/47715162f8da4d4ca1484f37a4ce6a44
+$c_start體育$c_end
+ASSP,mitv://51.81.90.178:9906/4fb6b6faaac54854a1a99acae84e90fe
+ASSP 2,mitv://51.81.90.178:9906/3a39edbcce664ade821db0c021b4a654
+ASSP 3,mitv://51.81.90.178:9906/6a8dc0fdecce42228fcf9b7402f3c709
+ASSP 4,mitv://51.81.90.178:9906/06fe155931604ae3bb16eb5c46a354be
+ASSP 5,mitv://51.81.90.178:9906/d49b9225f72f40c880a8f95f8d58ac4e
+Arena,mitv://51.81.90.178:9906/1b465c3305a2474587a2867fc26676fb
+Arena 2,mitv://51.81.90.178:9906/4307b24bb99943618966535c1abf5bf0
+beIN Sports,mitv://51.81.90.178:9906/0349ef6cbfb94c16b9df6b03413015b1
+beIN Sports 2,mitv://51.81.90.178:9906/cad9897d9ca942038600841360925b3a
+beIN Sports 3,mitv://51.81.90.178:9906/e4d8ccf167ec4f4e8896c0fa054197e0
+Eurosport,mitv://51.81.90.178:9906/e65d93f7cf0d4e2686de05decc4e85ae
+Golf Channel,mitv://51.81.90.178:9906/ece5d9b133be4ad19e3e339da30a61d8
+Premier Sports,mitv://51.81.90.178:9906/35cd9c0ce02e4785958d746ce5e3fb96
+SPOTV,mitv://51.81.90.178:9906/6cf15a18b4d5459696b0ed97c6e266a0
+WWE,mitv://51.81.90.178:9906/40c7e4b84a9a49718f8f6e9cdbb8f3cf
+ESPN,mitv://51.81.90.178:9906/5c608d42991146bdacc768932e7e3d24
+Eurosport HD,mitv://51.81.90.178:9906/e65d93f7cf0d4e2686de05decc4e85ae
+Fight Sports,mitv://51.81.90.178:9906/570037cf0c6340028a810d9bb283846c
+Golf Channel Philippines,mitv://51.81.90.178:9906/0fce5855580c4226aa1289744dbfc258
+Golf Channel,mitv://51.81.90.178:9906/ece5d9b133be4ad19e3e339da30a61d8
+Hub Sports 1,mitv://51.81.90.178:9906/685e038005ce4d1987feffbaada0df4f
+Hub Sports 2,mitv://51.81.90.178:9906/79dbe3125c974d87980ae2a2771dce25
+Hub Sports 3,mitv://51.81.90.178:9906/81e8cb8e4f6a4adc98b0b1a78d37f486
+J Sports 1,mitv://51.81.90.178:9906/abcc22d9aca74c8e971cef2a5bd40527
+J Sports 2,mitv://51.81.90.178:9906/b7c641fa2b4c4460b1ec98df85ac96ff
+J Sports 3,mitv://51.81.90.178:9906/1c0e5d33c08a473b8c81ff1b0c66e474
+J Sports 4,mitv://51.81.90.178:9906/3ba290b8e63f44ab9a3d301418e7a068
+NBA,mitv://51.81.90.178:9906/724a606ceb864f71a258b5ea1bfe3875
+Premier Sports,mitv://51.81.90.178:9906/35cd9c0ce02e4785958d746ce5e3fb96
+SPOTV,mitv://51.81.90.178:9906/6cf15a18b4d5459696b0ed97c6e266a0
+Skynet Sports 2,mitv://51.81.90.178:9906/071ed1522323437f8bb6ea887659f6aa
+Skynet Sports 5,mitv://51.81.90.178:9906/4d07b7ed0645471d9e942de1624f76a5
+Skynet Sports 6,mitv://51.81.90.178:9906/d9c2aee4d94d4ce394b9dffbacb0918d
+Skynet Sports HD,mitv://51.81.90.178:9906/01e23dc6d71b45a8bd89a7a20be7c300
+TRACE Sport Stars,mitv://51.81.90.178:9906/902fa006b6be4fdbbffe6285916c6eef
+True Sport 2,mitv://51.81.90.178:9906/c1451d8369554d46895ce6fa81084af5
+True Sport 3,mitv://51.81.90.178:9906/dfdf29871e124cd39d7804b044797f7d
+True Sport 4,mitv://51.81.90.178:9906/4dc0743b4aea4839a933a48f869e058d
+True Sport 5,mitv://51.81.90.178:9906/96c1f13c343c448e9a8551645a6ff34e
+True Sport 7,mitv://51.81.90.178:9906/d6a97bc0c5ba4ff6b22a53ff9cb31f15
+beIN Sports 2,mitv://51.81.90.178:9906/cad9897d9ca942038600841360925b3a
+beIN Sports,mitv://51.81.90.178:9906/0349ef6cbfb94c16b9df6b03413015b1
+eGG Network,mitv://51.81.90.178:9906/51e8fcf4ac654cd2919d9fba457528ed
 $c_startIPTV$c_end
 A&E,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1729
 A&E,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/275187
