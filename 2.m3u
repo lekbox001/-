@@ -179,6 +179,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/04/film-everything-everywhere-all-at-once-2022-lk21-d21.jpg",Everything Everywhere All at Once
+https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-ip-man-the-awakening-2022-lk21-d21.jpg",Ip Man: The Awakening
+https://stream.xpeer.xyz/playlist1/ip-man-the-awakening-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-siege-of-robin-hood-2022-lk21-d21.jpg",The Siege of Robin Hood
 https://stream.xpeer.xyz/playlist1/the-siege-of-robin-hood-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-hustle-2022-lk21-d21.jpg",Hustle
