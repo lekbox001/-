@@ -145,6 +145,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="http://107.152.43.215/wp-content/uploads/2022/06/centauro-2022-170x255.jpg",Centauro
+https://master8-eu.playerx.stream/LO4sYPUQDjHm-FZN_GVi1SKywFJqTya0NBKYS7Ygg3s_95ZSoN2rRDO10HuvF0nRvieI-Q5a23UCBCQgQTKYwA/3LsqjQr5rPkwv4NDIazM4yih_p699lOzlZraN64Zr6o/video.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/06/film-onlyfans-2022-lk21-d21.jpg",OnlyFans
+https://stream.xpeer.xyz/playlist1/onlyfans-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="http://107.152.43.215/wp-content/uploads/2022/02/byYRjzd9epz1F9yG3hpDWn9zeIx.jpg",Doctor Strange in the Multiverse of Madness
+https://delivery009.akamai-cdn-content.com/hls2/01/05532/v0j4vftl2u8b_,l,n,.urlset/master.m3u8?t=fEqSdsIkLLiMghAti3DOGevi2sCA8bWuhNtDUCUG6R8&s=1655857648&e=21600&f=27661284&srv=sto105&client=42.189.113.180
 #EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/04/film-everything-everywhere-all-at-once-2022-lk21-d21.jpg",Everything Everywhere All at Once
 https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-ip-man-the-awakening-2022-lk21-d21.jpg",Ip Man: The Awakening
