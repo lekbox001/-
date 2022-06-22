@@ -1,11 +1,3 @@
-// 本地接口 clan://协议 简易设定流程：
-// 升级猫影视TV至 2.1.1 Beta5
-// 设置 --> 存储权限 --> 允许
-// 将 baddychen0608.zip 解压缩至"根目录"
-// 设置 --> 当前接口配置 --> 直接黏贴底下的 配置接口设定 或是也可以 透过扫码或浏览器访问网址 --> 设置配置接口
-// 配置接口设定 --> https://github.com/l1007/-/raw/main/baddychen0608.jar
-
-
 {
 "wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
 
