@@ -145,6 +145,1005 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Animax
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157486
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Asian Food Network
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157549
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: AOD 311
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264512
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: AOD 352
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247411
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: AOD 354
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247413
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Arena
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157485
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Arena 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287793
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Aura
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171986
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Awani
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157478
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: BollyOne
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264513
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Ceria
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157481
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Citra
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157569
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Cricket
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157565
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: CTI Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264515
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: iQIYI
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/290508
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Oasis
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157489
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Prima
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157467
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Quanjia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247427
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Rania
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171984
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Ria
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158347
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: RUGBY PASS TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/290509
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: SuperSport 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146068
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: SuperSport 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157556
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: SuperSport 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157557
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: SuperSport 4
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157558
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Ta-Daa!
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/290510
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Vaanavil
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/201163
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Warna
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157492
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Xiao Tai Yang
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/201164
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: AXN
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157542
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: BBC Earth
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171979
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: beIN Sports
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157561
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Bernama TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264517
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Bloomberg
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157533
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Boomerang
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171955
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Cartoon Network
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174684
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Celestial Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174687
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Chutti TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157495
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Cinema World
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171956
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Cinemax
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157519
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: CNBC Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157529
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Colors
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157468
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Crime+ Investigation
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157554
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Discovery Science
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157530
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Discovery World
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157528
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Disney XD
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157544
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: DMAX
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158351
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Egg Network
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157484
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Food Network
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196454
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Fox Family Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157570
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: FOX SPORTS 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157488
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: GO SHOP
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264511
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: HBO
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157518
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: HGTV Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157553
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Hits
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157545
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: HITS Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157477
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: KBS World
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157475
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: KPLUS
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157567
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: NAT GEO Wild
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174724
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Nick Junior
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157546
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: NTV 7
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174695
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: ONE
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158349
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Phoenix InfoNews
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264509
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: RTM TV 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158355
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Sky News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157527
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Sony Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171974
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TLC
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157483
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TV 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286848
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TV 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158360
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TV 9
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171953
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TV Alhijrah
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157491
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TVB Classic
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157510
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TVN
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157476
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: TVN Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157520
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: Warner TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157550
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",MY: ZooMoo
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/285308
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: & Flix
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45506
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: & Now
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82513
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: & pictures
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16958
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: & Prive
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49557
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: & TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16964
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 3 Tamil TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/60420
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 1st India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/159102
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 24 News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82567
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 5AAB TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286195
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 9X Jalwa
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45465
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 9X Jhakaas
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165802
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 9X Tashan
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45455
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: 9XM
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45471
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Aaj Tak
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/12977
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Aastha TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145647
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Aathavan TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/267432
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ABP
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192817
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ABP Ananda
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/159103
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ABP Majha
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283899
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ABP News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/17122
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ABP News India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16962
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Adithya
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157469
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Akaal Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165767
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Akaram Kidz
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/267454
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Amrita TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82497
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Angel TV India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196120
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ANIMAL PLANET
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1370
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ANIMAL PLANET (TATA PLAY)
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/296266
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Anjan
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286918
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Apna Punjab
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286919
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Artist Aloud
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286920
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Ashrafi Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286921
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Asianet
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82579
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Asianet Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157463
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Asianet News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163276
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Asianet News Bangla
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/294788
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Asianet News Tamil
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/294789
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Asianet Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193206
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Assam Talks
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/162127
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Ayush TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82500
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: B4U Kadak
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49556
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: B4U Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1369
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: B4U Music
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1368
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: B4U Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1367
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Bansal News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165400
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: BBC Earth
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197660
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: BBC Toronto
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49640
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Bflix Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/73791
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Bhojpuri Cinema
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193007
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Big Magic
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49548
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Bindass
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145655
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Boogle Bollywood
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193087
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Brit Asia TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/71067
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Captain News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193038
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Captain TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/294952
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Cartoon Network
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82584
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Channel Y
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49586
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Chardikla Time TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49637
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: CNBC Awaaz
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49583
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: CNBC Bajar
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82506
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: CNBC TV 18
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192198
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1366
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Bangla
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247530
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Cineplex
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/19741
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Cineplex Bollywood
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49550
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Gujarati
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145645
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Kannada
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192203
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Marathi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82642
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: COLORS Rishtey
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49547
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: CTVN AKD Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166385
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Bangla
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45488
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Girnar
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145648
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165806
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD National
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192197
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/21668
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Podhigai
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193047
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Punjabi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283904
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Sahyadri
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45479
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Sports
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/56153
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DD Uttar Pradesh
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193051
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Desi Beats
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286933
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Desi Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49601
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Desi Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49618
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Dhamaal
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82510
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Dighvijay
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283905
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Dil Se
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165784
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Dillagi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196128
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Discovery Kids
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82683
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Discovery Science
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1363
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Discovery Tamil
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295292
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Discovery World
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/73792
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Disha TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193001
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Disney Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192985
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: DITYA TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295394
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: E 24
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193086
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Eet TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51818
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Enterr 10
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193025
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Epic TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192950
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ETC
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295299
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Fakt Marathi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193017
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Fast Way News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/267402
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Fateh TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166370
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Filmeraa
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286948
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Firangi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/267192
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Flowers TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193148
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Food Food
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1362
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: GDNS Ludhiana
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286949
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Gemini TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165794
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Global Punjab
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49647
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Global Sanjh
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49617
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Goodnews TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/159106
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: GS TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196130
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Harvest TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166372
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Harvest Usa
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/198220
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: History
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82604
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: HMTV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193056
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Hulchul TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286953
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: IBC
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196133
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: IBC Comedy
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45428
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ILove
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49560
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Imayam
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166375
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: India Ahead
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166376
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: India News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192968
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: INDIA PLUS
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/290683
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: India Today
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16970
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: India TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49577
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Isai Aruvi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193205
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: J Movie
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145638
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jaihind TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192073
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jan TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193176
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Janam TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197720
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Janta TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/60348
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jaya Max
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51824
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: JAYA Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295395
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: JAYA PLUS
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193207
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jaya TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145637
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jeevan TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166377
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jhanjar Music
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82522
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Jigyasa TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275982
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: K News India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275947
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kadak Hits
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82523
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kairali News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/294953
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kairali TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51849
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kalaignar
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193204
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kalaignar Murasu
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286966
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kalaignar Seithikal
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283911
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kalaignar Sirippoli
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286968
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kalinga
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193062
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kanak News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193063
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kanshi TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145661
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kappa TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193109
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kasthuri TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193110
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Kaumudy TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82530
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: KCL TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286959
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: KCV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286960
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: KCV Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286961
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Khabrain Abhi Tak
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286974
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: KTV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/36442
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: KVTV Main
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197668
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: KVTV Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197666
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Living India News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/159107
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Lok Sabha TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82532
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Madha TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193042
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Maha Movie
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82608
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Makkal TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51821
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Malabar News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283914
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Mangalam
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192075
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Manorama News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192076
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Manoranjan Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192200
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Manoranjan TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295501
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Mantavya News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/159109
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Mastiii
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/76958
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Mathrubhumi News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163277
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Mazhavil Manorama
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193067
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Media One
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51851
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MH One
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193116
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MH1 Music
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/198604
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MH1 Prime
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286978
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Mirror Now
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193096
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MK Six
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/198221
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MK TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/198223
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Movies Now
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/169118
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MTV Beats
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193068
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: MTV India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193647
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Music India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1358
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Namdhari TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49646
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Nazrana
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165810
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: NDTV 24X7
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/21664
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: NDTV India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166390
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: NDTV Profit
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166388
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Assam
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283919
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Bengali
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247526
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Chhattisgarh
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283921
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Gujarati
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193127
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Hindi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283923
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247511
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Jharkhand
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286996
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Kannada
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193115
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Lokmat
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82543
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Malayalam
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283926
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Odia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193142
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Punjab
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197949
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Rajasthan
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193012
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Tamil
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283930
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Urdu
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193015
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 18 Uttarakhand
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283931
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: News 24
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16601
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Next TV Malabar
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287006
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: nickelodeon
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286732
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Now Cinema
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/267177
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: NRB TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286212
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Pardesi TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49642
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Peace TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82613
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Peppers TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166401
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Pitaara TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145652
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Polimer News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163279
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: POP Pataka
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82545
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Pramaya News 7
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283937
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Pratidin Time
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/198224
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Prime Asia TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166081
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Prime Canada TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49519
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: PTC CHAKDE
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193155
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: PTC DHOL
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264722
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: PTC News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295294
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: PTC Punjabi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82616
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: PTC Punjabi Gold
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197742
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: PTC SIMRAN
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264723
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Public Music
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192145
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Pulari TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287016
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Punjab TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/286951
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Puthiya Thalaimurai
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193035
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Puthuyugam TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196101
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Raj Digital Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/60418
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Raj Musix Telugu
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193137
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Raj News 24x7
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193648
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Raj TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193125
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Real News Kerala
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283939
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Relax TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287018
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Reporter
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51854
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Republic Bharat
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49582
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Republic TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82617
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Rishtey Cineplex
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/71074
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Saam TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166387
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sada TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49625
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sadhna Plus News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166394
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sahara One
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/247493
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sana Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287021
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sana TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287022
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sangat TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165765
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sangeet Bangla
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165827
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sanjha TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49624
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sankara TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166407
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sanskar TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51882
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Santhora Short Flim
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51833
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Santhora TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51835
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sardari TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82554
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sarv Dharam Sangam
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166791
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sathiyam TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193131
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Satsang TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45463
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: SEITHIGAL
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295300
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Set India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1072
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Shemaroo TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192955
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Shorts TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295301
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Shraddha
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287026
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Shubhsandesh TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82557
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sikh Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82556
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281867
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Aath
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/17005
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony BBC Earth
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192995
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Marathi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193097
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Max
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1359
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Max 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/4862
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Max India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/63397
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Pal
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193645
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Pix
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49539
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony SAB TV Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1073
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony SAB TV India
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/20649
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Ten 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16622
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Ten 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16621
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Ten 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/56191
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Wah
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165801
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sony Yay
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1355
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: STAR BHARAT
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/284583
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Gold
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1070
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Gold 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/43919
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Jalsha
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/12979
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Maa
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82624
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: STAR Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/11511
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: STAR PLUS
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16091
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Pravah
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193149
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Sports 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/3630
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Sports 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/3631
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Sports 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/62584
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Sports Select 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82628
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Star Sports Select 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16619
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Steelbird Music
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49650
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: SUN LIFE
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/267819
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sun Music
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157496
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Sun TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/76969
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: SURYA Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193145
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Suvarna News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/51844
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: SVBC
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/166383
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Swaraj Express
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287033
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Tamil Vision International
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/60423
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Tehelka TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287035
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Thanthi TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45437
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Times Now
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/76961
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Travelxp
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82636
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV 5 Kannada
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193065
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV 9 Gujarati
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193152
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV 9 Kannada
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193060
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV 9 Marathi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193016
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV 9 Telugu
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163256
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV Punjab
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196089
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: TV Raj
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/285531
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Utsav Gold
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82623
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Utsav Plus
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/60347
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: UTV Movies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/284584
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Vasanth TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82569
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Velicham TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/159110
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: VIJAY TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/19744
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: VTV News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193081
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Wah Punjab
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281915
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: We
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193159
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Willow
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/165776
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Xplore Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287041
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Yupp Thirai
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/287042
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee 24 Ghanta
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193187
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee 24 Kalak
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45484
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee 24 Taas
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45486
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Action
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1353
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Aflam
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/22067
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Anmol Cinema
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/19467
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Bangla
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145632
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Bangla Cinema
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/21658
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Bihar Jharkhand
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193006
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Biskope
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193009
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Bollywood
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1351
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Business
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16984
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Cafe
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/49561
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Cinema
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1350
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Cinemalu
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45504
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ZEE Classic
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/21578
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Hindustan
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145633
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Kannada
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145631
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Magic
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281920
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Marathi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/82646
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/5047
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Picchar
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192201
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Punjabi
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145630
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Talkies
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16957
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Tamil
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45505
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: ZEE TELUGU
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/21561
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/197423
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee World
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/172264
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zee Yuva
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/45502
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zing
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/173160
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zing Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1347
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",IN: Zoom
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/192069
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: AlJazeera News
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281635
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: ALTV 4
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/193236
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Amarin 34
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146703
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: AXN
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/162529
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Banteng 100
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158634
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Cartoon Network
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/172166
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: CCTV 4
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174652
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Channel 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/266866
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Channel 7
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/266868
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Channel 8
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281631
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Channel 138 MV LAO
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281633
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: CNBC
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/162533
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Discovery Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/264824
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163375
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163376
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163377
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 4
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163378
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 5
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163379
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 6
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163380
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 7
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163381
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 8
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163382
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 9
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163383
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 10
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163384
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 11
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163385
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 12
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163386
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 13
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163387
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 14
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163388
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: DL TV 15
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/163389
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Drama Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275989
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: GMM25
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146729
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Good Idea TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146728
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Green
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146725
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Happy TV 65
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145034
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: History 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/172163
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Lido Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275990
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Major Channel Mix
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158607
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: MCOT
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145029
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: MONO 29
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146760
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: MV MALL TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/285564
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: MV TV Five
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/23879
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: MVTV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/23885
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Nation TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/146781
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: NBT TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/23886
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: NBT World
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/285571
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: New 18
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/15004
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: News 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174663
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: PPTV 36
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281639
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Sakala Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275992
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Siam Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275993
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Sony Asia
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174662
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Thai PBS 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/145027
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Thai TV 5
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/162537
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Thai Variety Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/284252
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Thairath TV 32
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/23909
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: TLC
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/174686
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: True Premier Football 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/162591
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: True Premier Football 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/162592
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: True Vision NBA
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281638
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: TV Direct 10
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/275951
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Umm TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/158644
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: V2H2 TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/195636
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: V2H9
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/276070
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: White Channel
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/23908
+#EXTINF:-1 group-title="World" tvg-logo="https://play-lh.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ",TH: Work Point
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/23405
+
 #EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg",Doctor Strange in the Multiverse of Madness
 https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022-22.06.2022-04.03.04/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-watcher-2022-lk21-d21.jpg",Watcher
