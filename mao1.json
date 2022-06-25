@@ -94,6 +94,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name": "点此解析","type": 2,"url": "Parallel"},
+{"name": "vip","type": 0,"url": "https://wds.ecsxs.com/217915.html?url="},
 {"name": "lekbox","type": 0,"url": "https://jx.7kjx.com/?url="},
 {"name":"parwix","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
 {"name": "blbo","type": 0,"url": "https://jx.blbo.cc:4433/?url="},
