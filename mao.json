@@ -11,7 +11,7 @@
 //jar包和json为外链存储，不会失效，可备份也可链接使用
 
 
-"spider": "https://github.com/l1007/-/raw/main/baddychen0608.jar",
+"spider": "http://sns.eu5.org/tvbox/custom_spider.jar",
 
 
 "sites": [
