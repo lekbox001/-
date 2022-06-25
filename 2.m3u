@@ -368,6 +368,10 @@ https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/in
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M37OAIwR4pc/movieposter_en.jpg" group-title="𝐕𝐎𝐃 𝐌𝐨𝐯𝐢𝐞 𝟐𝟎𝟐𝟏", Hellkat (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
 
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/06/film-kongsi-raya-2022-lk21-d21.jpg",Kongsi Raya
+https://stream.xpeer.xyz/playlist1/kongsi-raya-2022/master_480.m3u8
+#EXTINF:-1 group-title="Malay" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-rajawali-2022-lk21-d21.jpg",Rajawali
+https://stream.xpeer.xyz/playlist1/rajawali-2022/master_480.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-rumah-2022-lk21-d21.jpg",Rumah (2022)
 https://stream.xpeer.xyz/playlist1/rumah-2022/master_480.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2019/11/film-boboiboy-movie-2-2019-lk21.jpg",BoBoiBoy Movie 2
