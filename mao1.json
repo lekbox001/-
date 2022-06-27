@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
 
-"spider":"https://github.com/l1007/-/raw/main/custom_spider.jar",
+"spider":"https://github.com/l1007/-/raw/main/0625.jar",
 
 "sites":[
 {"key":"if101资源","name":"LEKBOX","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1"},
