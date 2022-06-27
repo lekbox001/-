@@ -1,84 +1,32 @@
 {
 "wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
 
-"spider":"https://github.com/l1007/-/raw/main/baddychen0608.jar",
-
-"lives": [
-
-    {
-      "group": "MY",
-      "channels": [
-        {
-          "name": "TV1",
-          "urls": [
-            "https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd"
-          ]
-        },
-        {
-          "name": "TV2",
-          "urls": [
-            "https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd"
-          ]
-        },
-        {
-          "name": "TV3",
-          "urls": [
-            "https://stream-07.dc3.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08sdn_4Sqyuk0AL8bwdirCgc)/dm/3/x7a7rpm/s/live-1.m3u8"
-          ]
-        },
-        {
-          "name": "NTV7",
-          "urls": [
-            "https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rEbrePnSSYkOfCogY15QGk)/dm/3/x7a7rxp/s/live-1.m3u8"
-          ]
-        },
-        {
-          "name": "8TV",
-          "urls": [
-            "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8"
-          ]
-        },
-        {
-          "name": "TV9",
-          "urls": [
-            "https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iXxtvh-ZzbywGtxnx6z4iQ)/dm/3/x7a7rf7/s/live-1.m3u8"
-          ]
-        },
-        {
-          "name": "Berita",
-          "urls": [
-            "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd"
-          ]
-        },
-        {
-          "name": "Sukan",
-          "urls": [
-            "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd"
-          ]
-        }
-      ]
-    }
-  ],
-
+"spider":"https://github.com/l1007/-/raw/main/custom_spider.jar",
 
 "sites":[
 {"key":"if101资源","name":"LEKBOX","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1"},
-{"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_GitCafe"    ,"name":"纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
+{"key": "csp_AliPanSou"  ,"name":"喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "csp_kuaikan"    ,"name":"快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixs"      ,"name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Bliyc"      ,"name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blidw"      ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixq"      ,"name":"戏曲多多","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"阿里网盘搜索","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_Concert","name": "演唱会","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Animal","name": "动物世界","type": 3,"api": "csp_ColaCat","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Opera","name": "戏曲","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"csp_biubiu_厂长资源","name":"厂长(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywseg8bk/raw"},
+{"key":"csp_biubiu_在线之家","name":"在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywseg8bk/raw"},
 {"key":"csp_biubiu_乐猪影视","name":"乐猪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywcmy74k/raw"},
 {"key":"csp_biubiu_特狗影视","name":"特狗(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
 {"key":"csp_biubiu_瓜皮","name":"瓜皮(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8n0cs9frh/raw"},
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4y02s31/raw"},
 {"key":"csp_biubiu_789影视","name":"789(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8yvzt2658/raw"},
+{"key":"csp_biubiu_4k","name":"4k(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8idxgvwsv/raw"},
+{"key":"csp_biubiu_看片狂人","name":"看片XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4yzd50s/raw"},
+{"key":"csp_biubiu_剧白白","name":"剧白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4wytk1y/raw"},
+{"key":"csp_biubiu_YYDS","name":"YYDS(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4vycbo5/raw"},
+{"key":"csp_biubiu_开心","name":"开心(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4twzb8d/raw"},
+{"key":"csp_biubiu_鸭奈飞","name":"鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8dzbhnnk0/raw"},
    
 {"key":"淘片资源","name":"淘片","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"U酷","name":"U酷","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":""},
@@ -91,6 +39,27 @@
 {"key":"U5","name":"U5","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"天空","name":"天空","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"}
 ],
+"lives": [
+{"group": "MY",
+"channels": [
+{"name": "TV1","urls": ["https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd"]},
+{"name": "TV2","urls": ["https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd"]},
+{"name": "TV3","urls": ["https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8"]},
+{"name": "NTV7","urls": ["https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8"]},
+{"name": "8TV", "urls": ["https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8"]},
+{"name": "TV9","urls": ["https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8"]},
+{"name": "Berita","urls": ["https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd"]},
+{"name": "Sukan","urls": ["https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd"]}]},
+{"group": "新闻",
+"channels": [
+{"name": "TVBS新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs"]},
+{"name": "三立新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw"]},
+{"name": "东森新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234"]},
+{"name": "中天新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw"]},
+{"name": "华视新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34"]},
+{"name": "台视新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw"]}]}
+],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
@@ -108,7 +77,6 @@
 {"name": "WUDU2","type": 1,"url": "http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
 {"name": "hfyrw","type": 1,"url": "https://jx.hfyrw.com/mao.go?url="}
 ],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
