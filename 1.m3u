@@ -60,6 +60,8 @@ http://txtest-xp2p.p2p.huya.com/src/1448731701-1448731701-6222255276473450496-27
 #EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",韩国动作片
 http://txtest-xp2p.p2p.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6feb6525fc4b3d98152252243085e0fd.jpeg",多伦多来的男人
+https://m3u.if101.tv/xm3u8/cd25e0a4132c42182f2ad12cbf71b277c91d6ac5665fd963b5dea4a22230a0b29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25b7d3c839ce19f226dc61f3420f8052.jpeg",追踪
 https://m3u.if101.tv/xm3u8/878f9fec0be32ad42d8b827a0d7e51e4363b65252fb59adff6c448a0e07dc1319921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2a23b5f74e262cdac310eee0c9f9f706.jpeg",边缘行者
@@ -211,6 +213,12 @@ https://m3u.if101.tv/xm3u8/7d6b3b4dbb370d6a92c7b343f0d275cc099925076ca26e8ed9e0c
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28a312fa7954bbb088d2da7885b2fffe.jpeg",戏法师
 https://m3u.if101.tv/xm3u8/ad9b12ff94a1ec3cb685f410697a31d92a435373c6eb672b6cc669f00ec5aff19921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9150df6901c7c79270ac310edf0d7a89.jpeg",王者之路
+https://m3u.if101.tv/xm3u8/979f927b31486450d5a024e7dd28b4afe38d92ec926a368c3c19d1a4357a669d9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b40f0df97fa6e6479d2b26eb556d60ba.jpeg",对立面
+https://m3u.if101.tv/xm3u8/efa91c90297e11b90a50a21df70dccf9e5ef5b9239e70b751691b18e8f9186ba9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1b97770a9a99ec9047be423ff90e9eb9.jpeg",噪音
+https://m3u.if101.tv/xm3u8/293700d3bca89e0e853ed26206ccccd1d07354e3b2f8e77056b622043d3f7e219921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/355ef1c161fc7848022b83a9c3e45c6e.jpeg",斯图神父
 https://m3u.if101.tv/xm3u8/cce32daa2607570daa53b7d739696a1177d2709e42dc2d7b455a36e9a5f7c78b9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2a4146b4f9c8f0b2d330460484ea38de.jpeg",致命少女姬
@@ -408,6 +416,10 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c0aff0deaf776bf58618e8d36c5317bb.jpeg",奇门异人
+https://m3u.if101.tv/xm3u8/df0bfa561c327aeecd6d5558b63c575bafac2de82f1e765aedf051ac608d32319921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/318adc3a6006949a80dad006c1d6cdf2.jpeg",驱魔天师
+https://m3u.if101.tv/xm3u8/253d7b37e708ce22f26976379090d7b946d8324d55a02c088443f92e9f5630ef9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab799069211dc1cf5f7e30af187b66bf.jpeg",地底怪物
 https://m3u.if101.tv/xm3u8/89de7b8b644b4e239fd1c5ad23c4229c34c5a4e621e31cb379bb4b38e576ebfe9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4473a63c104f2f71a6a98d5710a2724.jpeg",赤脚大仙
@@ -489,6 +501,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://v4.cdtlas.com/20211211/ZRwAC8vx/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/66e92628b43eedf042c50b91eb554338.jpeg",男人
+https://m3u.if101.tv/xm3u8/b9317ffa4b7ae2982a2b8d28fb0abc91f5c1e35216e994492272736bb05b50ee9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2f1175acc138fcbb40a88f475084a8f6.jpeg",龙岭迷窟
 https://m3u.if101.tv/xm3u8/7ab540e78e2c32faf5aa1f5e63f4af898607793315f3114f44343b0a22fc73309921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/214021d6dabc5ca599ec8747e56e351a.jpeg",亲属恐惧
