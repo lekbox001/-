@@ -85,7 +85,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/9a4a7d6ebfd14b19b741e6bf4f24285c
 星空卫视,mitv://ns2.hellotvvod.com:9906/60302bfa29464b6da4adbafadeaba4df
 澳门-MACAU,mitv://ns2.hellotvvod.com:9906/dd9f2c4dcab145ffb54c9661cb712f3e
 澳门莲花,mitv://ns2.hellotvvod.com:9906/3ca1d3d8941f47e7a176729706a9fe45
-台湾2,#gennre#
+台湾2,#genre#
 TVBS,mitv://ns2.hellotvvod.com:9906/6fb3f0b6e8024ad38ce5efabd6314f39
 TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/7966380074104dc3b98a7b01af9c2ce6
 TVBS精采台,mitv://ns2.hellotvvod.com:9906/1f44b249ac8d4341a2ef74c686c98863
