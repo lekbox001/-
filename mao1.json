@@ -1,66 +1,32 @@
 {
 "wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
 
-"spider":"https://github.com/l1007/-/raw/main/0625.jar",
+"spider":"https://github.com/l1007/-/raw/main/lekbox.jar",
 
 "sites":[
-{"key":"if101资源","name":"LEKBOX","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1"},
+{"key":"if101资源","name":"LEKBOX","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1"},
 {"key":"csp_BBB","name":"🅱哔哩","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+{"key": "csp_Bliyc","name":"🅱演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blidw","name":"🅱动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixq","name":"🅱戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "csp_GitCafe"    ,"name":"🎥纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
 {"key": "csp_AliPanSou"  ,"name":"📺喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_kuaikan"    ,"name":"📡快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"spider_IKan","name":"💖爱看","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
-{"key": "csp_Cokemv"     ,"name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_CZSPP"      ,"name":"📹厂长","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_DiDuan"     ,"name":"🐞低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_DY1990"     ,"name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_Blixs"      ,"name":"🎉相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blidw"      ,"name":"📽动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blixq"      ,"name":"💾戏曲多多","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_biubiu_在线之家","name":"在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywseg8bk/raw"},
 {"key":"csp_biubiu_乐猪影视","name":"乐猪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywcmy74k/raw"},
-{"key":"csp_biubiu_火火","name":"火火(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywl6pnqw/raw"},
 {"key":"csp_biubiu_天空影视","name":"天空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8n0cs9frh/raw"},
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4y02s31/raw"},
-{"key":"csp_biubiu_789影视","name":"789(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8yvzt2658/raw"},
-{"key":"csp_biubiu_4k","name":"4k(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8idxgvwsv/raw"},
-{"key":"csp_biubiu_蓝光","name":"蓝光XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4yzd50s/raw"},
-{"key":"csp_biubiu_剧白白","name":"剧白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4wytk1y/raw"},
-{"key":"csp_biubiu_干饭","name":"干饭(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4vycbo5/raw"},
-{"key":"csp_biubiu_视中心","name":"视中心(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8g4twzb8d/raw"},
-{"key":"csp_biubiu_开心","name":"开心(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8dzbhnnk0/raw"},
-   
+
 {"key":"淘片资源","name":"淘片","type":0,"api":"https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"U酷","name":"U酷","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":""},
 {"key":"考拉TV","name":"考拉TV","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://ikaola.tv/api.php/provide/vod/at/xml/","playUrl":""},
-{"key":"推荐","name":"推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"playUrl":""},
+{"key":"唐人街","name":"唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"playUrl":""},
 {"key": "爱优腾VIP","name": "爱优腾VIP","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
-{"key": "官采","name": "官采","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerUrl": ""},
 
-{"key":"csp_appysv2_熊猫动漫","name":"熊猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://anegh.com/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_群鑫影视","name":"群鑫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
-{"key":"追剧","name":"追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/api.php/app/"},
-{"key":"U5","name":"U5","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"天空","name":"天空","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"}
 ],
-"lives": [
-{"group": "MY",
-"channels": [
-{"name": "8TV", "urls": ["https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8"]},
-{"name": "TV9","urls": ["https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8"]},
-{"name": "Berita","urls": ["https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd"]},
-{"name": "Sukan","urls": ["https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd"]}]},
-{"group": "新闻",
-"channels": [
-{"name": "TVBS新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs"]},
-{"name": "三立新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw"]},
-{"name": "东森新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234"]},
-{"name": "中天新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw"]},
-{"name": "华视新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34"]},
-{"name": "台视新闻","urls": ["http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw"]}]}
-],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2wxMDA3Ly0vbWFpbi90MS50eHQ="]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
 "parses": [
@@ -72,6 +38,7 @@
 {"name": "blbo","type": 0,"url": "https://jx.blbo.cc:4433/?url="},
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"Vip123","type":1,"url":"http://api.vip123kan.vip/?url="},
+{"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 {"name": "jh","type": 1,"url": "http://103.40.240.46/jh/?url="},
 {"name": "kuanjv","type": 1,"url": "https://za.kuanjv.com/?url="},
 {"name": "WUDU","type": 1,"url": "https://jhjx.kuanjv.com/newky/?url="},
