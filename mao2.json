@@ -1,6 +1,5 @@
 {
-"wallpaper":"https://github.com/l1007/-/raw/main/74768.jpg",
-"spider":"https://github.com/l1007/-/raw/main/baddychen0608.jar",
+"spider":"https://github.com/l1007/-/raw/main/lekbox.jar",
 
 "sites":[
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"},
