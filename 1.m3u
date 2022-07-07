@@ -35,6 +35,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png",Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -50,14 +51,6 @@ http://iptv12k.com:35461/live/test167/12345/1012.m3u8
 http://iptv12k.com:35461/live/test167/12345/1001.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/56/Cable_News_2019.jpg",有线新闻
 http://iptv12k.com:35461/live/test167/12345/1018.m3u8
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",无线新闻
-http://ye23.win/iptv/tvb.php?id=5
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",无线新闻2
-http://111.229.84.232/yulin/tvb.php?id=1
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/72/TVB_Finance_%26_Information_Channel.png",无线财经
-http://111.229.84.232/yulin/tvb.php?id=2
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",Now新闻
-http://51.222.193.142:10011/9
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线18
 rtmp://59.124.75.150/sat/hk041
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",TVBS新聞台
