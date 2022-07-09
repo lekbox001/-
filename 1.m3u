@@ -39,8 +39,6 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png",Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",AEC
-http://iptv12k.com:35461/live/test167/12345/709.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/90_144.png",CCTV4
 http://117.148.179.162/PLTV/88888888/224/3221231615/1.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",中天新闻
@@ -91,6 +89,8 @@ http://txtest-xp2p.p2p.huya.com/src/1448731701-1448731701-6222255276473450496-27
 #EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",韩国动作片
 http://txtest-xp2p.p2p.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cff752ba03f25075ed5740ababccac5d.jpeg",烈探
+https://m3u.if101.tv/xm3u8/84019defb9c88b43cf4d221b07ddbcdc13b98fbd7bb511d48c1f6cb63f2a74ee9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fc8a04184072c4123fbb3d5cc8380859.jpeg",浪子降魔
 https://m3u.if101.tv/xm3u8/ff6d1aa84355034ed130a405a89880878615f8910fdb171bd65b2d64f1567f639921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1287f8e8633fa16ef919184cf267798f.jpeg",热血
@@ -455,6 +455,8 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37aeb820aabb1cc02d4a6e572cf15a8b.jpeg",海兽猎人
+https://m3u.if101.tv/xm3u8/05a2e27f6ba73f0824feaa386152c3a5b5983f3a57d8f5d45cf0a0e9919b22c99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c0aff0deaf776bf58618e8d36c5317bb.jpeg",奇门异人
 https://m3u.if101.tv/xm3u8/df0bfa561c327aeecd6d5558b63c575bafac2de82f1e765aedf051ac608d32319921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3cc73f64deffd56b3279585a4630af77.jpeg",非凡公主
