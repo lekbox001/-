@@ -365,7 +365,6 @@ TV Alhijrah,http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 新闻,#genre#
 8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-AEC,http://iptv12k.com:35461/live/test167/12345/709.m3u8
 CCTV4,http://117.148.179.162/PLTV/88888888/224/3221231615/1.m3u8
 CCTV4,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
