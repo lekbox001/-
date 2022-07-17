@@ -89,6 +89,8 @@ http://txtest-xp2p.p2p.huya.com/src/1448731701-1448731701-6222255276473450496-27
 #EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",韩国动作片
 http://txtest-xp2p.p2p.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ad1251da686676fd378b05e8a7a9e43.jpeg",重案行动之限时拯救
+https://xlzycdn1.sy-precise.com:65/20220716/iEzfj4WH/1083kb/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/019bbe5b99745330739aed0c06fa2ba0.jpeg",雪山飞狐之塞北宝藏
 https://m3u.if101.tv/xm3u8/978baf8f0b06ff7f4dfa6bafde1118c74623a2b3c32c6c15444ecbe63a690e089921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d00ab2b83fd79179bf8214673884abca.jpeg",太极之异兽冢
@@ -395,7 +397,7 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d96
 https://m3u.if101.tv/xm3u8/c0187aa18d70e6fe6041ec244c2ebbcf85f9a2494b5771683e7313427cf6e9b99921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37e14e2a29c611e8cf72d99114636297.jpeg",侏罗纪世界3
-https://new.qqaku.com/20220706/DlvlEbUc/1100kb/hls/playlist_up.m3u8
+https://new.qqaku.com/20220716/KH1INVyI/1100kb/hls/playlist_up.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
 https://new.qqaku.com/20220621/83lZiMMp/1100kb/hls/playlist_up.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fa45578763b308eed180aaf7d551d1c5.jpeg",未来罪行
