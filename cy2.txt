@@ -13,7 +13,7 @@ M3U8,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n,解析
 片库,https://pianku.wang/api.php/provide/vod/at/xml,解析
 番茄,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
 飞鱼,https://app.feiyu5.com/api.php/provide/vod/at/xml/,解析
-无尽,https://wuzy9.com/api.php/provide/vod/at/xml,解析
+无尽,https://api.wujinapi.net/api.php/provide/vod/at/xml/,解析
 酷点,https://kudian8.com/api.php/provide/vod/at/xml,解析
 i酷,http://tv.kudian6.com/api.php/provide/vod/at/xml,解析
 MBO,http://mbomovie.com/api.php/provide/vod/at/xml,解析
